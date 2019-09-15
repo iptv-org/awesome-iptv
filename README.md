@@ -13,25 +13,25 @@ A curated list of resources related to IPTV.
 
 Applications with support of IPTV streams.
 
-##### Windows
+#### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
 
-##### macOS
+#### macOS
 
 - [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Free and open-source portable cross-platform media player.
 - [IINA](https://iina.io/) - Modern media player for macOS.
 
-##### iOS
+#### iOS
 
 - [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) - Complete user defined Advanced IPTV solutions for live and non-live TV/stream.
 - [Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - Chromecast-enabled app which lets you stream your favourites videos from your mobile device to your TV.
 
-##### Android
+#### Android
 
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
 
-##### PlayStation 4
+#### PlayStation 4
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
 
