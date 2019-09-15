@@ -9,7 +9,7 @@ A curated list of resources related to IPTV.
 - [EPG sources](#epg-sources)
 - [Tools](#tools)
 
-### Apps
+## Apps
 
 Applications with support of IPTV streams.
 
@@ -35,14 +35,14 @@ Applications with support of IPTV streams.
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
 
-### Providers
+## Providers
 
 List of IPTV providers.
 
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
 
-### EPG Sources
+## EPG Sources
 
 Sources of EPG (Electronic Program Guide) for IPTV channels.
 
@@ -51,7 +51,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) - Program guide mainly for channels from the CIS.
 - [i.mjh.nz](http://i.mjh.nz/) - Program guide for channels from Australia, New Zealand and South Africa.
 
-### Tools
+## Tools
 
 Useful tools for working with IPTV.
 
