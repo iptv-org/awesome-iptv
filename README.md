@@ -6,6 +6,7 @@ A curated list of resources related to IPTV.
 
 - [Apps](#apps)
 - [Providers](#providers)
+- [Channel data sources](#channel-data-sources)
 - [EPG sources](#epg-sources)
 - [Tools](#tools)
 
@@ -41,6 +42,12 @@ List of IPTV providers.
 
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
+
+## Channel data sources
+
+A list of useful sources containing information about TV channels.
+
+- [LyngSat](https://www.lyngsat.com/) - A database of satellite TV channels containing the information necessary to capture a signal.
 
 ## EPG Sources
 
