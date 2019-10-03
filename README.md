@@ -17,6 +17,7 @@ Applications with support of IPTV streams.
 #### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
+- [Kodi](kodi.tv/) - Free cross-platform media player with library support.
 
 #### macOS
 
