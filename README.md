@@ -42,12 +42,14 @@ List of IPTV providers.
 
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
+- [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
 
 ## Channel data sources
 
 A list of useful sources containing information about TV channels.
 
 - [LyngSat](https://www.lyngsat.com/) - A database of satellite TV channels containing the information necessary to capture a signal.
+- [LyngSat Logo](https://www.lyngsat-logo.com/) - Collection of TV channel logos.
 
 ## EPG Sources
 
