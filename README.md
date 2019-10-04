@@ -44,13 +44,13 @@ List of IPTV providers.
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
-- [Televisión de Costa Rica en vivo](http://www.costaricaenvivo.net/) - All live channels from Costa Rica
-- [Televisión Dominicana en vivo](http://www.televisiondominicanaenvivo.com/) - All live channels from Dominican Republic
-- [Televisión de Honduras en vivo](http://www.canalesdehondurasenvivo.com/) - All live channels from Honduras
-- [Televisión de Guatemala en vivo](https://www.guatemalaenvivo.net/) - All live channels from Guatemala
-- [Canales del Salvador](http://www.canalesdelsalvadorenvivo.com/) - All live channels from El Salvador
-- [Canales de Bolivia en vivo](http://www.canalesbolivianosenvivo.com/) - All live channels from Bolivia
-- [Canales Ecuatorianos en vivo](https://www.canalesecuatorianosenvivo.com/) - All live channels from Ecuador 
+- [Televisión de Costa Rica en vivo](http://www.costaricaenvivo.net/) - Live channels from Costa Rica.
+- [Televisión Dominicana en vivo](http://www.televisiondominicanaenvivo.com/) - Live channels from Dominican Republic.
+- [Televisión de Honduras en vivo](http://www.canalesdehondurasenvivo.com/) - Live channels from Honduras.
+- [Televisión de Guatemala en vivo](https://www.guatemalaenvivo.net/) - Live channels from Guatemala.
+- [Canales del Salvador](http://www.canalesdelsalvadorenvivo.com/) - Live channels from El Salvador.
+- [Canales de Bolivia en vivo](http://www.canalesbolivianosenvivo.com/) - Live channels from Bolivia.
+- [Canales Ecuatorianos en vivo](https://www.canalesecuatorianosenvivo.com/) - Live channels from Ecuador.
 
 ## Channel data sources
 
