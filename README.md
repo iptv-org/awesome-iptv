@@ -44,6 +44,7 @@ List of IPTV providers.
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
+- [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
 - [CXTv](http://www.cxtvlive.com/) - 1308 TV Channels and 287 Cameras from all over the world.
 - [Televisión de Costa Rica en vivo](http://www.costaricaenvivo.net/) - Live channels from Costa Rica.
 - [Televisión Dominicana en vivo](http://www.televisiondominicanaenvivo.com/) - Live channels from Dominican Republic.
