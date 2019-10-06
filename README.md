@@ -53,6 +53,7 @@ List of IPTV providers.
 - [Canales del Salvador](http://www.canalesdelsalvadorenvivo.com/) - Live channels from El Salvador.
 - [Canales de Bolivia en vivo](http://www.canalesbolivianosenvivo.com/) - Live channels from Bolivia.
 - [Canales Ecuatorianos en vivo](https://www.canalesecuatorianosenvivo.com/) - Live channels from Ecuador.
+- [Happy Watch 99](https://happywatch99.com/) - Watch Live Khmer & Thai TV, Movies and Series.
 
 ## Channel data sources
 
