@@ -58,6 +58,7 @@ List of IPTV providers.
 - [Canales Ecuatorianos en vivo](https://www.canalesecuatorianosenvivo.com/) - Live channels from Ecuador.
 - [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
 - [Haiti Broadcasting](https://hbiptv.com/) - Live channels from Haiti.
+- [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
 
 ## Channel data sources
 
