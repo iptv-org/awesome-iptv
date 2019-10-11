@@ -59,6 +59,7 @@ List of IPTV providers.
 - [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
 - [Haiti Broadcasting](https://hbiptv.com/) - Live channels from Haiti.
 - [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
+- [Connecktik TV](http://connectik.tv/) - Live TV Channels from Cameroon
 
 ## Channel data sources
 
