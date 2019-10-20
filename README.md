@@ -35,6 +35,8 @@ Applications with support of IPTV streams.
 #### Android
 
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
+- [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
+  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 
 #### PlayStation 4
 
