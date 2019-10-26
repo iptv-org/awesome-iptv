@@ -62,6 +62,7 @@ List of IPTV providers.
 - [Haiti Broadcasting](https://hbiptv.com/) - Live channels from Haiti.
 - [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
 - [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
+- [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
 
 ## Channel data sources
 
