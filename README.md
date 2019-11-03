@@ -63,6 +63,7 @@ List of IPTV providers.
 - [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
 - [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
 - [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
+- [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
 
 ## Channel data sources
 
