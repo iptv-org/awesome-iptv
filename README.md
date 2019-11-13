@@ -14,6 +14,10 @@ A curated list of resources related to IPTV.
 
 Applications with support of IPTV streams.
 
+#### Web
+
+- [TVflix](https://tvflix.co) - All IPtv channels in your browser.
+
 #### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
