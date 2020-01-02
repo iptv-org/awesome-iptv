@@ -65,6 +65,7 @@ List of IPTV providers.
 - [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
 - [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
 - [TV Flix](https://tvflix.co) - 8000+ TV Stations in your browser.
+- [Centraltv.fr](http://www.centraltv.fr/) - Live TV and radio broadcasts in French.
 
 ## Channel data sources
 
