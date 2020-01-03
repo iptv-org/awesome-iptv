@@ -83,6 +83,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [epg.streamstv.me](http://epg.streamstv.me/epg/) - Program guides for channels from Eurasia and North America.
 - [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) - Program guide mainly for channels from the CIS.
 - [i.mjh.nz](http://i.mjh.nz/) - Program guide for channels from Australia, New Zealand and South Africa.
+- [epg.51zmt.top](http://epg.51zmt.top:8000/) - Program guides mainly for channels from China and some international ones.
 
 ## Tools
 
