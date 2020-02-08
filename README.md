@@ -42,6 +42,10 @@ Applications with support of IPTV streams.
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
 
+#### Web
+
+- [Moko IPTV Player](http://mokoweb.xyz/mokoiptv/watch.php) - IPTV Video Streaming Website.
+
 ## Providers
 
 List of IPTV providers.
