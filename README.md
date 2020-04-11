@@ -24,6 +24,7 @@ Applications with support of IPTV streams.
 
 - [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Free and open-source portable cross-platform media player.
 - [IINA](https://iina.io/) - Modern media player for macOS.
+- [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675) - Free media player for Mac OS.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 
