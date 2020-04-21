@@ -78,6 +78,7 @@ A list of useful sources containing information about TV channels.
 - [LyngSat Logo](https://www.lyngsat-logo.com/) - Collection of TV channel logos.
 - [TV Address](http://www.tv-address.com/) - TV channels info.
 - [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
+- [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
 
 ## EPG Sources
 
