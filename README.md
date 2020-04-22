@@ -32,12 +32,15 @@ Applications with support of IPTV streams.
 
 - [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) - Complete user defined Advanced IPTV solutions for live and non-live TV/stream.
 - [Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - Chromecast-enabled app which lets you stream your favourites videos from your mobile device to your TV.
+- [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
 
 #### Android
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
+- [	
+Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp&hl=en) - Set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 
 #### PlayStation 4
 
