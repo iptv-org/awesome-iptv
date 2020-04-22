@@ -50,8 +50,14 @@ Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.p
 
 List of IPTV providers.
 
+#### Paid
+
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
+- [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
+
+#### Free
+
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
 - [CXTv](http://www.cxtvlive.com/) - 1308 TV Channels and 287 Cameras from all over the world.
@@ -67,11 +73,12 @@ List of IPTV providers.
 - [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
 - [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
 - [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
-- [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
 - [TV Flix](https://tvflix.co) - 8000+ TV Stations in your browser.
 - [Centraltv.fr](http://www.centraltv.fr/) - Live TV and radio broadcasts in French.
 - [TV Livestream](https://tv-livestream.online/) - Live TV channels from Germany.
 - [FreeStreamsLive](http://freestreams-live1.com/) - Sports TV channels from all over the world.
+- [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
+- [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
 
 ## Channel data sources
 
@@ -80,8 +87,6 @@ A list of useful sources containing information about TV channels.
 - [LyngSat](https://www.lyngsat.com/) - A database of satellite TV channels containing the information necessary to capture a signal.
 - [LyngSat Logo](https://www.lyngsat-logo.com/) - Collection of TV channel logos.
 - [TV Address](http://www.tv-address.com/) - TV channels info.
-- [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
-- [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
 
 ## EPG Sources
 
