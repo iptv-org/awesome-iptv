@@ -57,6 +57,7 @@ List of IPTV providers.
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
 - [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
+- [IPTV Plug](https://iptvplug.net/) - Over 6000 live TV channels + 50000 Movies & TV Shows (VOD) including PPV fights!
 
 #### Free
 
