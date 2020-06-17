@@ -18,7 +18,7 @@ Applications with support of IPTV streams.
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
-- [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
+  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 
 #### macOS
 
@@ -26,7 +26,7 @@ Applications with support of IPTV streams.
 - [IINA](https://iina.io/) - Modern media player for macOS.
 - [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675) - Free media player for Mac OS.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
-- [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
+  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 
 #### iOS
 
@@ -38,7 +38,7 @@ Applications with support of IPTV streams.
 
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
-- [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
+  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
 - [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp&hl=en) - Set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
@@ -87,10 +87,10 @@ List of IPTV providers.
 
 A list of useful sources containing information about TV channels.
 
-- [IPTV-org](https://iptv-org.netlify.app) - A React application that compiles `IPTV` repository's `README.md` into `HTML`, categorizes `M3U` listing by types and allow copy to clipboard feature for users.
 - [LyngSat](https://www.lyngsat.com/) - A database of satellite TV channels containing the information necessary to capture a signal.
 - [LyngSat Logo](https://www.lyngsat-logo.com/) - Collection of TV channel logos.
 - [TV Address](http://www.tv-address.com/) - TV channels info.
+- [IPTV](https://iptv-org.netlify.app/) - A React application that compiles IPTV repository's README.md into HTML, categorizes M3U listing by types and allow copy to clipboard feature for users.
 
 ## EPG Sources
 
