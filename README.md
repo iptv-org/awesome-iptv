@@ -48,7 +48,7 @@ Applications with support of IPTV streams.
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
 
-#### Online
+#### Web
 
 - [M3U8Player](https://m3u8player.netlify.app) - A minimal React player to play M3U8 URL online.
 
