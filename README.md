@@ -50,7 +50,7 @@ Applications with support of IPTV streams.
 
 #### Online
 
-- [M3UPlayer](https://m3uplayer.netlify.app) - A minimal React player to play M3U8 URL online.
+- [M3U8Player](https://m3u8player.netlify.app) - A minimal React player to play M3U8 URL online.
 
 ## Providers
 
