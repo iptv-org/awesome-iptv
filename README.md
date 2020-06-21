@@ -50,7 +50,7 @@ Applications with support of IPTV streams.
 
 #### Web
 
-- [M3U8Player](https://m3u8player.netlify.app) - A minimal React player to play M3U8 URL online.
+- [Jackal](https://jackal.netlify.app) - React application that list all IPTV channels and feature to play these streams, allow users to stream external M3U8 URL. For unsupported devices, application provide third-party link where user can watch the stream.
 
 ## Providers
 
