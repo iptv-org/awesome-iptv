@@ -63,6 +63,8 @@ List of IPTV providers.
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
 - [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
 - [IPTV Plug](https://iptvplug.net/) - Over 6000 live TV channels + 50000 Movies & TV Shows (VOD) including PPV fights.
+- [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
+- [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
 
 #### Free
 
@@ -76,11 +78,9 @@ List of IPTV providers.
 - [Canales del Salvador](http://www.canalesdelsalvadorenvivo.com/) - Live channels from El Salvador.
 - [Canales de Bolivia en vivo](http://www.canalesbolivianosenvivo.com/) - Live channels from Bolivia.
 - [Canales Ecuatorianos en vivo](https://www.canalesecuatorianosenvivo.com/) - Live channels from Ecuador.
-- [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
 - [Haiti Broadcasting](https://hbiptv.com/) - Live channels from Haiti.
 - [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
 - [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
-- [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
 - [TV Flix](https://tvflix.co) - 8000+ TV Stations in your browser.
 - [Centraltv.fr](http://www.centraltv.fr/) - Live TV and radio broadcasts in French.
 - [TV Livestream](https://tv-livestream.online/) - Live TV channels from Germany.
