@@ -87,6 +87,7 @@ List of IPTV providers.
 - [FreeStreamsLive](http://freestreams-live1.com/) - Sports TV channels from all over the world.
 - [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
 - [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
+- [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 
 ## Channel data sources
 
