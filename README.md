@@ -89,6 +89,7 @@ List of IPTV providers.
 - [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
 - [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
+- [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
 
 ## Channel data sources
 
