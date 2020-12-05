@@ -20,6 +20,7 @@ Applications with support of IPTV streams.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Free and open-source video and audio player for Windows.
+- [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 
 #### macOS
 
@@ -34,6 +35,7 @@ Applications with support of IPTV streams.
 - [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) - Complete user defined Advanced IPTV solutions for live and non-live TV/stream.
 - [Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - Chromecast-enabled app which lets you stream your favourites videos from your mobile device to your TV.
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
+- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - The best media player in the world.
 
 #### Android
 
