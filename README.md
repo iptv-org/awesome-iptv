@@ -46,6 +46,7 @@ Applications with support of IPTV streams.
 - [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp&hl=en) - Set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
+- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
 
 #### PlayStation 4
 
