@@ -43,6 +43,7 @@ Applications with support of IPTV streams.
 - [Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - Chromecast-enabled app which lets you stream your favourites videos from your mobile device to your TV.
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
 - [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
+- [Fasto TV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source IPTV client, with support for VOD, favorites list and EPG.
 
 #### Android
 
@@ -54,6 +55,7 @@ Applications with support of IPTV streams.
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
+- [Fasto TV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source IPTV client, with support for VOD, favorites list and EPG.
 
 #### PlayStation 4
 
