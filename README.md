@@ -21,6 +21,7 @@ Applications with support of IPTV streams.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Free and open-source video and audio player for Windows.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
+- [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 
 #### macOS
 
@@ -29,6 +30,7 @@ Applications with support of IPTV streams.
 - [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675) - Free media player for Mac OS.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
+- [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 
 #### Linux
 
@@ -36,6 +38,7 @@ Applications with support of IPTV streams.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - A Free IPTV streaming application with support for live TV, movies and series.
+- [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 
 #### iOS
 
