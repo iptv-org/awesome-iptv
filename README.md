@@ -50,7 +50,6 @@ Applications with support of IPTV streams.
 
 #### Android
 
-- [IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv)
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
@@ -62,6 +61,7 @@ Applications with support of IPTV streams.
 - [FastoTV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android platform.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
+- [IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv)
 
 #### PlayStation 4
 
