@@ -62,7 +62,11 @@ Applications with support of IPTV streams.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) - The player allows you to watch IPTV from your Internet service provider or free live TV channels from any other source in the web.
 - [CosmiTV Player](https://play.google.com/store/apps/details?id=com.cosmiquest.tv) - IPTV Player and DVR for Android that resembles the cable tv box.
+- [SS IPTV](https://play.google.com/store/apps/details?id=com.ssiptv.tvapp) - Free multi-purpose player for playing video in local network or through internet.
 
+#### Smart TV
+
+- [SS IPTV](https://ss-iptv.com/) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
 #### PlayStation 4
 
