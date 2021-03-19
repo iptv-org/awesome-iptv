@@ -55,13 +55,13 @@ Applications with support of IPTV streams.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
 - [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp&hl=en) - Set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
-- [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
 - [FastoTV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android platform.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) - The player allows you to watch IPTV from your Internet service provider or free live TV channels from any other source in the web.
+- [CosmiTV Player](https://play.google.com/store/apps/details?id=com.cosmiquest.tv) - IPTV Player and DVR for Android that resembles the cable tv box.
 - [SS IPTV](https://play.google.com/store/apps/details?id=com.ssiptv.tvapp) - Free multi-purpose player for playing video in local network or through internet.
 
 #### Smart TV
