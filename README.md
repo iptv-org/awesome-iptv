@@ -63,6 +63,17 @@ Applications with support of IPTV streams.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) - The player allows you to watch IPTV from your Internet service provider or free live TV channels from any other source in the web.
 
+#### TV
+
+- [SS IPTV](https://ss-iptv.com/) - Simple Smart IPTV is one of the most popular Smart TV applications in CIS, South America and Europe. SS IPTV has become the first app of LG Smart World, which provided opportunity of IPTV viewing for its users. 
+
+    | Smart TV  | App status |
+    | ------------- | ------------- |
+    | LG  | Available on LG Smart World Store  |
+    | Samsung  | Available via USB stick  |
+    | Philips  | App in beta-testing  |
+    | Sony  | App in beta-testing  |
+
 #### PlayStation 4
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
