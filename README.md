@@ -62,17 +62,11 @@ Applications with support of IPTV streams.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android platform.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) - The player allows you to watch IPTV from your Internet service provider or free live TV channels from any other source in the web.
+- [SS IPTV](https://play.google.com/store/apps/details?id=com.ssiptv.tvapp) - Free multi-purpose player for playing video in local network or through internet.
 
-#### TV
+#### Smart TV
 
-- [SS IPTV](https://ss-iptv.com/) - Simple Smart IPTV is one of the most popular Smart TV applications in CIS, South America and Europe. SS IPTV has become the first app of LG Smart World, which provided opportunity of IPTV viewing for its users. 
-
-    | Smart TV  | App status |
-    | ------------- | ------------- |
-    | LG  | Available on LG Smart World Store  |
-    | Samsung  | Available via USB stick  |
-    | Philips  | App in beta-testing  |
-    | Sony  | App in beta-testing  |
+- [SS IPTV](https://ss-iptv.com/) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
 #### PlayStation 4
 
