@@ -76,7 +76,7 @@ Applications with support of IPTV streams.
 
 - [Jackal](https://jackal.netlify.app) - React application that list all IPTV channels and feature to play these streams, allow users to stream external M3U8 URL.
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
-- [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels 
+- [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 
 ## Providers
 
