@@ -39,6 +39,7 @@ Applications with support of IPTV streams.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - A Free IPTV streaming application with support for live TV, movies and series.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
+- [FreetuxTV](https://github.com/freetuxtv/freetuxtv) - Internet television and radio player.
 
 #### iOS
 
