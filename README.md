@@ -14,6 +14,13 @@ A curated list of resources related to IPTV.
 
 Applications with support of IPTV streams.
 
+#### Web
+
+- [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
+- [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
+- [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
+- [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
+
 #### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
@@ -72,20 +79,13 @@ Applications with support of IPTV streams.
 
 - [SS IPTV](https://ss-iptv.com/) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
-#### PlayStation 4
+#### PlayStation
 
 - [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
 
 #### Xbox
 
 - [WhatsUp TV](https://www.microsoft.com/ru-ru/p/whatsup-tv/9pggvdsbtfvs?activetab=pivot:overviewtab) - Player for IPTV (.m3u) playlists.
-
-#### Web
-
-- [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
-- [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
-- [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
-- [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 
 ## Providers
 
