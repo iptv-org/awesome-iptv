@@ -76,6 +76,7 @@ Applications with support of IPTV streams.
 - [CosmiTV Player](https://play.google.com/store/apps/details?id=com.cosmiquest.tv) - IPTV Player and DVR for Android that resembles the cable tv box.
 - [SS IPTV](https://play.google.com/store/apps/details?id=com.ssiptv.tvapp) - Free multi-purpose player for playing video in local network or through internet.
 - [Free WhatsUp TV](https://play.google.com/store/apps/details?id=au.com.deltaits.freewhatsuptv) - Player for IPTV (.m3u) playlists.
+- [IPTV Connect](https://play.google.com/store/apps/details?id=com.iptv.connect) - Light weight, easy to use IPTV player for android mobiles.
 
 #### Smart TV
 
