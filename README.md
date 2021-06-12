@@ -158,12 +158,15 @@ Useful tools for working with IPTV.
 - [Channelizer.TV](https://channelizer.tv/) - Merge multiple IPTV playlists into one, and select which channels to include in your personal playlist URL.
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
-- [Streamlink IPTV-Query server #1](https://iptv--iptv.repl.co/streamlink) - Permits the end user to get the live playlist of all [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels. This server is maintained by @Nintendocustom.
-How this works : https://iptv--iptv.repl.co/streamlink?url=xxxxxxxx <- Replace the Xs by the URL of any Streamlink supported website.
-- [Streamlink IPTV-Query server #2](https://salvahe.co/headless) - Permits the end user to get the live playlist of all [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels. This server is maintained by @keystroke3.
-How this works : https://salvahe.co/headless?url=xxxxxxxx <- Replace the Xs by the URL of any Streamlink supported website.
-- [Streamlink IPTV-Query server #3](https://query-streamlink.lanesh4d0w.repl.co/iptv-query) - Permits the end user to get the live playlist of all [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels. This server is maintained by @LaneSh4d0w.
-How this works = https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=xxxxxxxxx <- Replace the Xs by the URL of any Streamlink supported website.
+- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+
+## Streamlink Proxy
+
+Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels.
+
+- `https://iptv--iptv.repl.co/streamlink?url=STREAM_URL`
+- `https://salvahe.co/headless?url=STREAM_URL`
+- `https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=STREAM_URL`
 
 ## Contribution
 
