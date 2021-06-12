@@ -159,8 +159,11 @@ Useful tools for working with IPTV.
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
 - [Streamlink IPTV-Query server #1](https://iptv--iptv.repl.co/streamlink) - Permits the end user to get the live playlist of all [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels. This server is maintained by @Nintendocustom.
+How this works : https://iptv--iptv.repl.co/streamlink?url=xxxxxxxx <- Replace the Xs by the URL of any Streamlink supported website.
 - [Streamlink IPTV-Query server #2](https://salvahe.co/headless) - Permits the end user to get the live playlist of all [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels. This server is maintained by @keystroke3.
+How this works : https://salvahe.co/headless?url=xxxxxxxx <- Replace the Xs by the URL of any Streamlink supported website.
 - [Streamlink IPTV-Query server #3](https://query-streamlink.lanesh4d0w.repl.co/iptv-query) - Permits the end user to get the live playlist of all [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels. This server is maintained by @LaneSh4d0w.
+How this works = https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=xxxxxxxxx <- Replace the Xs by the URL of any Streamlink supported website.
 
 ## Contribution
 
