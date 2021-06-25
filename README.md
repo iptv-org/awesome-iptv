@@ -148,6 +148,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [epg.51zmt.top](http://epg.51zmt.top:8000/) - Program guides mainly for channels from China and some international ones.
 - [TDTChannels EPG](https://www.tdtchannels.com/epg/TV.xml) - Program guides for channels from Spain.
 - [XML TV](http://xmltv.bigsb.fr/) - XML program for France.
+- [deepepg](https://www.deepepg.com/) - EPG for China.
 
 ## Tools
 
