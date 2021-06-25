@@ -77,6 +77,7 @@ Applications with support of IPTV streams.
 - [SS IPTV](https://play.google.com/store/apps/details?id=com.ssiptv.tvapp) - Free multi-purpose player for playing video in local network or through internet.
 - [Free WhatsUp TV](https://play.google.com/store/apps/details?id=au.com.deltaits.freewhatsuptv) - Player for IPTV (.m3u) playlists.
 - [TV Player by TechArt](https://play.google.com/store/apps/details?id=com.cy8018.tvplayer) - Open source ad-free IPTV client with language, country and category filtering and a quick list of favorite channels.
+- [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
 
 #### Smart TV
 
@@ -147,6 +148,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [epg.51zmt.top](http://epg.51zmt.top:8000/) - Program guides mainly for channels from China and some international ones.
 - [TDTChannels EPG](https://www.tdtchannels.com/epg/TV.xml) - Program guides for channels from Spain.
 - [XML TV](http://xmltv.bigsb.fr/) - XML program for France.
+- [deepepg](https://www.deepepg.com/) - EPG for China.
 
 ## Tools
 
