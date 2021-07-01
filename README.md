@@ -78,6 +78,7 @@ Applications with support of IPTV streams.
 - [Free WhatsUp TV](https://play.google.com/store/apps/details?id=au.com.deltaits.freewhatsuptv) - Player for IPTV (.m3u) playlists.
 - [TV Player by TechArt](https://play.google.com/store/apps/details?id=com.cy8018.tvplayer) - Open source ad-free IPTV client with language, country and category filtering and a quick list of favorite channels.
 - [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
+- [TV.io Home Streaming](https://play.google.com/store/apps/details?id=com.player.online.tv&gl=GB) - IPTV streaming with Chromcast support and groups chat.
 
 #### Smart TV
 
