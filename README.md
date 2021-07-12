@@ -92,6 +92,7 @@ Applications with support of IPTV streams.
 #### Xbox
 
 - [WhatsUp TV](https://www.microsoft.com/ru-ru/p/whatsup-tv/9pggvdsbtfvs?activetab=pivot:overviewtab) - Player for IPTV (.m3u) playlists.
+- [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - A modern IPTV player for Xbox One.
 
 ## Providers
 
