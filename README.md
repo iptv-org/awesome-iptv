@@ -20,6 +20,7 @@ Applications with support of IPTV streams.
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 - [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
+- [IPTV list](https://shen-yu.github.io/iptv-list) - IPTV list makes it easy to copy and play IPTV channels.
 
 #### Windows
 
