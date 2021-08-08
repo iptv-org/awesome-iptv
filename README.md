@@ -21,6 +21,7 @@ Applications with support of IPTV streams.
 - [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 - [IPTV list](https://shen-yu.github.io/iptv-list) - Makes it easy to copy and play IPTV channels.
+- [IPTV-Streaming](http://iptv-streaming.tk) - IPTV live streaming.
 
 #### Windows
 
