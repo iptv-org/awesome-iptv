@@ -132,6 +132,7 @@ List of IPTV providers.
 - [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
 - [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
+- [photocall](https://photocall.tv/) - Live TV channels from all over the world.
 
 ## Channel data sources
 
@@ -154,6 +155,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [TDTChannels EPG](https://www.tdtchannels.com/epg/TV.xml) - Program guides for channels from Spain.
 - [XML TV](http://xmltv.bigsb.fr/) - XML program for France.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
+- [epgshare01/share01](https://github.com/epgshare01/share01) - Program guides for multiple countries.
 
 ## Tools
 
