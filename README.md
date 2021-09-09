@@ -136,6 +136,7 @@ List of IPTV providers.
 - [photocall](https://photocall.tv/) - Live TV channels from all over the world.
 - [IPTV list](https://shen-yu.github.io/iptv-list) - List of IPTV channels with the option to play them directly in the browser.
 - [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
+- [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
 
 ## Channel data sources
 
