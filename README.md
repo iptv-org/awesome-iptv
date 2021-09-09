@@ -18,9 +18,7 @@ Applications with support of IPTV streams.
 
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
-- [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
-- [IPTV list](https://shen-yu.github.io/iptv-list) - Makes it easy to copy and play IPTV channels.
 - [IPTV-Streaming](http://iptv-streaming.tk) - IPTV live streaming.
 
 #### Windows
@@ -136,6 +134,8 @@ List of IPTV providers.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
 - [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
 - [photocall](https://photocall.tv/) - Live TV channels from all over the world.
+- [IPTV list](https://shen-yu.github.io/iptv-list) - List of IPTV channels with the option to play them directly in the browser.
+- [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 
 ## Channel data sources
 
