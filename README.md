@@ -20,6 +20,7 @@ Applications with support of IPTV streams.
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 - [IPTV-Streaming](http://iptv-streaming.tk) - IPTV live streaming.
+- [IPTV Stream](http://yielding-meeting.surge.sh) - Watch IPTV online.
 
 #### Windows
 
