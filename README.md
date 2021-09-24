@@ -182,6 +182,7 @@ Permits the end user to get the live playlist of [Streamlink](https://streamlink
 - `https://iptv--iptv.repl.co/streamlink?url=STREAM_URL` (maintained by [@Nintendocustom](https://github.com/Nintendocustom))
 - `https://linkastream.co/headless?url=STREAM_URL` (maintained by [@keystroke3](https://github.com/keystroke3))
 - `https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=STREAM_URL` (maintained by [@LaneSh4d0w](https://github.com/LaneSh4d0w))
+- `https://iptv.dc-team.com/query?url=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra))
 
 ## Contribution
 
