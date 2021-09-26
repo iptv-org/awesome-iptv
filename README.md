@@ -128,7 +128,6 @@ List of IPTV providers.
 - [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
 - [TV Flix](https://tvflix.co) - 8000+ TV Stations in your browser.
 - [Centraltv.fr](http://www.centraltv.fr/) - Live TV and radio broadcasts in French.
-- [TV Livestream](https://tv-livestream.online/) - Live TV channels from Germany.
 - [FreeStreamsLive](http://freestreams-live1.com/) - Sports TV channels from all over the world.
 - [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
 - [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
