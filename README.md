@@ -9,6 +9,7 @@ A curated list of resources related to IPTV.
 - [Channel data sources](#channel-data-sources)
 - [EPG sources](#epg-sources)
 - [Tools](#tools)
+- [Streamlink Proxy](#streamlink-proxy)
 
 ## Apps
 
