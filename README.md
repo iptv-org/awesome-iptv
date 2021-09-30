@@ -127,7 +127,6 @@ List of IPTV providers.
 - [Haiti Broadcasting](https://hbiptv.com/) - Live channels from Haiti.
 - [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
 - [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
-- [TV Flix](https://tvflix.co) - 8000+ TV Stations in your browser.
 - [Centraltv.fr](http://www.centraltv.fr/) - Live TV and radio broadcasts in French.
 - [FreeStreamsLive](http://freestreams-live1.com/) - Sports TV channels from all over the world.
 - [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
