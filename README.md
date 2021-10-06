@@ -173,6 +173,7 @@ Useful tools for working with IPTV.
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+- [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 
 ## Streamlink Proxy
 
