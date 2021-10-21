@@ -169,7 +169,6 @@ Useful tools for working with IPTV.
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
 - [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
 - [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
-- [Channelizer.TV](https://channelizer.tv/) - Merge multiple IPTV playlists into one, and select which channels to include in your personal playlist URL.
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
