@@ -137,6 +137,7 @@ List of IPTV providers.
 - [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
 - [TNT en direct](https://www.tntendirect.com/) - Live TNT channels from France.
+- [m3u.cl](http://m3u.cl/) - Live TV and radio channels from Chile, Argentina, Peru, Brazil, Bolivia, Colombia, Venezuela, Mexico and Spain.
 
 ## Channel data sources
 
