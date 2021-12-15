@@ -132,6 +132,7 @@ List of IPTV providers.
 - [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
 - [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
+- [m3u.cl](http://m3u.cl/) - Live TV and radio channels from Chile. Also Argentina, Peru, Brazil, Bolivia, Colombia, Venezuela, Mexico and Spain.
 - [photocall](https://photocall.tv/) - Live TV channels from all over the world.
 - [IPTV list](https://shen-yu.github.io/iptv-list) - List of IPTV channels with the option to play them directly in the browser.
 - [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
