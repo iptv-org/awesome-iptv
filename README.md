@@ -22,6 +22,7 @@ Applications with support of IPTV streams.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 - [IPTV-Streaming](http://iptv-streaming.tk) - IPTV live streaming.
 - [IPTV Stream](http://yielding-meeting.surge.sh) - Watch IPTV online.
+- [Peer to Peer IPTV Stream](http://tvpeer.github.io/) - Watch P2P IPTV online from your browser.
 
 #### Windows
 
