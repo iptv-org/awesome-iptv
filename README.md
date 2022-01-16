@@ -33,7 +33,6 @@ Applications with support of IPTV streams.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [WhatsUp TV](https://www.microsoft.com/ru-ru/p/whatsup-tv/9pggvdsbtfvs?activetab=pivot:overviewtab) - Player for IPTV (.m3u) playlists.
-- [Astroncia IPTV](https://gitlab.com/astroncia/iptv) - Free cross-platform IPTV player with EPG support.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 
 #### macOS
@@ -54,7 +53,7 @@ Applications with support of IPTV streams.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - A Free IPTV streaming application with support for live TV, movies and series.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [FreetuxTV](https://github.com/freetuxtv/freetuxtv) - Internet television and radio player.
-- [Astroncia IPTV](https://gitlab.com/astroncia/iptv) - Free cross-platform IPTV player with EPG support.
+- [Astroncia IPTV](https://gitlab.com/astroncia/iptv) - IPTV player with EPG support.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 
 #### iOS
