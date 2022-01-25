@@ -146,7 +146,6 @@ A list of useful sources containing information about TV channels.
 - [LyngSat](https://www.lyngsat.com/) - A database of satellite TV channels containing the information necessary to capture a signal.
 - [LyngSat Logo](https://www.lyngsat-logo.com/) - Collection of TV channel logos.
 - [TV Address](http://www.tv-address.com/) - TV channels info.
-- [IPTV](https://iptv-org.netlify.app/) - A React application that compiles IPTV repository's README.md into HTML, categorizes M3U listing by types and allow copy to clipboard feature for users.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 
 ## EPG Sources
