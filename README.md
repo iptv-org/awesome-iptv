@@ -69,6 +69,7 @@ Applications with support of IPTV streams.
 
 #### Android
 
+- [ProgTV](https://play.google.com/store/apps/details?id=com.progdvb.progtva) - IPTV player, supports: multiple active playlists, HW accel mode, timeshift, search, categories, auto quality change, swipe left\right quick channel change, cross-platform, no ads just a 3sec app start splash screen
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv) - IPTV player for Android platform.
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
