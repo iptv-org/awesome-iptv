@@ -135,7 +135,7 @@ List of IPTV providers.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
 - [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
 - [photocall](https://photocall.tv/) - Live TV channels from all over the world.
-- [IPTV list](https://shen-yu.github.io/iptv-list) - List of IPTV channels with the option to play them directly in the browser.
+- [IPTV list](https://iptvlist.ml/) - List of IPTV channels with the option to play them directly in the browser.
 - [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
 - [TNT en direct](https://www.tntendirect.com/) - Live TNT channels from France.
