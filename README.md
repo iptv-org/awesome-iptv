@@ -87,6 +87,7 @@ Applications with support of IPTV streams.
 - [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
 - [TV.io Home Streaming](https://play.google.com/store/apps/details?id=com.player.online.tv&gl=GB) - IPTV streaming with Chromcast support and groups chat.
 - [Insta IPTV](https://play.google.com/store/apps/details?id=com.iptv.insta_iptv) - Watch Live TV on your phone.
+- [ProgTV Android](https://play.google.com/store/apps/details?id=com.progdvb.progtva) - The simple but convenient and universal software for watching TV and listening to radio channels over Internet or local network.
 
 #### Smart TV
 
