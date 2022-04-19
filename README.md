@@ -182,7 +182,7 @@ Useful tools for working with IPTV.
 
 Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels.
 
-- `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra), Streamlink base used : https://github.com/LaneSh4d0w/streamlink)
+- `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra); based on: [LaneSh4d0w/streamlink](https://github.com/LaneSh4d0w/streamlink))
 
 ## Contribution
 
