@@ -181,7 +181,6 @@ Useful tools for working with IPTV.
 ## Streamlink Proxy
 
 Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels.
-The link presented below is based on [this implementation](https://github.com/LaneSh4d0w/query-streamlink)
 
 - `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra), Streamlink base used : https://github.com/LaneSh4d0w/streamlink)
 
