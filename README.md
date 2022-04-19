@@ -182,11 +182,7 @@ Useful tools for working with IPTV.
 
 Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels.
 
-- `https://iptv--iptv.repl.co/streamlink?url=STREAM_URL` (maintained by [@Nintendocustom](https://github.com/Nintendocustom))
-- `https://linkastream.co/headless?url=STREAM_URL` (maintained by [@keystroke3](https://github.com/keystroke3))
-- `https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=STREAM_URL` (maintained by [@LaneSh4d0w](https://github.com/LaneSh4d0w))
-- `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra))
-- `https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=STREAM_URL` (maintained by [@joaquinito2048](https://github.com/joaquinito2048))
+- `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra); based on: [LaneSh4d0w/streamlink](https://github.com/LaneSh4d0w/streamlink))
 
 ## Contribution
 
