@@ -177,6 +177,7 @@ Useful tools for working with IPTV.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
+- [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlist into one, automatic updates, access logs, short links and more.
 
 ## Streamlink Proxy
 
