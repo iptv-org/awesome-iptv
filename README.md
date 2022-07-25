@@ -18,9 +18,8 @@ Applications with support of IPTV streams.
 #### Web
 
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
-- [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
+- [IPTV Player](https://dev-iptv.web.app/) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
-- [IPTV-Streaming](http://iptv-streaming.tk) - IPTV live streaming.
 - [IPTV Stream](http://yielding-meeting.surge.sh) - Watch IPTV online.
 - [TVPeer](http://tvpeer.github.io/) - Watch Peer to Peer (P2P) IPTV online from your browser.
 - [World TV Mobile](https://worldtvmobile.com/) - Search for the channel you prefer to tune in and stream in one click.
@@ -30,11 +29,9 @@ Applications with support of IPTV streams.
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Free and open-source video and audio player for Windows.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
-- [WhatsUp TV](https://www.microsoft.com/ru-ru/p/whatsup-tv/9pggvdsbtfvs?activetab=pivot:overviewtab) - Player for IPTV (.m3u) playlists.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 
 #### macOS
@@ -43,7 +40,6 @@ Applications with support of IPTV streams.
 - [IINA](https://iina.io/) - Modern media player for macOS.
 - [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675) - Free media player for Mac OS.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 
@@ -51,7 +47,6 @@ Applications with support of IPTV streams.
 
 - [VLC for Linux](https://www.videolan.org/vlc/#download) - Free and open-source portable cross-platform media player.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - A Free IPTV streaming application with support for live TV, movies and series.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [FreetuxTV](https://github.com/freetuxtv/freetuxtv) - Internet television and radio player.
@@ -60,7 +55,6 @@ Applications with support of IPTV streams.
 #### iOS
 
 - [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) - Complete user defined Advanced IPTV solutions for live and non-live TV/stream.
-- [Movie Stream: Watch Smart IPTV](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - Chromecast-enabled app which lets you stream your favourites videos from your mobile device to your TV.
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
 - [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
 - [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
@@ -70,35 +64,23 @@ Applications with support of IPTV streams.
 
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv) - IPTV player for Android platform.
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
 - [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
-- [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp&hl=en) - Set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
 - [FastoTV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android platform.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
-- [IPTV](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) - The player allows you to watch IPTV from your Internet service provider or free live TV channels from any other source in the web.
 - [CosmiTV Player](https://play.google.com/store/apps/details?id=com.cosmiquest.tv) - IPTV Player and DVR for Android that resembles the cable tv box.
-- [SS IPTV](https://play.google.com/store/apps/details?id=com.ssiptv.tvapp) - Free multi-purpose player for playing video in local network or through internet.
-- [Free WhatsUp TV](https://play.google.com/store/apps/details?id=au.com.deltaits.freewhatsuptv) - Player for IPTV (.m3u) playlists.
-- [TV Player by TechArt](https://play.google.com/store/apps/details?id=com.cy8018.tvplayer) - Open source ad-free IPTV client with language, country and category filtering and a quick list of favorite channels.
 - [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
 - [TV.io Home Streaming](https://play.google.com/store/apps/details?id=com.player.online.tv&gl=GB) - IPTV streaming with Chromcast support and groups chat.
-- [Insta IPTV](https://play.google.com/store/apps/details?id=com.iptv.insta_iptv) - Watch Live TV on your phone.
 - [ProgTV Android](https://play.google.com/store/apps/details?id=com.progdvb.progtva) - The simple but convenient and universal software for watching TV and listening to radio channels over Internet or local network.
 
 #### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
-#### PlayStation
-
-- [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) - Client-server media player. In order to watch IPTV through Plex App, you can use the [Cigaras/IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) plugin.
-
 #### Xbox
 
-- [WhatsUp TV](https://www.microsoft.com/ru-ru/p/whatsup-tv/9pggvdsbtfvs?activetab=pivot:overviewtab) - Player for IPTV (.m3u) playlists.
 - [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - A modern IPTV player for Xbox One.
 
 ## Providers
@@ -109,7 +91,6 @@ List of IPTV providers.
 
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
-- [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
 - [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
 - [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
 
@@ -128,15 +109,12 @@ List of IPTV providers.
 - [Haiti Broadcasting](https://hbiptv.com/) - Live channels from Haiti.
 - [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
 - [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
-- [Centraltv.fr](http://www.centraltv.fr/) - Live TV and radio broadcasts in French.
-- [FreeStreamsLive](http://freestreams-live1.com/) - Sports TV channels from all over the world.
+- [FreeStreamsLive](http://yg.freestreams-live1.com/) - Sports TV channels from all over the world.
 - [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
 - [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
 - [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
-- [photocall](https://photocall.tv/) - Live TV channels from all over the world.
 - [IPTV list](https://iptvlist.ml/) - List of IPTV channels with the option to play them directly in the browser.
-- [Tele.Lollo](https://farina00.github.io/tele.lollo) - Tiny website to stream a curated list of italian television channels.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
 - [TNT en direct](https://www.tntendirect.com/) - Live TNT channels from France.
 - [m3u.cl](http://m3u.cl/) - Live TV and radio channels from Chile, Argentina, Peru, Brazil, Bolivia, Colombia, Venezuela, Mexico and Spain.
@@ -147,19 +125,17 @@ A list of useful sources containing information about TV channels.
 
 - [LyngSat](https://www.lyngsat.com/) - A database of satellite TV channels containing the information necessary to capture a signal.
 - [LyngSat Logo](https://www.lyngsat-logo.com/) - Collection of TV channel logos.
-- [TV Address](http://www.tv-address.com/) - TV channels info.
+- [TV Address](https://www.tv-address.com/) - TV channels info.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 
 ## EPG Sources
 
 Sources of EPG (Electronic Program Guide) for IPTV channels.
 
-- [EPG for IPTV](https://www.iptv-epg.com/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
-- [epg.streamstv.me](http://epg.streamstv.me/epg/) - Program guides for channels from Eurasia and North America.
+- [EPG for IPTV](https://epg.best/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
 - [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) - Program guide mainly for channels from the CIS.
 - [i.mjh.nz](http://i.mjh.nz/) - Program guide for channels from Australia, New Zealand and South Africa.
 - [epg.51zmt.top](http://epg.51zmt.top:8000/) - Program guides mainly for channels from China and some international ones.
-- [TDTChannels EPG](https://www.tdtchannels.com/epg/TV.xml) - Program guides for channels from Spain.
 - [XML TV](http://xmltv.bigsb.fr/) - XML program for France.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
 - [epgshare01/share01](https://github.com/epgshare01/share01) - Program guides for multiple countries.
@@ -180,7 +156,7 @@ Useful tools for working with IPTV.
 
 ## Streamlink Proxy
 
-Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/plugin_matrix.html)-supported channels.
+Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/index.html)-supported channels.
 
 - `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra); based on: [LaneSh4d0w/streamlink](https://github.com/LaneSh4d0w/streamlink))
 
