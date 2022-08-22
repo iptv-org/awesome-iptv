@@ -140,6 +140,7 @@ List of IPTV providers.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
 - [TNT en direct](https://www.tntendirect.com/) - Live TNT channels from France.
 - [m3u.cl](http://m3u.cl/) - Live TV and radio channels from Chile, Argentina, Peru, Brazil, Bolivia, Colombia, Venezuela, Mexico and Spain.
+- [EPG.pm](https://epg.pm/test_channel_page.html) - Live TV channels from all over the world.
 
 ## Channel data sources
 
@@ -163,6 +164,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [XML TV](http://xmltv.bigsb.fr/) - XML program for France.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
 - [epgshare01/share01](https://github.com/epgshare01/share01) - Program guides for multiple countries.
+- [EPG.pm](https://epg.pm/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
 
 ## Tools
 
