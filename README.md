@@ -90,7 +90,7 @@ Applications with support of IPTV streams.
 
 #### Smart TV
 
-- [SS IPTV](https://ss-iptv.com/) - Smart TV application which provided opportunity of IPTV viewing for its users.
+- [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
 #### PlayStation
 
