@@ -68,13 +68,13 @@ Applications with support of IPTV streams.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
 - [FastoTV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
-- [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for tvs. not mobiles
-- [IPTV Stream Player](https://play.google.com/store/apps/details?id=com.iptvstreamplayer.IPTVStreamPlayer) - IPTV player for mobile.
+- [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [CosmiTV Player](https://play.google.com/store/apps/details?id=com.cosmiquest.tv) - IPTV Player and DVR for Android that resembles the cable tv box.
 - [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
 - [TV.io Home Streaming](https://play.google.com/store/apps/details?id=com.player.online.tv&gl=GB) - IPTV streaming with Chromcast support and groups chat.
 - [ProgTV Android](https://play.google.com/store/apps/details?id=com.progdvb.progtva) - The simple but convenient and universal software for watching TV and listening to radio channels over Internet or local network.
+- [IPTV Stream Player](https://play.google.com/store/apps/details?id=com.iptvstreamplayer.IPTVStreamPlayer) - IPTV player for mobile.
 
 #### Smart TV
 
