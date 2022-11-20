@@ -83,6 +83,10 @@ Applications with support of IPTV streams.
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
+#### Apple TV
+
+- [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
+
 #### Xbox
 
 - [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - A modern IPTV player for Xbox One.
