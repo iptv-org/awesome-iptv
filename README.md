@@ -24,6 +24,7 @@ Applications with support of IPTV streams.
 - [TVPeer](http://tvpeer.github.io/) - Watch Peer to Peer (P2P) IPTV online from your browser.
 - [World TV Mobile](https://worldtvmobile.com/) - Search for the channel you prefer to tune in and stream in one click.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
+- [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 
 #### Windows
 
