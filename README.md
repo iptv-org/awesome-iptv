@@ -79,6 +79,7 @@ Applications with support of IPTV streams.
 - [IPTV Stream Player](https://play.google.com/store/apps/details?id=com.iptvstreamplayer.IPTVStreamPlayer) - IPTV player for mobile.
 - [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) - Free IPTV player for any device (phone, tablet, TV, TV-box).
 - [DangoPlayer](https://play.google.com/store/apps/details?id=com.aleapps.videotime) - A simple lightweight and fast video player and IPTV client for Android.
+- [DangoPlayer TV](https://play.google.com/store/apps/details?id=com.aleapps.videotimetv) - Port of the DangoPlayer IPTV client for Android TV and Google TV.
 
 #### Smart TV
 
