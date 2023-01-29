@@ -52,8 +52,8 @@ Applications with support of IPTV streams.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [FreetuxTV](https://github.com/freetuxtv/freetuxtv) - Internet television and radio player.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
-- [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
 - [IPTV Desktop](https://github.com/0x0is1/iptv-desktop) - Watch TV channels on your device via internet from all over the world for free.
+- [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
 
 #### iOS
 
