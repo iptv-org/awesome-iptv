@@ -97,11 +97,10 @@ List of IPTV providers.
 
 #### Paid
 
-- [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD). (Trustpilot has disabled their review page, proceed with caution !)
-- [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days. [(reviews)](https://trustpilot.com/review/edem.tv)
-- [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries. [(reviews)](https://trustpilot.com/review/bestbuyiptv.com)
-- [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series. (No reviews available, proceed with caution !)
-- [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels. [(reviews)](https://trustpilot.com/review/necroiptv.com)
+- [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
+- [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries. ([reviews](https://trustpilot.com/review/bestbuyiptv.com))
+- [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
+- [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels. ([reviews](https://trustpilot.com/review/necroiptv.com))
 
 #### Free
 
