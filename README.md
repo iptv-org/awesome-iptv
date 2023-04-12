@@ -9,7 +9,7 @@ A curated list of resources related to IPTV.
 - [Channel data sources](#channel-data-sources)
 - [EPG sources](#epg-sources)
 - [Tools](#tools)
-- [Streamlink Proxy](#streamlink-proxy)
+- [Programming](#programming)
 
 ## Apps
 
@@ -145,6 +145,7 @@ A list of useful sources containing information about TV channels.
 - [TV Address](https://www.tv-address.com/) - TV channels info.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
+- [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
 
 ## EPG Sources
 
@@ -164,21 +165,22 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 Useful tools for working with IPTV.
 
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
-- [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
 - [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
-- [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
-- [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more. (blocked inside the Russian Federation for now)
 - [IPTV Tools](http://www.iptvtools.net/) - A website that provides the necessary tools for IPTV, such as a link checking tool.
 
-## Streamlink Proxy
+## Programming
 
-Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/index.html)-supported channels.
+Libraries and frameworks for working with IPTV data
 
-- `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra); based on: [LaneSh4d0w/streamlink](https://github.com/LaneSh4d0w/streamlink))
+- [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browser
+- [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
+- [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
+- [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
+
 
 ## Contribution
 
