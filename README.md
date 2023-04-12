@@ -54,6 +54,7 @@ Applications with support of IPTV streams.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [IPTV Desktop](https://github.com/0x0is1/iptv-desktop) - Watch TV channels on your device via internet from all over the world for free.
 - [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
+- [yuki-iptv](https://github.com/yuki-iptv/yuki-iptv) - IPTV player with EPG support (Astroncia IPTV fork).
 
 #### iOS
 
