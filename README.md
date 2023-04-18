@@ -25,6 +25,7 @@ Applications with support of IPTV streams.
 - [World TV Mobile](https://worldtvmobile.com/) - Search for the channel you prefer to tune in and stream in one click.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
+- [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 
 #### Windows
 
@@ -63,6 +64,8 @@ Applications with support of IPTV streams.
 - [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
 - [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273) - Player for IPTV (.m3u) playlists.
+- [Smarters Player Lite](https://apps.apple.com/in/app/smarters-player-lite/id1628995509) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+
 
 #### Android
 
@@ -82,6 +85,7 @@ Applications with support of IPTV streams.
 - [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) - Free IPTV player for any device (phone, tablet, TV, TV-box).
 - [DangoPlayer](https://play.google.com/store/apps/details?id=com.aleapps.videotime) - A simple lightweight and fast video player and IPTV client for Android.
 - [DangoPlayer TV](https://play.google.com/store/apps/details?id=com.aleapps.videotimetv) - Port of the DangoPlayer IPTV client for Android TV and Google TV.
+- [IPTV Smarters App](https://www.iptvsmarters.com/#downloads) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 
 #### Smart TV
 
@@ -160,6 +164,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
 - [epgshare01/share01](https://github.com/epgshare01/share01) - Program guides for multiple countries.
 - [EPG.pw](https://epg.pw/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
+- [bevy.be](https://www.bevy.be/epg-guide/) - Free EPG for 2 days, sorted by country.
 
 ## Tools
 
