@@ -7,6 +7,7 @@ A curated list of resources related to IPTV.
 - [Apps](#apps)
 - [Channel data sources](#channel-data-sources)
 - [EPG sources](#epg-sources)
+- [Providers](#providers)
 - [Tools](#tools)
 - [Programming](#programming)
 
@@ -113,6 +114,32 @@ A list of useful sources containing information about TV channels.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
 - [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
+
+## Providers 
+
+- [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
+- [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
+- [CXTv](http://www.cxtvlive.com/) - 1308 TV Channels and 287 Cameras from all over the world.
+- [Televisión de Costa Rica en vivo](http://www.costaricaenvivo.net/) - Live channels from Costa Rica.
+- [Televisión Dominicana en vivo](http://www.televisiondominicanaenvivo.com/) - Live channels from Dominican Republic.
+- [Televisión de Honduras en vivo](http://www.canalesdehondurasenvivo.com/) - Live channels from Honduras.
+- [Televisión de Guatemala en vivo](https://www.guatemalaenvivo.net/) - Live channels from Guatemala.
+- [Canales del Salvador](http://www.canalesdelsalvadorenvivo.com/) - Live channels from El Salvador.
+- [Canales de Bolivia en vivo](http://www.canalesbolivianosenvivo.com/) - Live channels from Bolivia.
+- [Canales Ecuatorianos en vivo](https://www.canalesecuatorianosenvivo.com/) - Live channels from Ecuador.
+- [Haiti Broadcasting](https://hbiptv.com/) - Live channels from Haiti.
+- [AfghanLive TV](http://www.afghanlive.tv/) - Afghan live TV channels.
+- [Connecktik TV](http://connectik.tv/) - Live TV channels from Cameroon.
+- [FreeStreamsLive](http://yg.freestreams-live1.com/) - Sports TV channels from all over the world.
+- [Squid TV](https://www.squidtv.net/) - Guide to live streaming TV channels, broadcasting from around the world.
+- [Online TV](http://tvtvtv.ru/index_eng.php) - Catalogue of online TV from all countries with descriptions.
+- [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
+- [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
+- [IPTV list](https://iptvlist.ml/) - List of IPTV channels with the option to play them directly in the browser.
+- [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
+- [TNT en direct](https://www.tntendirect.com/) - Live TNT channels from France.
+- [m3u.cl](http://m3u.cl/) - Live TV and radio channels from Chile, Argentina, Peru, Brazil, Bolivia, Colombia, Venezuela, Mexico and Spain.
+- [EPG.pw](https://epg.pw/test_channel_page.html) - Live TV channels from all over the world.
 
 ## EPG Sources
 
