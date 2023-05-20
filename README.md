@@ -107,18 +107,7 @@ Applications with support of IPTV streams.
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 
-## Providers
-
-List of IPTV providers.
-
-#### Paid
-
-- [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
-- [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries. ([reviews](https://trustpilot.com/review/bestbuyiptv.com))
-- [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
-- [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels. ([reviews](https://trustpilot.com/review/necroiptv.com))
-
-#### Free
+## Providers 
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
