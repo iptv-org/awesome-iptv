@@ -9,7 +9,7 @@ A curated list of resources related to IPTV.
 - [Channel data sources](#channel-data-sources)
 - [EPG sources](#epg-sources)
 - [Tools](#tools)
-- [Streamlink Proxy](#streamlink-proxy)
+- [Programming](#programming)
 
 ## Apps
 
@@ -25,6 +25,8 @@ Applications with support of IPTV streams.
 - [World TV Mobile](https://worldtvmobile.com/) - Search for the channel you prefer to tune in and stream in one click.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
+- [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [Purple WebPlayer](http://login.purpletv.app) - Free Webplayer to stream content within browser.
 
 #### Windows
 
@@ -54,6 +56,7 @@ Applications with support of IPTV streams.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [IPTV Desktop](https://github.com/0x0is1/iptv-desktop) - Watch TV channels on your device via internet from all over the world for free.
 - [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
+- [yuki-iptv](https://github.com/yuki-iptv/yuki-iptv) - IPTV player with EPG support (Astroncia IPTV fork).
 
 #### iOS
 
@@ -62,6 +65,9 @@ Applications with support of IPTV streams.
 - [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
 - [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273) - Player for IPTV (.m3u) playlists.
+- [Smarters Player Lite](https://apps.apple.com/in/app/smarters-player-lite/id1628995509) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704) - IPTV Player for users to watch content with their playlist.
+
 
 #### Android
 
@@ -81,6 +87,8 @@ Applications with support of IPTV streams.
 - [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator) - Free IPTV player for any device (phone, tablet, TV, TV-box).
 - [DangoPlayer](https://play.google.com/store/apps/details?id=com.aleapps.videotime) - A simple lightweight and fast video player and IPTV client for Android.
 - [DangoPlayer TV](https://play.google.com/store/apps/details?id=com.aleapps.videotimetv) - Port of the DangoPlayer IPTV client for Android TV and Google TV.
+- [IPTV Smarters App](https://www.iptvsmarters.com/#downloads) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [IPTV Smart Purple Player](https://www.purplesmarttv.com/#downloads) - IPTV Player for users to watch content with their playlist.
 - [Mbogi Music](https://play.google.com/store/apps/details?id=com.mbogimusic) - A one stop audio and video app that gives you access to thousands of free online radio, free IPTV and podcasts from all over the world.
 
 #### Smart TV
@@ -100,18 +108,7 @@ Applications with support of IPTV streams.
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 
-## Providers
-
-List of IPTV providers.
-
-#### Paid
-
-- [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
-- [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
-- [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
-- [Necro IPTV](https://necroiptv.com) - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.
-
-#### Free
+## Providers 
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
@@ -146,6 +143,7 @@ A list of useful sources containing information about TV channels.
 - [TV Address](https://www.tv-address.com/) - TV channels info.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
+- [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
 
 ## EPG Sources
 
@@ -159,27 +157,29 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
 - [epgshare01/share01](https://github.com/epgshare01/share01) - Program guides for multiple countries.
 - [EPG.pw](https://epg.pw/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
+- [bevy.be](https://www.bevy.be/epg-guide/) - Free EPG for 2 days, sorted by country.
 
 ## Tools
 
 Useful tools for working with IPTV.
 
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
-- [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
 - [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
-- [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
-- [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more. (blocked inside the Russian Federation for now)
 - [IPTV Tools](http://www.iptvtools.net/) - A website that provides the necessary tools for IPTV, such as a link checking tool.
 
-## Streamlink Proxy
+## Programming
 
-Permits the end user to get the live playlist of [Streamlink](https://streamlink.github.io/index.html)-supported channels.
+Libraries and frameworks for working with IPTV data
 
-- `http://free.fullspeed.tv/iptv-query?streaming-ip=STREAM_URL` (maintained by [@dct-infra](https://github.com/dct-infra); based on: [LaneSh4d0w/streamlink](https://github.com/LaneSh4d0w/streamlink))
+- [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browser
+- [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
+- [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
+- [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
+
 
 ## Contribution
 
