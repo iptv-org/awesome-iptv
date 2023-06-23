@@ -89,6 +89,7 @@ Applications with support of IPTV streams.
 - [DangoPlayer TV](https://play.google.com/store/apps/details?id=com.aleapps.videotimetv) - Port of the DangoPlayer IPTV client for Android TV and Google TV.
 - [IPTV Smarters App](https://www.iptvsmarters.com/#downloads) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [IPTV Smart Purple Player](https://www.purplesmarttv.com/#downloads) - IPTV Player for users to watch content with their playlist.
+- [Mbogi Music](https://play.google.com/store/apps/details?id=com.mbogimusic) - A one stop audio and video app that gives you access to thousands of free online radio, free IPTV and podcasts from all over the world.
 
 #### Smart TV
 
