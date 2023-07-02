@@ -100,7 +100,6 @@ Applications with support of IPTV streams.
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player with support for M3U playlists and Xtream Codes. Syncs your content via iCloud across devices for a connected experience across Apple TV, iPhone, iPad, and Mac.
 
-
 #### Xbox
 
 - [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - A modern IPTV player for Xbox One.
