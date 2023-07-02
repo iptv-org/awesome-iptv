@@ -45,7 +45,7 @@ Applications with support of IPTV streams.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your Apple devices running the app on iOS or tvOS.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
 
 #### Linux
 
