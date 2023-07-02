@@ -61,14 +61,13 @@ Applications with support of IPTV streams.
 
 #### iOS
 
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player and list manager; supports M3U playlists; Picture-in-Picture playback; AirPlay and Chromecast-enabled; syncs your content via iCloud for a connected experience across iPhone, iPad, and Apple TV.
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
 - [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
 - [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273) - Player for IPTV (.m3u) playlists.
 - [Smarters Player Lite](https://apps.apple.com/in/app/smarters-player-lite/id1628995509) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704) - IPTV Player for users to watch content with their playlist.
-
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player and M3U list manager that supports Picture-in-Picture, AirPlay, Chromecast, and iCloud sync for a connected experience across iPhone, iPad, Apple TV.
 
 #### Android
 
@@ -98,7 +97,7 @@ Applications with support of IPTV streams.
 #### Apple TV
 
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player with support for M3U playlists and Xtream Codes. Syncs your content via iCloud across devices for a connected experience across Apple TV, iPhone, iPad, and Mac.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player with support for M3U, Xtream Codes, and iCloud sync for a connected experience across Apple TV, iPhone, iPad, and Mac.
 
 #### Xbox
 
