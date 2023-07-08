@@ -175,10 +175,11 @@ Useful tools for working with IPTV.
 
 Libraries and frameworks for working with IPTV data
 
-- [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browser
+- [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browsers
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
 - [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
+- [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers
 
 
 ## Contribution
