@@ -27,6 +27,7 @@ Applications with support of IPTV streams.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [Purple WebPlayer](http://login.purpletv.app) - Free Webplayer to stream content within browser.
+- [Web TV](http://01234.fun/) - IPTV player.
 
 #### Windows
 
@@ -179,12 +180,12 @@ Useful tools for working with IPTV.
 
 Libraries and frameworks for working with IPTV data
 
-- [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browsers
-- [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
+- [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browsers.
+- [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js.
 - [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
-- [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers
-
+- [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers.
+- [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - IPTV player with support for M3U playlists.
 
 ## Contribution
 
