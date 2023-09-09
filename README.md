@@ -113,6 +113,10 @@ Applications with support of IPTV streams.
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 
+#### ROKU
+
+- [IOTV](https://my.roku.com/account/add/iotv0815) - player for ROKU
+
 ## Providers 
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
