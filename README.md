@@ -113,9 +113,9 @@ Applications with support of IPTV streams.
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 
-#### ROKU
+#### Roku
 
-- [IOTV](https://my.roku.com/account/add/iotv0815) - player for ROKU
+- [IOTV](https://channelstore.roku.com/details/7bca35663cdfc649a1d3ca816cf729f7/iotv) - IPTV Player for Roku.
 
 ## Providers 
 
