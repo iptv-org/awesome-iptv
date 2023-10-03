@@ -149,6 +149,7 @@ A list of useful sources containing information about TV channels.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
 - [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
+- [REM](http://www.rem.rs/en/media-service-providers-register) - Detailed information on Serbian TV channels.
 
 ## EPG Sources
 
