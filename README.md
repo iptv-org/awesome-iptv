@@ -113,6 +113,10 @@ Applications with support of IPTV streams.
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 
+#### Roku
+
+- [IOTV](https://channelstore.roku.com/details/7bca35663cdfc649a1d3ca816cf729f7/iotv) - IPTV Player for Roku.
+
 ## Providers 
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
@@ -149,7 +153,9 @@ A list of useful sources containing information about TV channels.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
 - [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
+- [Bulsatcom](https://www.bulsatcom.bg/televiziya/televizionni-kanali/) - List of Balgarian and international channels available via Bulsatcom.
 - [Satindex.de](https://www.satindex.de/) - List of channels distributed via Astra and Hotbird satellites.
+
 
 ## EPG Sources
 
