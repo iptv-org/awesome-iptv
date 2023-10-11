@@ -156,6 +156,7 @@ A list of useful sources containing information about TV channels.
 - [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
 - [KingOfSat](https://en.kingofsat.net/index.php) - European satellite zapping & directory.
 - [Bulsatcom](https://www.bulsatcom.bg/televiziya/televizionni-kanali/) - List of Balgarian and international channels available via Bulsatcom.
+- [Satindex.de](https://www.satindex.de/) - List of channels distributed via Astra and Hotbird satellites.
 
 ## EPG Sources
 
