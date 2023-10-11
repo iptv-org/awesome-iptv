@@ -37,6 +37,7 @@ Applications with support of IPTV streams.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
+- [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 
 #### macOS
 
@@ -113,6 +114,10 @@ Applications with support of IPTV streams.
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 
+#### Roku
+
+- [IOTV](https://channelstore.roku.com/details/7bca35663cdfc649a1d3ca816cf729f7/iotv) - IPTV Player for Roku.
+
 ## Providers 
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
@@ -149,6 +154,7 @@ A list of useful sources containing information about TV channels.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
 - [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
+- [Bulsatcom](https://www.bulsatcom.bg/televiziya/televizionni-kanali/) - List of Balgarian and international channels available via Bulsatcom.
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - Logos of Asian TV channels.
 
 ## EPG Sources
