@@ -37,6 +37,7 @@ Applications with support of IPTV streams.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
+- [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 
 #### macOS
 
