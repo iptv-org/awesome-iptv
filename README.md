@@ -156,7 +156,6 @@ A list of useful sources containing information about TV channels.
 - [Bulsatcom](https://www.bulsatcom.bg/televiziya/televizionni-kanali/) - List of Balgarian and international channels available via Bulsatcom.
 - [Satindex.de](https://www.satindex.de/) - List of channels distributed via Astra and Hotbird satellites.
 
-
 ## EPG Sources
 
 Sources of EPG (Electronic Program Guide) for IPTV channels.
