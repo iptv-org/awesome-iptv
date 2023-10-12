@@ -37,6 +37,7 @@ Applications with support of IPTV streams.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
+- [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 
 #### macOS
 
@@ -153,6 +154,9 @@ A list of useful sources containing information about TV channels.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
 - [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
+- [KingOfSat](https://en.kingofsat.net/index.php) - European satellite zapping & directory.
+- [Bulsatcom](https://www.bulsatcom.bg/televiziya/televizionni-kanali/) - List of Balgarian and international channels available via Bulsatcom.
+- [Satindex.de](https://www.satindex.de/) - List of channels distributed via Astra and Hotbird satellites.
 - [Telepedia](https://telepedia.fandom.com/ru/) - Wiki about about TV channels, companies and programs.
 
 ## EPG Sources
