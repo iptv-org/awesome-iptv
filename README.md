@@ -154,7 +154,9 @@ A list of useful sources containing information about TV channels.
 - [Tapiosinn/tv-logos](https://github.com/Tapiosinn/tv-logos/) - Collection of TV channel logos.
 - [RabbitEars.info](https://rabbitears.info/) - All about US local, over-the-air TV channels.
 - [Picons](https://github.com/picons/picons) - Collection of TV channel logos.
+- [KingOfSat](https://en.kingofsat.net/index.php) - European satellite zapping & directory.
 - [Bulsatcom](https://www.bulsatcom.bg/televiziya/televizionni-kanali/) - List of Balgarian and international channels available via Bulsatcom.
+- [Satindex.de](https://www.satindex.de/) - List of channels distributed via Astra and Hotbird satellites.
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - Logos of Asian TV channels.
 
 ## EPG Sources
