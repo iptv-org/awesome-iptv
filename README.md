@@ -161,6 +161,7 @@ A list of useful sources containing information about TV channels.
 - [iptv-pro/iptv-pro.github.io](https://github.com/iptv-pro/iptv-pro.github.io) - Logos of Asian TV channels.
 - [TVCL](https://www.tvchannellists.com/w/Main_Page) - Television channel listings and line-ups from around the world.
 - [Telepedia](https://telepedia.fandom.com/ru/) - Wiki about about TV channels, companies and programs.
+- [Cableman](https://www.cableman.ru/channels/table) - Catalog of TV channels broadcast in Russia.
 
 ## EPG Sources
 
