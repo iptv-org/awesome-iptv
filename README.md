@@ -162,6 +162,7 @@ A list of useful sources containing information about TV channels.
 - [TVCL](https://www.tvchannellists.com/w/Main_Page) - Television channel listings and line-ups from around the world.
 - [Telepedia](https://telepedia.fandom.com/ru/) - Wiki about TV channels, companies and programs.
 - [Mihsign Vision](https://mihsignvision.fandom.com/wiki/Mihsign_Vision) - List of TV channels and TV companies.
+- [Cableman](https://www.cableman.ru/channels/table) - Catalog of TV channels broadcast in Russia.
 
 ## EPG Sources
 
