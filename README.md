@@ -94,7 +94,7 @@ Applications with support of IPTV streams.
 - [IPTV Smart Purple Player](https://www.purplesmarttv.com/#downloads) - IPTV Player for users to watch content with their playlist.
 - [Mbogi Music](https://play.google.com/store/apps/details?id=com.mbogimusic) - A one stop audio and video app that gives you access to thousands of free online radio, free IPTV and podcasts from all over the world.
 - [Opus IPTV Player](https://play.google.com/store/apps/details?id=com.handy.opus.iptv.xtream.player&referrer=utm_source%3Dawesome-iptv%26utm_medium%3Dlink) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
-- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro)
+- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro) - IPTV player for Android.
 
 #### Smart TV
 
