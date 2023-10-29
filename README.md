@@ -167,6 +167,7 @@ A list of useful sources containing information about TV channels.
 - [FCCdata.org](https://fccdata.org/) - Contains data on broadcasters in the United States, Canada, Mexico, UK, Ireland, Australia, and Japan.
 - [Mavise](https://mavise.obs.coe.int/) - Database on audiovisual services and their jurisdiction in Europe.
 - [Logopedia](https://logos.fandom.com/wiki/Logopedia) - Collaborative database for logos and branding.
+- [Predavatel](https://predavatel.com/) - Detailed information on Bulgarian and Macedonian channels.
 
 ## EPG Sources
 
