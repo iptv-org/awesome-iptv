@@ -168,6 +168,7 @@ A list of useful sources containing information about TV channels.
 - [Mavise](https://mavise.obs.coe.int/) - Database on audiovisual services and their jurisdiction in Europe.
 - [Logopedia](https://logos.fandom.com/wiki/Logopedia) - Collaborative database for logos and branding.
 - [Predavatel](https://predavatel.com/) - Detailed information on Bulgarian and Macedonian channels.
+- [CEM](https://www.cem.bg/linear_reg.php) - Official register of TV channels broadcast in Bulgaria.
 
 ## EPG Sources
 
