@@ -174,11 +174,10 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) - Program guide mainly for channels from the CIS.
 - [i.mjh.nz](http://i.mjh.nz/) - Program guide for channels from Australia, New Zealand and South Africa.
 - [epg.51zmt.top](http://epg.51zmt.top:8000/) - Program guides mainly for channels from China and some international ones.
-- [XML TV](http://xmltv.bigsb.fr/) - XML program for France.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
-- [epgshare01/share01](https://github.com/epgshare01/share01) - Program guides for multiple countries.
 - [EPG.pw](https://epg.pw/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
 - [bevy.be](https://www.bevy.be/epg-guide/) - Free EPG for 2 days, sorted by country.
+- [EPGSHARE01](https://epgshare01.online/) - Program guides for multiple countries.
 
 ## Tools
 
