@@ -207,6 +207,7 @@ Libraries and frameworks for working with IPTV data
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
 - [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers.
 - [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - IPTV player with support for M3U playlists.
+- [xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV.
 
 ## Contribution
 
