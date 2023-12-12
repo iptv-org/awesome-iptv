@@ -145,6 +145,7 @@ Applications with support of IPTV streams.
 - [m3u.cl](http://m3u.cl/) - Live TV and radio channels from Chile, Argentina, Peru, Brazil, Bolivia, Colombia, Venezuela, Mexico and Spain.
 - [EPG.pw](https://epg.pw/test_channel_page.html) - Live TV channels from all over the world.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
+- [photocall.tv](https://photocall.tv/) - Online television and radio.
 
 ## Channel data sources
 
