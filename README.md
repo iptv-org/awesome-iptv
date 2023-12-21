@@ -146,6 +146,7 @@ Applications with support of IPTV streams.
 - [EPG.pw](https://epg.pw/test_channel_page.html) - Live TV channels from all over the world.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
 - [photocall.tv](https://photocall.tv/) - Online television and radio.
+- [IPTV ORE](https://iptvore.com/) - TV channels all around the world and nicely group by country and region. Especially recommended for people looking for Dutch and Turkish channels in full HD and 4K. Has TV series and movies from various sources.
 
 ## Channel data sources
 
