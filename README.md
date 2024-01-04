@@ -84,14 +84,14 @@ Applications with support of IPTV streams.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [CosmiTV Player](https://play.google.com/store/apps/details?id=com.cosmiquest.tv) - IPTV Player and DVR for Android that resembles the cable tv box.
 - [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
-- [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Open source stream player for Android. This application allows you to play in zapping mode, mark channels as favorites and other media player enhancements.
 - [TV.io Home Streaming](https://play.google.com/store/apps/details?id=com.player.online.tv&gl=GB) - IPTV streaming with Chromcast support and groups chat.
 - [ProgTV Android](https://play.google.com/store/apps/details?id=com.progdvb.progtva) - The simple but convenient and universal software for watching TV and listening to radio channels over Internet or local network.
 - [IPTV Smarters App](https://www.iptvsmarters.com/#downloads) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [IPTV Smart Purple Player](https://www.purplesmarttv.com/#downloads) - IPTV Player for users to watch content with their playlist.
 - [Mbogi Music](https://play.google.com/store/apps/details?id=com.mbogimusic) - A one stop audio and video app that gives you access to thousands of free online radio, free IPTV and podcasts from all over the world.
-- [Opus IPTV Player](https://opusmediaplayer.com/pages/transform-android-tv-into-iptv-powerhouse-opus-iptv-player/) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [Opus IPTV Player](https://play.google.com/store/apps/details?id=com.biel.opus.mediaplayer) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
 - [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro) - IPTV player for Android.
+- [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Open source streaming player for Android to play favorite channels in zapping mode with media player enhancements.
 
 #### Smart TV
 
