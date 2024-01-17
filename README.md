@@ -28,6 +28,7 @@ Applications with support of IPTV streams.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [Purple WebPlayer](http://login.purpletv.app) - Free Webplayer to stream content within browser.
 - [Web TV](http://01234.fun/) - IPTV player.
+- [Pleyr](https://pleyr.net/) - IPTV web browser player both m3u8 and mpeg2-ts playlists.
 
 #### Windows
 
