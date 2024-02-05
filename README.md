@@ -29,6 +29,8 @@ Applications with support of IPTV streams.
 - [Purple WebPlayer](http://login.purpletv.app) - Free Webplayer to stream content within browser.
 - [Web TV](http://01234.fun/) - IPTV player.
 - [Pleyr](https://pleyr.net/) - IPTV web browser player both m3u8 and mpeg2-ts playlists.
+- [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
+
 
 #### Windows
 
