@@ -38,6 +38,7 @@ Applications with support of IPTV streams.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Free and open-source video and audio player for Windows.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
+- [Megacubo](https://megacubo.tv) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc. Supports M3U, Xtream and Mag devices lists.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
@@ -48,6 +49,7 @@ Applications with support of IPTV streams.
 - [IINA](https://iina.io/) - Modern media player for macOS.
 - [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675) - Free media player for Mac OS.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
+- [Megacubo](https://megacubo.tv/?os=MacOS) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc. Supports M3U, Xtream and Mag devices lists.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
@@ -57,6 +59,7 @@ Applications with support of IPTV streams.
 
 - [VLC for Linux](https://www.videolan.org/vlc/#download) - Free and open-source portable cross-platform media player.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
+- [Megacubo](https://github.com/EdenwareApps/Megacubo) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc. Supports M3U, Xtream and Mag devices lists.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - A Free IPTV streaming application with support for live TV, movies and series.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [FreetuxTV](https://github.com/freetuxtv/freetuxtv) - Internet television and radio player.
@@ -84,6 +87,7 @@ Applications with support of IPTV streams.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
 - [FastoTV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
+- [Megacubo](https://megacubo.tv/?os=Android) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc. Supports M3U, Xtream and Mag devices lists.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [CosmiTV Player](https://play.google.com/store/apps/details?id=com.cosmiquest.tv) - IPTV Player and DVR for Android that resembles the cable tv box.
 - [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
