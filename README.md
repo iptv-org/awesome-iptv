@@ -78,6 +78,7 @@ Applications with support of IPTV streams.
 - [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704) - IPTV Player for users to watch content with their playlist.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player and M3U list manager that supports Picture-in-Picture, AirPlay, Chromecast, and iCloud sync for a connected experience across iPhone, iPad, Apple TV.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500) - A high-quality live streaming source player app that can preview in real time. It is a multifunctional player that can play and view (requires support from the live streaming source).
 
 #### Android
 
