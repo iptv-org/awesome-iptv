@@ -151,6 +151,7 @@ Applications with support of IPTV streams.
 - [EPG.pw](https://epg.pw/test_channel_page.html) - Live TV channels from all over the world.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
 - [photocall.tv](https://photocall.tv/) - Online television and radio.
+- [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal. Only contains public streams.
 
 ## Channel data sources
 
