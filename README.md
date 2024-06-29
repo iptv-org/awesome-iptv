@@ -100,6 +100,7 @@ Applications with support of IPTV streams.
 - [Opus IPTV Player](https://play.google.com/store/apps/details?id=com.biel.opus.mediaplayer) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
 - [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro) - IPTV player for Android.
 - [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Open source streaming player for Android to play favorite channels in zapping mode with media player enhancements.
+- [WorldsTvMobile](https://play.google.com/store/apps/details?id=com.org.worldstvmobile) - Whatch awesome-iptv tv list on android.
 
 #### Smart TV
 
