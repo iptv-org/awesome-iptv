@@ -103,6 +103,7 @@ Applications with support of IPTV streams.
 - [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro) - IPTV player for Android.
 - [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Open source streaming player for Android to play favorite channels in zapping mode with media player enhancements.
 - [WorldsTvMobile](https://play.google.com/store/apps/details?id=com.org.worldstvmobile) - Whatch awesome-iptv tv list on android.
+- [DangoPlayer](https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni) - A fast video player and IPTV client for Android and TV.
 
 #### Smart TV
 
