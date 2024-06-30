@@ -54,6 +54,7 @@ Applications with support of IPTV streams.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 
 #### Linux
 
@@ -79,6 +80,7 @@ Applications with support of IPTV streams.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player and M3U list manager that supports Picture-in-Picture, AirPlay, Chromecast, and iCloud sync for a connected experience across iPhone, iPad, Apple TV.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500) - A high-quality live streaming source player app that can preview in real time. It is a multifunctional player that can play and view (requires support from the live streaming source).
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 
 #### Android
 
@@ -111,6 +113,7 @@ Applications with support of IPTV streams.
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player with support for M3U, Xtream Codes, and iCloud sync for a connected experience across Apple TV, iPhone, iPad, and Mac.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 
 #### Xbox
 
