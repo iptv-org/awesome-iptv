@@ -17,6 +17,7 @@ Applications with support of IPTV streams.
 
 #### Web
 
+- [WatchIPTV](https://watchiptv.xyz) - Watch IPTV-org streams directly from your browser.
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 - [IPTV Player](https://dev-iptv.web.app/) - Open-source Flutter app that allows you to watch publicly accessible streams from within your browser.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
