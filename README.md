@@ -43,6 +43,7 @@ Applications with support of IPTV streams.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
+- [IPTV Desktop](https://github.com/iptv-app/iptv-desktop) - Free and Open Source electron application to stream from iptv-org api source.
 
 #### macOS
 
@@ -69,6 +70,7 @@ Applications with support of IPTV streams.
 - [IPTV Desktop](https://github.com/0x0is1/iptv-desktop) - Watch TV channels on your device via internet from all over the world for free.
 - [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
 - [yuki-iptv](https://codeberg.org/Ame-chan-angel/yuki-iptv) - IPTV player with EPG support (Astroncia IPTV fork).
+- [IPTV Desktop](https://github.com/iptv-app/iptv-desktop) - Free and Open Source electron application to stream from iptv-org api source.
 
 #### iOS
 
