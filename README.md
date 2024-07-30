@@ -31,6 +31,7 @@ Applications with support of IPTV streams.
 - [Web TV](http://01234.fun/) - IPTV player.
 - [Pleyr](https://pleyr.net/) - IPTV web browser player both m3u8 and mpeg2-ts playlists.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
+- [EBK IPTV](https://www.ebk-iptv.online/) - Watch online with pre-defined lists, add custom URLs, favorite channels/genres, channel/country search, and PWA support. High performance for web/mobile.
 
 
 #### Windows
