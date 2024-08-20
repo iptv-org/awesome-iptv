@@ -31,7 +31,7 @@ Applications with support of IPTV streams.
 - [Web TV](http://01234.fun/) - IPTV player.
 - [Pleyr](https://pleyr.net/) - IPTV web browser player both m3u8 and mpeg2-ts playlists.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
-- [tv.garden](https://www.tv.garden) - Explore and watch live TV from around the world. Inspired by radio.garden, browse by country and genre with an intuitive globe interface.
+- [tv.garden](https://tv.garden) - Explore and watch live TV from around the world. Inspired by radio.garden, browse by country and genre with an intuitive globe interface.
 
 
 #### Windows
