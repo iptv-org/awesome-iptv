@@ -221,7 +221,7 @@ Libraries and frameworks for working with IPTV data
 - [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers.
 - [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - IPTV player with support for M3U playlists.
 - [xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV.
-- [Threadfin](https://github.com/Threadfin/Threadfin) - M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
+- [Threadfin](https://github.com/Threadfin/Threadfin) - M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe.
 
 ## Contribution
 
