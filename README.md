@@ -106,7 +106,7 @@ Applications with support of IPTV streams.
 - [WorldsTvMobile](https://play.google.com/store/apps/details?id=com.org.worldstvmobile) - Whatch awesome-iptv tv list on android.
 - [DangoPlayer](https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni) - A fast video player and IPTV client for Android and TV.
 - [Uni Player](https://play.google.com/store/apps/details?id=com.uni.xtream.player) - Solution to get easy to play local or online playlist that help you get quick play content.
-- [Smart IPTV Player Pro](https://play.google.com/store/apps/details?id=com.iptv.player.smart.live.stream.m3u) - This free live media player that allows you to watch your favorite TV channels, movies, and TV shows
+- [Smart IPTV Player Pro M3U Live](https://play.google.com/store/apps/details?id=com.iptv.player.smart.live.stream.m3u) - Free live media player that allows you to watch your favorite TV channels, movies, and TV shows.
 
 #### Smart TV
 
