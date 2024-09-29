@@ -213,6 +213,7 @@ Useful tools for working with IPTV.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more. (blocked inside the Russian Federation for now)
 - [IPTV Tools](http://www.iptvtools.net/) - A website that provides the necessary tools for IPTV, such as a link checking tool.
+- [IPTV Stream Checker](https://github.com/NewsGuyTor/IPTVChecker) - IPTV Stream Checker is a command-line tool designed to check the status of channels in an IPTV M3U8 playlist; it verifies if the streams are alive, captures screenshots, provides detailed information about video and audio streams, and identifies any potential issues like low framerates or mislabeled channels.
 
 ## Programming
 
