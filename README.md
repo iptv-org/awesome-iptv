@@ -84,6 +84,7 @@ Applications with support of IPTV streams.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500) - A high-quality live streaming source player app that can preview in real time. It is a multifunctional player that can play and view (requires support from the live streaming source).
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [Live TV Player](https://apps.apple.com/us/app/live-tv-player/id6448868009) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
 
 #### Android
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
@@ -106,6 +107,7 @@ Applications with support of IPTV streams.
 - [M3UAndroid](https://github.com/realOxy/M3UAndroid) - Open source streaming player for Android to play favorite channels in zapping mode with media player enhancements.
 - [WorldsTvMobile](https://play.google.com/store/apps/details?id=com.org.worldstvmobile) - Whatch awesome-iptv tv list on android.
 - [DangoPlayer](https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni) - A fast video player and IPTV client for Android and TV.
+- [Live TV](https://play.google.com/store/apps/details?id=com.cy8018.livetv) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
 - [Uni Player](https://play.google.com/store/apps/details?id=com.uni.xtream.player) - Solution to get easy to play local or online playlist that help you get quick play content.
 - [Smart IPTV Player Pro M3U Live](https://play.google.com/store/apps/details?id=com.iptv.player.smart.live.stream.m3u) - Free live media player that allows you to watch your favorite TV channels, movies, and TV shows.
 - [WatChat](https://www.watchat.online) - IPTV Player and messenger with thousands of ready streams - privacy wise and trackers/google free, [download the apk here](https://www.watchat.online/getit).
