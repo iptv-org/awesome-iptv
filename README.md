@@ -99,7 +99,6 @@ Applications with support of IPTV streams.
 - [kantv](https://github.com/zhouwg/kantv) - Open source player for Android.
 - [TV.io Home Streaming](https://play.google.com/store/apps/details?id=com.player.online.tv&gl=GB) - IPTV streaming with Chromcast support and groups chat.
 - [ProgTV Android](https://play.google.com/store/apps/details?id=com.progdvb.progtva) - The simple but convenient and universal software for watching TV and listening to radio channels over Internet or local network.
-- [IPTV Smarters App](https://www.iptvsmarters.com/#downloads) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [IPTV Smart Purple Player](https://www.purplesmarttv.com/#downloads) - IPTV Player for users to watch content with their playlist.
 - [Mbogi Music](https://play.google.com/store/apps/details?id=com.mbogimusic) - A one stop audio and video app that gives you access to thousands of free online radio, free IPTV and podcasts from all over the world.
 - [Opus IPTV Player](https://play.google.com/store/apps/details?id=com.biel.opus.mediaplayer) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
