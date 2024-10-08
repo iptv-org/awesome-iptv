@@ -228,6 +228,7 @@ Libraries and frameworks for working with IPTV data
 - [xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV.
 - [Threadfin](https://github.com/Threadfin/Threadfin) - M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe.
 - [IPTV Stream Checker](https://github.com/NewsGuyTor/IPTVChecker) - Command-line tool designed to check the status and capture screenshots of channels in an IPTV M3U8 playlist.
+- [flybird-downloader](https://github.com/youwen21/flybird-downloader) - M3U8 downloader and IPTV checker.
 
 ## Contribution
 
