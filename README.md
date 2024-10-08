@@ -202,7 +202,6 @@ Useful tools for working with IPTV.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more. (blocked inside the Russian Federation for now)
 - [IPTV Tools](http://www.iptvtools.net/) - A website that provides the necessary tools for IPTV, such as a link checking tool.
-- [flybird-m3u8downloader](https://github.com/youwen21/flybird-m3u8downloader) - M3u8 downloader and IPTV checker.
 
 ## Programming
 
@@ -215,6 +214,7 @@ Libraries and frameworks for working with IPTV data
 - [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers.
 - [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - IPTV player with support for M3U playlists.
 - [xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV.
+- [flybird-downloader](https://github.com/youwen21/flybird-downloader) - M3U8 downloader and IPTV checker.
 
 ## Contribution
 
