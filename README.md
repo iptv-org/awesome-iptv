@@ -109,7 +109,7 @@ Applications with support of IPTV streams.
 - [Live TV](https://play.google.com/store/apps/details?id=com.cy8018.livetv) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
 - [Uni Player](https://play.google.com/store/apps/details?id=com.uni.xtream.player) - Solution to get easy to play local or online playlist that help you get quick play content.
 - [Smart IPTV Player Pro M3U Live](https://play.google.com/store/apps/details?id=com.iptv.player.smart.live.stream.m3u) - Free live media player that allows you to watch your favorite TV channels, movies, and TV shows.
-- [WatChat](https://www.watchat.online) - IPTV Player and messenger with thousands of ready streams - privacy wise and trackers/google free, [download the apk here](https://www.watchat.online/getit).
+- [WatChat](https://apkpure.com/watchat-streaming-world-iptv/com.tv.watchat.us) - IPTV Player and messenger with thousands of ready streams.
 
 #### Smart TV
 
