@@ -39,6 +39,7 @@ Applications with support of IPTV streams.
 #### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
+- [SimpleTV for Windows](http://plst.rf.gd/?i=1) - Free VLC-based IPTV streaming application for Windows with multiple features such as favorites, EPG, TV archive etc. Supports MPD, LUA plugins and has EventGhost integration.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - Free and open-source video and audio player for Windows.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
