@@ -46,6 +46,7 @@ Applications with support of IPTV streams.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
+- [SimpleTV for Windows](http://plst.rf.gd/?i=1) - Free VLC-based application for Windows designed with IPTV features in mind such as favorites, EPG, TV archive, support for MPD, extensible by LUA plugins and EventGhost integration.
 
 #### macOS
 
