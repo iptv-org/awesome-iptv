@@ -47,6 +47,7 @@ Applications with support of IPTV streams.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 - [SimpleTV for Windows](http://plst.rf.gd/?i=1) - Free VLC-based application for Windows designed with IPTV features in mind such as favorites, EPG, TV archive, support for MPD, extensible by LUA plugins and EventGhost integration.
+- [Purple Player for Windows](http://aftv.news/208736) - Free Windows Media Player to stream your favourites using Xtreme Codes and M3U Playlists.
 
 #### macOS
 
@@ -60,6 +61,7 @@ Applications with support of IPTV streams.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [Purple Player for MacOS](https://tinyurl.com/yc3f658k) - Free MacOS Application to stream IPTV Contents using Xtreme Codes and M3U Playlists.
 
 #### Linux
 
@@ -111,6 +113,9 @@ Applications with support of IPTV streams.
 - [Uni Player](https://play.google.com/store/apps/details?id=com.uni.xtream.player) - Solution to get easy to play local or online playlist that help you get quick play content.
 - [Smart IPTV Player Pro M3U Live](https://play.google.com/store/apps/details?id=com.iptv.player.smart.live.stream.m3u) - Free live media player that allows you to watch your favorite TV channels, movies, and TV shows.
 - [WatChat](https://apkpure.com/watchat-streaming-world-iptv/com.tv.watchat.us) - IPTV Player and messenger with thousands of ready streams.
+- [Easy Player](https://play.google.com/store/apps/details?id=com.purple.easy.player&hl=en_IN) - Easy Player app is a solution for streaming EPG, VOD, video series, and catch-up TV on Android devices.
+- [1-Stream Player](https://play.google.com/store/apps/details?id=com.onestream.player) - 1-Stream Player App is the perfect platform for your streaming needs. this app is powered by Purple Smart TV.
+- [Simple IPTV Player](https://play.google.com/store/apps/details?id=com.purple.simple.player&hl=en_IN) - A simple and faster way to access your favourite your own stream using Simple IPTV Player.
 
 #### Smart TV
 
@@ -122,6 +127,7 @@ Applications with support of IPTV streams.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player with support for M3U, Xtream Codes, and iCloud sync for a connected experience across Apple TV, iPhone, iPad, and Mac.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=appleTV) - Experience ultimate entertainment with Purple Playlist Player, your all-in-one media solution.
 
 #### Xbox
 
