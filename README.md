@@ -90,7 +90,6 @@ Applications with support of IPTV streams.
 - [Live TV Player](https://apps.apple.com/us/app/live-tv-player/id6448868009) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
 
 #### Android
-
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
 - [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
@@ -138,7 +137,7 @@ Applications with support of IPTV streams.
 
 - [IOTV](https://channelstore.roku.com/details/7bca35663cdfc649a1d3ca816cf729f7/iotv) - IPTV Player for Roku.
 
-## Providers
+## Providers 
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
