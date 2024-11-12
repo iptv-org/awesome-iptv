@@ -35,6 +35,7 @@ Applications with support of IPTV streams.
 - [tv.garden](https://tv.garden) - Explore and watch live TV from around the world with an intuitive globe interface, inspired by radio.garden.
 - [Global Free TV](https://globalfreetv.com/) - Stream a wide range of free IPTV channels from various countries, offering easy access to international content through a user-friendly interface.
 - [Free IPTV Player](https://freeiptvplayer.net/) - Tool for testing M3U files and enjoying live HLS TV UHD, FHD, HD, or SD streams on any browser-equipped device.
+- [Ellipto IPTV](https://elliptoiptv.vercel.app/) - A progressive web app to watch m3u or m3u8 playlists with some awesome features.
 
 #### Windows
 
