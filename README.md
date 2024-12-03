@@ -47,7 +47,6 @@ Applications with support of IPTV streams.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 - [SimpleTV for Windows](http://plst.rf.gd/?i=1) - Free VLC-based application for Windows designed with IPTV features in mind such as favorites, EPG, TV archive, support for MPD, extensible by LUA plugins and EventGhost integration.
-- [Purple Player for Windows](http://aftv.news/208736) - Free Windows Media Player to stream your favourites using Xtreme Codes and M3U Playlists.
 
 #### macOS
 
@@ -61,7 +60,6 @@ Applications with support of IPTV streams.
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
-- [Purple Player for MacOS](https://tinyurl.com/yc3f658k) - Free MacOS Application to stream IPTV Contents using Xtreme Codes and M3U Playlists.
 
 #### Linux
 
