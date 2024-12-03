@@ -17,13 +17,17 @@ Applications with support of IPTV streams.
 
 #### Web
 
+- [WatchIPTV](https://watchiptv.xyz) - Watch IPTV-org streams directly from your browser.
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
+- [IPTV Player](https://iptv-web.app/) - Open-source Flutter app that allows you to watch publicly accessible streams from within your browser.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 - [TVPeer](http://tvpeer.github.io/) - Watch Peer to Peer (P2P) IPTV online from your browser.
 - [Worlds TV Mobile](https://worldstvmobile.com/) - Search for the channel you prefer to tune in and stream in one click.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
+- [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [Purple WebPlayer](http://login.purpletv.app) - Free Webplayer to stream content within browser.
+- [Pleyr](https://pleyr.net/) - IPTV web browser player both m3u8 and mpeg2-ts playlists.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
 - [EBK IPTV](https://www.ebk-iptv.online/) - Watch online with pre-defined lists, add custom URLs, favorite channels/genres, channel/country search, and PWA support.
 - [tv.garden](https://tv.garden) - Explore and watch live TV from around the world with an intuitive globe interface, inspired by radio.garden.
@@ -132,6 +136,7 @@ Applications with support of IPTV streams.
 
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
 - [FreetuxTV WebTV Manager](http://database.freetuxtv.net/site/index) - Free database of WebTV and Web Radio.
+- [CXTv](http://www.cxtvlive.com/) - 1308 TV Channels and 287 Cameras from all over the world.
 - [Televisión de Costa Rica en vivo](http://www.costaricaenvivo.net/) - Live channels from Costa Rica.
 - [Televisión Dominicana en vivo](http://www.televisiondominicanaenvivo.com/) - Live channels from Dominican Republic.
 - [Televisión de Honduras en vivo](http://www.canalesdehondurasenvivo.com/) - Live channels from Honduras.
@@ -149,6 +154,7 @@ Applications with support of IPTV streams.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
 - [photocall.tv](https://photocall.tv/) - Online television and radio.
 - [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal.
+- [Global Free TV](https://globalfreetv.com/) - Stream a wide range of free IPTV channels from various countries, offering easy access to international content through a user-friendly interface.
 
 ## Channel data sources
 
