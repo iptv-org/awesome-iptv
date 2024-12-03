@@ -35,6 +35,8 @@ Applications with support of IPTV streams.
 - [tv.garden](https://tv.garden) - Explore and watch live TV from around the world with an intuitive globe interface, inspired by radio.garden.
 - [Global Free TV](https://globalfreetv.com/) - Stream a wide range of free IPTV channels from various countries, offering easy access to international content through a user-friendly interface.
 - [Free IPTV Player](https://freeiptvplayer.net/) - Tool for testing M3U files and enjoying live HLS TV UHD, FHD, HD, or SD streams on any browser-equipped device.
+- [Ellipto IPTV](https://elliptoiptv.vercel.app/) - A progressive web app to watch m3u or m3u8 playlists with some awesome features.
+- [MediathekViewWeb](https://mediathekviewweb.de/) - Tool for finding URLs of videos specifically from German(-speaking) public broadcast.
 
 #### Windows
 
@@ -47,6 +49,7 @@ Applications with support of IPTV streams.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 - [SimpleTV for Windows](http://plst.rf.gd/?i=1) - Free VLC-based application for Windows designed with IPTV features in mind such as favorites, EPG, TV archive, support for MPD, extensible by LUA plugins and EventGhost integration.
+- [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
 
 #### macOS
 
@@ -73,6 +76,7 @@ Applications with support of IPTV streams.
 - [IPTV Desktop](https://github.com/0x0is1/iptv-desktop) - Watch TV channels on your device via internet from all over the world for free.
 - [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
 - [yuki-iptv](https://codeberg.org/Ame-chan-angel/yuki-iptv) - IPTV player with EPG support (Astroncia IPTV fork).
+- [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
 
 #### iOS
 
@@ -111,6 +115,8 @@ Applications with support of IPTV streams.
 - [Uni Player](https://play.google.com/store/apps/details?id=com.uni.xtream.player) - Solution to get easy to play local or online playlist that help you get quick play content.
 - [Smart IPTV Player Pro M3U Live](https://play.google.com/store/apps/details?id=com.iptv.player.smart.live.stream.m3u) - Free live media player that allows you to watch your favorite TV channels, movies, and TV shows.
 - [WatChat](https://apkpure.com/watchat-streaming-world-iptv/com.tv.watchat.us) - IPTV Player and messenger with thousands of ready streams.
+- [UniTV](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_iptv_client) - Flutter IPTV client provides comprehensive remote control integration for Android TV.
+- [Zapp](https://github.com/mediathekview/zapp) - Modern player specialized on German public broadcast streams.
 - [Easy Player](https://play.google.com/store/apps/details?id=com.purple.easy.player&hl=en_IN) - Easy Player app is a solution for streaming EPG, VOD, video series, and catch-up TV on Android devices.
 - [1-Stream Player](https://play.google.com/store/apps/details?id=com.onestream.player) - 1-Stream Player App is the perfect platform for your streaming needs. this app is powered by Purple Smart TV.
 - [Simple IPTV Player](https://play.google.com/store/apps/details?id=com.purple.simple.player&hl=en_IN) - A simple and faster way to access your favourite your own stream using Simple IPTV Player.
