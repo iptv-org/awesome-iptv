@@ -116,6 +116,7 @@ Applications with support of IPTV streams.
 - [Smart IPTV Player Pro M3U Live](https://play.google.com/store/apps/details?id=com.iptv.player.smart.live.stream.m3u) - Free live media player that allows you to watch your favorite TV channels, movies, and TV shows.
 - [WatChat](https://apkpure.com/watchat-streaming-world-iptv/com.tv.watchat.us) - IPTV Player and messenger with thousands of ready streams.
 - [UniTV](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_iptv_client) - Flutter IPTV client provides comprehensive remote control integration for Android TV.
+- [Zapp](https://github.com/mediathekview/zapp) - Modern player specialized on German public broadcast streams.
 
 #### Smart TV
 
