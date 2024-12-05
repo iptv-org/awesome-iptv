@@ -77,6 +77,8 @@ Applications with support of IPTV streams.
 - [pytermv](https://github.com/Ahmed-Zamouche/pytermv) - A terminal IPTV player written in python.
 - [yuki-iptv](https://codeberg.org/Ame-chan-angel/yuki-iptv) - IPTV player with EPG support (Astroncia IPTV fork).
 - [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
+- [TVHplayer](https://github.com/mfat/tvhplayer) - Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.
+
 
 #### iOS
 
@@ -91,7 +93,6 @@ Applications with support of IPTV streams.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500) - A high-quality live streaming source player app that can preview in real time. It is a multifunctional player that can play and view (requires support from the live streaming source).
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 - [Live TV Player](https://apps.apple.com/us/app/live-tv-player/id6448868009) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
-- [TVHplayer](https://github.com/mfat/tvhplayer) - Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.
 
 #### Android
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
