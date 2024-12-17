@@ -27,6 +27,7 @@ Applications with support of IPTV streams.
 - [Free IPTV Player](https://freeiptvplayer.net/) - Tool for testing M3U files and enjoying live HLS TV UHD, FHD, HD, or SD streams on any browser-equipped device.
 - [Ellipto IPTV](https://elliptoiptv.vercel.app/) - A progressive web app to watch m3u or m3u8 playlists with some awesome features.
 - [MediathekViewWeb](https://mediathekviewweb.de/) - Tool for finding URLs of videos specifically from German(-speaking) public broadcast.
+- [Matrix Broadcasting System](http://matrixbroadcasting.com/) - A unique no downloads, no signups, no ads way of watching your favorite streams, supports local and remote m3u and m3u8 playlists
 
 #### Windows
 
