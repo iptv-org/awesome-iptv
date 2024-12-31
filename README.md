@@ -88,6 +88,8 @@ Applications with support of IPTV streams.
 #### Android
 
 - [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
+- [IPTVmine](https://github.com/samyak2403/IPTVmine/raw/master/app/release/app-release.apk) - The Indian IPTV App is a comprehensive platform that allows users to stream over 500 Indian TV channels directly from their devices. .
+
 - [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
