@@ -203,8 +203,8 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [epg.51zmt.top](http://epg.51zmt.top:8000/) - Program guides mainly for channels from China and some international ones.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
 - [EPG.pw](https://epg.pw/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
-- [bevy.be](https://www.bevy.be/epg-guide/) - Free EPG for 2 days, sorted by country.
 - [EPGSHARE01](https://epgshare01.online/) - Program guides for multiple countries.
+- [Open EPG](https://www.open-epg.com/) - Free EPG for 2 days, sorted by country.
 
 ## Tools
 
