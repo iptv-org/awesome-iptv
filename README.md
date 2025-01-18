@@ -4,12 +4,25 @@ A curated list of resources related to IPTV.
 
 ## Contents
 
-- [Apps](#apps)
-- [Providers](#providers)
-- [Channel data sources](#channel-data-sources)
-- [EPG sources](#epg-sources)
-- [Tools](#tools)
-- [Programming](#programming)
+- 💻 [Apps](#apps)
+  - [Web](#web)
+  - [Windows](#windows)
+  - [macOS](#macos)
+  - [Linux](#linux)
+  - [iOS](#ios)
+  - [Android](#android)
+  - [Smart TV](#smart-tv)
+  - [Apple TV](#apple-tv)
+  - [Xbox](#xbox)
+  - [Google Chrome](#google-chrome)
+  - [Roku](#roku)
+- 📡 [Providers](#providers)
+- 🗄️ [Channel Datasets](#channel-datasets)
+- 🗓 [EPG Sources](#epg-sources)
+- 🧰 [Tools](#tools)
+- 👨🏻‍💻 [Programming](#programming)
+- 📝 [Contribution](#contribution)
+- © [License](#license)
 
 ## Apps
 
@@ -70,7 +83,6 @@ Applications with support of IPTV streams.
 - [TVHplayer](https://github.com/mfat/tvhplayer) - Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.
 - [yuki-iptv](https://codeberg.org/liya/yuki-iptv) - IPTV player with EPG support.
 
-
 #### iOS
 
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
@@ -111,7 +123,7 @@ Applications with support of IPTV streams.
 - [Easy Player](https://play.google.com/store/apps/details?id=com.purple.easy.player&hl=en_IN) - Easy Player app is a solution for streaming EPG, VOD, video series, and catch-up TV on Android devices.
 - [1-Stream Player](https://play.google.com/store/apps/details?id=com.onestream.player) - 1-Stream Player App is the perfect platform for your streaming needs. this app is powered by Purple Smart TV.
 - [Simple IPTV Player](https://play.google.com/store/apps/details?id=com.purple.simple.player&hl=en_IN) - A simple and faster way to access your favourite your own stream using Simple IPTV Player.
-- [Digilog TV](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix. 
+- [Digilog TV](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
 
 #### Smart TV
 
@@ -138,7 +150,7 @@ Applications with support of IPTV streams.
 
 - [IOTV](https://channelstore.roku.com/details/7bca35663cdfc649a1d3ca816cf729f7/iotv) - IPTV Player for Roku.
 
-## Providers 
+## Providers
 
 - [WatchIPTV](https://watchiptv.xyz) - Watch IPTV-org streams directly from your browser.
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
@@ -169,7 +181,7 @@ Applications with support of IPTV streams.
 - [photocall.tv](https://photocall.tv/) - Online television and radio.
 - [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal.
 
-## Channel data sources
+## Channel Datasets
 
 A list of useful sources containing information about TV channels.
 
@@ -235,7 +247,13 @@ Libraries and frameworks for working with IPTV data
 
 ## Contribution
 
-Please feel free to make any changes to this list. As long as this changes are related to the topic of IPTV they are most likely be accepted.
+Feel free to make any changes to this list. If those changes are related to the IPTV topic, they will most likely be accepted.
+
+Just please follow 3 simple rules:
+
+- new links are added to the end of the section
+- the description should consist of one sentence
+- do not repeat the name of the app/site in the description
 
 ## License
 
