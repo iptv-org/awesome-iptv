@@ -192,6 +192,7 @@ A list of useful sources containing information about TV channels.
 - [Predavatel](https://predavatel.com/) - Detailed information on Bulgarian and Macedonian channels.
 - [CEM](https://www.cem.bg/linear_reg.php) - Official register of TV channels broadcast in Bulgaria.
 - [Sat-address](https://www.sat-address.com/) - Information on satellite, terrestrial, cable, IPTV and streaming channels worldwide.
+- [fanmingming/live](https://github.com/fanmingming/live) - Logo library of mainly Chinese TV channels.
 
 ## EPG Sources
 
