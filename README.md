@@ -28,6 +28,7 @@ Applications with support of IPTV streams.
 - [Ellipto IPTV](https://elliptoiptv.vercel.app/) - A progressive web app to watch m3u or m3u8 playlists with some awesome features.
 - [MediathekViewWeb](https://mediathekviewweb.de/) - Tool for finding URLs of videos specifically from German(-speaking) public broadcast.
 - [Matrix Broadcasting System](http://matrixbroadcasting.com/) - A unique no downloads, no signups, no ads way of watching your favorite streams, supports local and remote m3u and m3u8 playlists.
+- [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.
 
 #### Windows
 
