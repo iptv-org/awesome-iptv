@@ -42,6 +42,7 @@ Applications with support of IPTV streams.
 - [MediathekViewWeb](https://mediathekviewweb.de/) - Tool for finding URLs of videos specifically from German(-speaking) public broadcast.
 - [Matrix Broadcasting System](http://matrixbroadcasting.com/) - A unique no downloads, no signups, no ads way of watching your favorite streams, supports local and remote m3u and m3u8 playlists.
 - [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.
+- [IPTVPLAY](https://iptvplay.stream/en) - A simple web based IPTV player.
 
 #### Windows
 
