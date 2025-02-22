@@ -43,6 +43,7 @@ Applications with support of IPTV streams.
 - [Matrix Broadcasting System](http://matrixbroadcasting.com/) - A unique no downloads, no signups, no ads way of watching your favorite streams, supports local and remote m3u and m3u8 playlists.
 - [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.
 - [IPTVPLAY](https://iptvplay.stream/en) - A simple web based IPTV player.
+- [IPTVPlayer.stream](https://iptvplayer.stream/) - a Web based M3U/IPTV player. Ads free, supports local and remote m3u and m3u8 playlists. Supports formats like HLS, MP4 and DASH.
 
 #### Windows
 
