@@ -98,6 +98,7 @@ Applications with support of IPTV streams.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500) - A high-quality live streaming source player app that can preview in real time. It is a multifunctional player that can play and view (requires support from the live streaming source).
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 - [Live TV Player](https://apps.apple.com/us/app/live-tv-player/id6448868009) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
+- [playr](https://apps.apple.com/us/app/playr-iptv-player/id6449495747) - Simple looking app for IPTV fans.
 
 #### Android
 
