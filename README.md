@@ -242,10 +242,11 @@ Useful tools for working with IPTV.
 Libraries and frameworks for working with IPTV data
 
 - [@iptv/xmltv](https://www.npmjs.com/package/@iptv/xmltv) - Fast xmltv parser and generator for Node and browsers.
+- [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers.
+- [@iptv/xtream-api](https://www.npmjs.com/package/@iptv/xtream-api) - Work with Xtream compatible player API's in a standardized format.
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js.
 - [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
 - [iptv-checker-module](https://www.npmjs.com/package/iptv-checker-module) - A Node.js package for programatically checking .m3u playlist channel connection quality.
-- [@iptv/playlist](https://www.npmjs.com/package/@iptv/playlist) - Fast M3U parser and generator for Node and browsers.
 - [weekend-project-space/web-tv](https://github.com/weekend-project-space/web-tv) - IPTV player with support for M3U playlists.
 - [xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV.
 - [Threadfin](https://github.com/Threadfin/Threadfin) - M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe.
