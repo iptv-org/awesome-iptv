@@ -88,6 +88,7 @@ Applications with support of IPTV streams.
 
 #### iOS
 
+- [Yip IPTV Player – Live TV](https://apps.apple.com/tr/app/yip-iptv-player-live-tv/id6444588298) – A modern IPTV player for iOS with M3U/M3U8 playlist support, playlist management, favorites, Picture-in-Picture, AirPlay, and a clean, intuitive interface with parental lock options.
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
 - [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
 - [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
