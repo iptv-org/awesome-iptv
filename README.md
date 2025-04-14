@@ -45,7 +45,8 @@ Applications with support of IPTV streams.
 - [IPTVPLAY](https://iptvplay.stream/en) - A simple web based IPTV player.
 - [IPTVPlayer.stream](https://iptvplayer.stream/) - A free web-based IPTV stream player that lets you import, manage, and stream IPTV playlists directly in your browser.
 - [PublicIPTV](https://publiciptv.com/) - A free online IPTV stream player that lets you explore and watch live TV from around the world.
-
+- [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player whit channels around world.
+  
 #### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
@@ -58,7 +59,8 @@ Applications with support of IPTV streams.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 - [SimpleTV for Windows](http://plst.rf.gd/?i=1) - Free VLC-based application for Windows designed with IPTV features in mind such as favorites, EPG, TV archive, support for MPD, extensible by LUA plugins and EventGhost integration.
 - [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
-
+- [SupercamBR](https://www.supercambr.com.br/) - Open source iptv player and list sharing app for windows and android.
+  
 #### macOS
 
 - [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Free and open-source portable cross-platform media player.
