@@ -45,7 +45,7 @@ Applications with support of IPTV streams.
 - [IPTVPLAY](https://iptvplay.stream/en) - A simple web based IPTV player.
 - [IPTVPlayer.stream](https://iptvplayer.stream/) - A free web-based IPTV stream player that lets you import, manage, and stream IPTV playlists directly in your browser.
 - [PublicIPTV](https://publiciptv.com/) - A free online IPTV stream player that lets you explore and watch live TV from around the world.
-- [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player whit channels around world.
+- [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player with channels from all over the world.
   
 #### Windows
 
