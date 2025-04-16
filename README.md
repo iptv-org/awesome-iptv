@@ -59,7 +59,7 @@ Applications with support of IPTV streams.
 - [Zoom Player](https://www.inmatrix.com/zplayer/) - Customizable media player for Windows PCs.
 - [SimpleTV for Windows](http://plst.rf.gd/?i=1) - Free VLC-based application for Windows designed with IPTV features in mind such as favorites, EPG, TV archive, support for MPD, extensible by LUA plugins and EventGhost integration.
 - [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
-- [SupercamBR](https://www.supercambr.com.br/) - Open source iptv player and list sharing app for windows and android.
+- [SupercamBR](https://www.supercambr.com.br/) - Open source iptv player and list sharing app for Windows.
   
 #### macOS
 
