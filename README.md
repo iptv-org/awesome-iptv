@@ -142,18 +142,10 @@ Applications with support of IPTV streams.
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 - [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=appleTV) - Experience ultimate entertainment with Purple Playlist Player, your all-in-one media solution.
 
-#### Xbox
-
-- [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - A modern IPTV player for Xbox One.
-
 #### Google Chrome
 
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
-
-#### Roku
-
-- [IOTV](https://channelstore.roku.com/details/7bca35663cdfc649a1d3ca816cf729f7/iotv) - IPTV Player for Roku.
 
 ## Providers
 
