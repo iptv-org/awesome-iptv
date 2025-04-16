@@ -259,11 +259,12 @@ Libraries and frameworks for working with IPTV data
 
 Feel free to make any changes to this list. If those changes are related to the IPTV topic, they will most likely be accepted.
 
-Just please follow 3 simple rules:
+Just please follow 4 simple rules:
 
 - new links are added to the end of the section
 - the description should consist of one sentence
 - do not repeat the name of the app/site in the description
+- links in the iOS, Android, Apple TV and Google Chrome sections should lead to a reputable app store or source code
 
 ## License
 
