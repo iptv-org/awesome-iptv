@@ -181,6 +181,7 @@ Applications with support of IPTV streams.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
 - [photocall.tv](https://photocall.tv/) - Online television and radio.
 - [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal.
+- [FreeIPTV](https://freeiptv2023-d.ottc.xyz/) - Free IPTV lists with 35,000+ channels from all around the world.
 
 ## Channel Datasets
 
