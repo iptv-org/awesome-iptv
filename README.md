@@ -234,6 +234,7 @@ Useful tools for working with IPTV.
 - [IPTV Tools](http://www.iptvtools.net/) - A website that provides the necessary tools for IPTV, such as a link checking tool.
 - [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
 - [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
+- [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
 
 ## Programming
 
