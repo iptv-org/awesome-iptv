@@ -176,7 +176,6 @@ Applications with support of IPTV streams.
 - [TDTChannels](https://www.tdtchannels.com/) - Live channels from Spain and international.
 - [OnlineStream.live](https://onlinestream.live/) - Live TV and radio channels from Hungary.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
-- [TNT en direct](https://www.tntendirect.com/) - Live TNT channels from France.
 - [EPG.pw](https://epg.pw/test_channel_page.html) - Live TV channels from all over the world.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
 - [photocall.tv](https://photocall.tv/) - Online television and radio.
