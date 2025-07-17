@@ -31,7 +31,6 @@ Applications with support of IPTV streams.
 #### Web
 
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
-- [TVPeer](http://tvpeer.github.io/) - Watch Peer to Peer (P2P) IPTV online from your browser.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
