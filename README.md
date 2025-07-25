@@ -150,6 +150,7 @@ Applications with support of IPTV streams.
 
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
+- [Stream Commander](https://chromewebstore.google.com/detail/stream-commander/lkfcnjmgmphlbakoinjidjhcenokblbo) - Watch live stream on JW Player Stream Tester page. It's like a commander to watch online live streams.
 
 ## Providers
 
