@@ -30,6 +30,7 @@ Applications with support of IPTV streams.
 
 #### Web
 
+- [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
