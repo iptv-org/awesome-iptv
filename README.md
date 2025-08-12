@@ -45,7 +45,6 @@ Applications with support of IPTV streams.
 - [IPTVPlayer.stream](https://iptvplayer.stream/) - A free web-based IPTV stream player that lets you import, manage, and stream IPTV playlists directly in your browser.
 - [PublicIPTV](https://publiciptv.com/) - A free online IPTV stream player that lets you explore and watch live TV from around the world.
 - [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player with channels from all over the world.
-- [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
   
 #### Windows
 
@@ -183,6 +182,7 @@ Applications with support of IPTV streams.
 - [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal.
 - [FreeIPTV](https://freeiptv2023-d.ottc.xyz/) - Free IPTV lists with 35,000+ channels from all around the world.
 - [CloudTVE](https://cloudtve.com) - Completely free IPTV streaming service channels across worldwide.
+- [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
 
 ## Channel Datasets
 
