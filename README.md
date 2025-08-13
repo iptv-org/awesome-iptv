@@ -183,6 +183,7 @@ Applications with support of IPTV streams.
 - [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal.
 - [FreeIPTV](https://freeiptv2023-d.ottc.xyz/) - Free IPTV lists with 35,000+ channels from all around the world.
 - [CloudTVE](https://cloudtve.com) - Completely free IPTV streaming service channels across worldwide.
+- [Globe TV](https://globetv.app/) - Free live TV from around the world.
 
 ## Channel Datasets
 
