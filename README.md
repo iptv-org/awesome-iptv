@@ -288,7 +288,7 @@ Just please follow 4 simple rules:
 - new links are added to the end of the section
 - the description should consist of one sentence
 - do not repeat the name of the app/site in the description
-- links in the iOS, Android, Apple TV and Google Chrome sections should lead to a reputable app store or source code
+- links in the Android, iPhone, iPad, Apple Watch, Apple TV and Google Chrome sections should lead to a reputable app store or source code
 
 ## License
 
