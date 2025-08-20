@@ -9,13 +9,13 @@ A curated list of resources related to IPTV.
   - [Windows](#windows)
   - [macOS](#macos)
   - [Linux](#linux)
-  - [iOS](#ios)
   - [Android](#android)
-  - [Smart TV](#smart-tv)
+  - [iPhone](#iphone)
+  - [iPad](#ipad)
+  - [Apple Watch](#apple-watch)
   - [Apple TV](#apple-tv)
-  - [Xbox](#xbox)
+  - [Smart TV](#smart-tv)
   - [Google Chrome](#google-chrome)
-  - [Roku](#roku)
 - 📡 [Providers](#providers)
 - 🗄️ [Channel Datasets](#channel-datasets)
 - 🗓 [EPG Sources](#epg-sources)
@@ -64,14 +64,14 @@ Applications with support of IPTV streams.
 
 - [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Free and open-source portable cross-platform media player.
 - [IINA](https://iina.io/) - Modern media player for macOS.
-- [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675) - Free media player for Mac OS.
+- [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675?platform=mac) - Free media player for Mac OS.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 - [Megacubo](https://megacubo.tv/?os=MacOS) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
-- [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
-- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-m3u-xtream/id1662299469?platform=mac) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
+- [Opus IPTV Player](https://apps.apple.com/us/app/iptv-player-opus/id1592313576?platform=mac) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=mac) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=mac) - A high-quality live streaming source player app that can preview in real time.
 
 #### Linux
@@ -150,6 +150,10 @@ Applications with support of IPTV streams.
 - [playr](https://apps.apple.com/us/app/playr-iptv-player/id6449495747?platform=ipad) - Simple looking app for IPTV fans.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=ipad) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 
+#### Apple Watch
+
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleWatch) - A high-quality live streaming source player app that can preview in real time.
+
 #### Apple TV
 
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
@@ -160,10 +164,6 @@ Applications with support of IPTV streams.
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=appleTV) - Allows you to view live and non-live TV/stream technology-based IPTV.
 - [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=appleTV) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleTV) - A high-quality live streaming source player app that can preview in real time.
-
-#### Apple Watch
-
-- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleWatch) - A high-quality live streaming source player app that can preview in real time.
 
 #### Smart TV
 
