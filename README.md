@@ -133,6 +133,9 @@ Applications with support of IPTV streams.
 - [Digilog TV](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
 - [SupercamBR](https://sourceforge.net/projects/supercambr) - Free iptv player for Android with channels from all over the world.
 
+#### Xbox
+
+- [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - A modern IPTV client for the Xbox. Designed for gamepad and remote control.
 
 #### Smart TV
 
