@@ -135,7 +135,7 @@ Applications with support of IPTV streams.
 
 #### Xbox
 
-- [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - A modern IPTV client for the Xbox. Designed for gamepad and remote control.
+- [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - A modern IPTV client for the Xbox, designed for gamepad and remote control.
 
 #### Smart TV
 
