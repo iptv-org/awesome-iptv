@@ -9,13 +9,14 @@ A curated list of resources related to IPTV.
   - [Windows](#windows)
   - [macOS](#macos)
   - [Linux](#linux)
-  - [iOS](#ios)
   - [Android](#android)
-  - [Smart TV](#smart-tv)
+  - [iPhone](#iphone)
+  - [iPad](#ipad)
+  - [Apple Watch](#apple-watch)
   - [Apple TV](#apple-tv)
+  - [Smart TV](#smart-tv)
   - [Xbox](#xbox)
   - [Google Chrome](#google-chrome)
-  - [Roku](#roku)
 - 📡 [Providers](#providers)
 - 🗄️ [Channel Datasets](#channel-datasets)
 - 🗓 [EPG Sources](#epg-sources)
@@ -65,14 +66,15 @@ Applications with support of IPTV streams.
 
 - [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) - Free and open-source portable cross-platform media player.
 - [IINA](https://iina.io/) - Modern media player for macOS.
-- [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675) - Free media player for Mac OS.
+- [Elmedia Video Player](https://apps.apple.com/us/app/elmedia-video-player/id1044549675?platform=mac) - Free media player for Mac OS.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 - [Megacubo](https://megacubo.tv/?os=MacOS) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
-- [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
-- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-m3u-xtream/id1662299469?platform=mac) - Easy-to-use IPTV player and list manager that supports remote and local M3U playlists, Picture-in-Picture playback, and iCloud-based content sync for your other Apple devices.
+- [Opus IPTV Player](https://apps.apple.com/us/app/iptv-player-opus/id1592313576?platform=mac) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=mac) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=mac) - A high-quality live streaming source player app that can preview in real time.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=mac) - Smart and intuitive media hub designed to centralize your personal video collections.
 
 #### Linux
@@ -89,23 +91,6 @@ Applications with support of IPTV streams.
 - [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app.
 - [TVHplayer](https://github.com/mfat/tvhplayer) - Cross-platform desktop client for TVheadend using vlc as playback engine, featuring EPG, remote (DVR) and local recording.
 - [yuki-iptv](https://codeberg.org/liya/yuki-iptv) - IPTV player with EPG support.
-
-#### iOS
-
-- [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255) - Allows you to view live and non-live TV/stream technology-based IPTV.
-- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
-- [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
-- [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273) - Player for IPTV (.m3u) playlists.
-- [Smarters Player Lite](https://apps.apple.com/in/app/smarters-player-lite/id1628995509) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
-- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704) - IPTV Player for users to watch content with their playlist.
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player and M3U list manager that supports Picture-in-Picture, AirPlay, Chromecast, and iCloud sync for a connected experience across iPhone, iPad, Apple TV.
-- [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
-- [APTV](https://apps.apple.com/us/app/aptv/id1630403500) - A high-quality live streaming source player app that can preview in real time.
-- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
-- [Live TV Player](https://apps.apple.com/us/app/live-tv-player/id6448868009) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
-- [playr](https://apps.apple.com/us/app/playr-iptv-player/id6449495747) - Simple looking app for IPTV fans.
-- [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
-- [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
 
 #### Android
 
@@ -136,21 +121,62 @@ Applications with support of IPTV streams.
 - [Digilog TV](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
 - [SupercamBR](https://sourceforge.net/projects/supercambr) - Free iptv player for Android with channels from all over the world.
 
-#### Xbox
+#### iPhone
 
-- [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - A modern IPTV client for the Xbox, designed for gamepad and remote control.
+- [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=iphone) - Allows you to view live and non-live TV/stream technology-based IPTV.
+- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928?platform=iphone) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
+- [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356?platform=iphone) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
+- [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273?platform=iphone) - Player for IPTV (.m3u) playlists.
+- [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=iphone) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=iphone) - IPTV Player for users to watch content with their playlist.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469?platform=iphone) - Free IPTV player and M3U list manager that supports Picture-in-Picture, AirPlay, Chromecast, and iCloud sync for a connected experience across iPhone, iPad, Apple TV.
+- [Opus IPTV Player](https://apps.apple.com/us/app/iptv-player-opus/id1592313576?platform=iphone) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=iphone) - A high-quality live streaming source player app that can preview in real time.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=iphone) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [Live TV Player](https://apps.apple.com/us/app/live-tv-player/id6448868009?platform=iphone) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
+- [playr](https://apps.apple.com/us/app/playr-iptv-player/id6449495747?platform=iphone) - Simple looking app for IPTV fans.
+- [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=iphone) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
+- [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
+
+#### iPad
+
+- [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=ipad) - Allows you to view live and non-live TV/stream technology-based IPTV.
+- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928?platform=ipad) - Media player with support DTS (DTS HD), DTS Headphone:X, Dolby (AC3, E-AC3).
+- [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356?platform=ipad) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
+- [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273?platform=ipad) - Player for IPTV (.m3u) playlists.
+- [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=ipad) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=ipad) - IPTV Player for users to watch content with their playlist.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469?platform=ipad) - Free IPTV player and M3U list manager that supports Picture-in-Picture, AirPlay, Chromecast, and iCloud sync for a connected experience across iPhone, iPad, Apple TV.
+- [Opus IPTV Player](https://apps.apple.com/us/app/iptv-player-opus/id1592313576?platform=ipad) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=ipad) - A high-quality live streaming source player app that can preview in real time.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=ipad) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [Live TV Player](https://apps.apple.com/us/app/live-tv-player/id6448868009?platform=ipad) - Free IPTV Player by TechArt Apps, supports .m3u playlists, Picture-in-Picture, AirPlay.
+- [playr](https://apps.apple.com/us/app/playr-iptv-player/id6449495747?platform=ipad) - Simple looking app for IPTV fans.
+- [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=ipad) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
+- [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=ipad) - Smart and intuitive media hub designed to centralize your personal video collections.
+
+#### Apple Watch
+
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleWatch) - A high-quality live streaming source player app that can preview in real time.
+
+#### Apple TV
+
+- [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469?platform=appleTV) - Free IPTV player with support for M3U, Xtream Codes, and iCloud sync for a connected experience across Apple TV, iPhone, iPad, and Mac.
+- [Opus IPTV Player](https://apps.apple.com/us/app/iptv-player-opus/id1592313576?platform=appleTV) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=appleTV) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=appleTV) - Experience ultimate entertainment with Purple Playlist Player, your all-in-one media solution.
+- [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=appleTV) - Allows you to view live and non-live TV/stream technology-based IPTV.
+- [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=appleTV) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleTV) - A high-quality live streaming source player app that can preview in real time.
 
 #### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
-#### Apple TV
+#### Xbox
 
-- [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - Free IPTV player with support for M3U, Xtream Codes, and iCloud sync for a connected experience across Apple TV, iPhone, iPad, and Mac.
-- [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
-- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
-- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=appleTV) - Experience ultimate entertainment with Purple Playlist Player, your all-in-one media solution.
+- [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - A modern IPTV client for the Xbox, designed for gamepad and remote control.
 
 #### Google Chrome
 
@@ -271,7 +297,7 @@ Just please follow 4 simple rules:
 - new links are added to the end of the section
 - the description should consist of one sentence
 - do not repeat the name of the app/site in the description
-- links in the iOS, Android, Apple TV and Google Chrome sections should lead to a reputable app store or source code
+- links in the Android, iPhone, iPad, Apple Watch, Apple TV and Google Chrome sections should lead to a reputable app store or source code
 
 ## License
 
