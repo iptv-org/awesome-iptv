@@ -139,6 +139,7 @@ Applications with support of IPTV streams.
 - [playr](https://apps.apple.com/us/app/playr-iptv-player/id6449495747?platform=iphone) - Simple looking app for IPTV fans.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=iphone) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
+- [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 
 #### iPad
 
@@ -156,6 +157,7 @@ Applications with support of IPTV streams.
 - [playr](https://apps.apple.com/us/app/playr-iptv-player/id6449495747?platform=ipad) - Simple looking app for IPTV fans.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=ipad) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=ipad) - Smart and intuitive media hub designed to centralize your personal video collections.
+- [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 
 #### Apple Watch
 
@@ -171,6 +173,7 @@ Applications with support of IPTV streams.
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=appleTV) - Allows you to view live and non-live TV/stream technology-based IPTV.
 - [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=appleTV) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleTV) - A high-quality live streaming source player app that can preview in real time.
+- [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=appleTV) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 
 #### Smart TV
 
