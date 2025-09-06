@@ -31,7 +31,6 @@ Applications with support of IPTV streams.
 
 #### Web
 
-- [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
@@ -40,9 +39,7 @@ Applications with support of IPTV streams.
 - [Free IPTV Player](https://freeiptvplayer.net/) - Tool for testing M3U files and enjoying live HLS TV UHD, FHD, HD, or SD streams on any browser-equipped device.
 - [Ellipto IPTV](https://elliptoiptv.vercel.app/) - A progressive web app to watch m3u or m3u8 playlists with some awesome features.
 - [MediathekViewWeb](https://mediathekviewweb.de/) - Tool for finding URLs of videos specifically from German(-speaking) public broadcast.
-- [Matrix Broadcasting System](http://matrixbroadcasting.com/) - A unique no downloads, no signups, no ads way of watching your favorite streams, supports local and remote m3u and m3u8 playlists.
 - [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.
-- [IPTVPLAY](https://iptvplay.stream/en) - A simple web based IPTV player.
 - [IPTVPlayer.stream](https://iptvplayer.stream/) - A free web-based IPTV stream player that lets you import, manage, and stream IPTV playlists directly in your browser.
 - [PublicIPTV](https://publiciptv.com/) - A free online IPTV stream player that lets you explore and watch live TV from around the world.
 - [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player with channels from all over the world.
@@ -216,9 +213,7 @@ Applications with support of IPTV streams.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
 - [EPG.pw](https://epg.pw/test_channel_page.html) - Live TV channels from all over the world.
 - [Chinese TV](https://www.tvchinese.net/) - Links to live broadcasts of Chinese TV channels.
-- [photocall.tv](https://photocall.tv/) - Online television and radio.
 - [M3UPT](https://m3upt.com/) - Free and legal IPTV list with TV channels, radio stations and beachcams from Portugal.
-- [FreeIPTV](https://freeiptv2023-d.ottc.xyz/) - Free IPTV lists with 35,000+ channels from all around the world.
 - [CloudTVE](https://cloudtve.com) - Completely free IPTV streaming service channels across worldwide.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
 - [Globe TV](https://globetv.app/) - Free live TV from around the world.
@@ -271,7 +266,6 @@ Useful tools for working with IPTV.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
-- [IPTV Tools](http://www.iptvtools.net/) - A website that provides the necessary tools for IPTV, such as a link checking tool.
 - [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
 - [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
