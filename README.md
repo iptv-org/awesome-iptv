@@ -218,6 +218,7 @@ Applications with support of IPTV streams.
 - [CloudTVE](https://cloudtve.com) - Completely free IPTV streaming service channels across worldwide.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
 - [Globe TV](https://globetv.app/) - Free live TV from around the world.
+- [WorldTV - Web Client](https://worldtv.onrender.com/) - Universal web IPTV client — 100+ playlists, custom uploads, remote & mobile friendly.
 
 ## Channel Datasets
 
