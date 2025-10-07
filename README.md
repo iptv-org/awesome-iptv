@@ -219,7 +219,7 @@ Applications with support of IPTV streams.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
 - [Globe TV](https://globetv.app/) - Free live TV from around the world.
 - [WorldTV - Web Client](https://worldtv.onrender.com/) - Universal web IPTV client — 100+ playlists, custom uploads, remote & mobile friendly.
-- [TV Run](https://tvrun.online/) - Watch live free TV channels, it's lightweight built with React & Plyr player
+- [TV Run](https://tvrun.online/) - Free online global TV streaming platform.
 
 ## Channel Datasets
 
