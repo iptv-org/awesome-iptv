@@ -194,7 +194,6 @@ Applications with support of IPTV streams.
 - [IPTV Player](https://iptv-web.app/) - Open-source Flutter app that allows you to watch publicly accessible streams from within your browser.
 - [Worlds TV Mobile](https://worldstvmobile.com/) - Search for the channel you prefer to tune in and stream in one click.
 - [TV Tuner](https://tvtuner.vercel.app/) - Watch IPTV online with features such as keep watching last selected channel, search channel, search country and supported for both web and mobile layouts.
-- [EBK IPTV](https://www.ebk-iptv.online/) - Watch online with pre-defined lists, add custom URLs, favorite channels/genres, channel/country search, and PWA support.
 - [tv.garden](https://tv.garden) - Explore and watch live TV from around the world with an intuitive globe interface, inspired by radio.garden.
 - [Global Free TV](https://globalfreetv.com/) - Stream a wide range of free IPTV channels from various countries, offering easy access to international content through a user-friendly interface.
 - [LyngSat Stream](http://www.lyngsat-stream.com/) - Public links to 3018 linear TV channels and 2963 linear radio channels transmitting on internet.
@@ -252,13 +251,14 @@ A list of useful sources containing information about TV channels.
 Sources of EPG (Electronic Program Guide) for IPTV channels.
 
 - [EPG for IPTV](https://epg.best/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
-- [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) - Program guide mainly for channels from the CIS.
+- [iptvX|one](https://iptvx.one/) - Program guide mainly for channels from the CIS.
 - [i.mjh.nz](http://i.mjh.nz/) - Program guide for channels from Australia, New Zealand and South Africa.
 - [epg.51zmt.top](http://epg.51zmt.top:8000/) - Program guides mainly for channels from China and some international ones.
 - [deepepg](https://www.deepepg.com/) - EPG for China.
 - [EPG.pw](https://epg.pw/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
 - [EPGSHARE01](https://epgshare01.online/) - Program guides for multiple countries.
 - [Open EPG](https://www.open-epg.com/) - Free EPG for 2 days, sorted by country.
+- [iptv-epg](https://iptv-epg.org/) - Worldwide EPG service
 
 ## Tools
 
