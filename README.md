@@ -264,7 +264,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 
 Useful tools for working with IPTV.
 
-- [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
+- [WebGrab+Plus]([http://www.webgrabplus.com/](https://www.tvplayer.me/live.html)) - Multi-site incremental XMLTV EPG grabber.
 - [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
 - [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
