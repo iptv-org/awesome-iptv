@@ -125,12 +125,6 @@ Applications with support of IPTV streams.
 - [SupercamBR](https://sourceforge.net/projects/supercambr) - Free iptv player for Android with channels from all over the world.
 - [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 
-#### Tizen
-- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
-
-#### WebOS
-- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
-
 #### iPhone
 
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=iphone) - Allows you to view live and non-live TV/stream technology-based IPTV.
@@ -186,6 +180,7 @@ Applications with support of IPTV streams.
 #### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
+- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback. Available for Tizen (Samsung) and webOS (LG).
 
 #### Xbox
 
