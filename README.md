@@ -180,7 +180,7 @@ Applications with support of IPTV streams.
 #### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
-- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback. Available for Tizen (Samsung) and webOS (LG).
+- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 
 #### Xbox
 
