@@ -46,6 +46,7 @@ Applications with support of IPTV streams.
 - [Wizju IPTV Player](https://github.com/j2jstudio/wizju-iptv-player) - Lightweight, modern, browser‑based IPTV player built with Vue 3, Vite, TypeScript, Pinia, TailwindCSS and Video.js.
 - [M3U Magic](https://tools.cieloweb.com/tools/m3u-magic) – A fast, privacy-first web tool to open and play M3U and M3U8 playlists directly in your browser.
 - [hlstv.app](https://hlstv.app) – Fast, easy to use iptv player with curated local & remote URL upload capabilities.
+- [Moviepex](https://moviepex.com)- IPTV player with family profiles, Super fast, Great UX/UI, IMDB integration, Football matches of day integration, and TV remote navigation.
   
 #### Windows
 
