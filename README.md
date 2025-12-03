@@ -63,6 +63,7 @@ Applications with support of IPTV streams.
 - [SupercamBR](https://www.supercambr.com.br/) - Open source iptv player and list sharing app for Windows.
 - [Xtream IPTV Player by MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) - An IPTV player that supports M3U_plus playlists and the Xtream Codes API, allowing users to manage and play IPTV channels, movies, and TV series.
 - [MAC & Stalker IPTV Player by MY-1](https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1) - Stream Live TV, VOD, and Series from MAC-based and Stalker IPTV portals directly on Windows with powerful extra features.
+- [AndyTV](https://github.com/aherrick/AndyTV) - A lightweight, open-source IPTV player for Windows.
 
 #### macOS
 
