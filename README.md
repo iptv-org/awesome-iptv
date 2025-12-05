@@ -47,6 +47,7 @@ Applications with support of IPTV streams.
 - [M3U Magic](https://tools.cieloweb.com/tools/m3u-magic) – A fast, privacy-first web tool to open and play M3U and M3U8 playlists directly in your browser.
 - [hlstv.app](https://hlstv.app) – Fast, easy to use iptv player with curated local & remote URL upload capabilities.
 - [M3U IPTV](https://m3u-ip.tv/browser/) - Stream your M3U playlist with our free, easy-to-use IPTV player app.
+- [Moviepex](https://moviepex.com)- Super fast IPTV player with family profiles, great UX/UI, IMDB integration, football matches of day integration, and TV remote navigation.
   
 #### Windows
 
@@ -64,6 +65,7 @@ Applications with support of IPTV streams.
 - [Xtream IPTV Player by MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) - An IPTV player that supports M3U_plus playlists and the Xtream Codes API, allowing users to manage and play IPTV channels, movies, and TV series.
 - [MAC & Stalker IPTV Player by MY-1](https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1) - Stream Live TV, VOD, and Series from MAC-based and Stalker IPTV portals directly on Windows with powerful extra features.
 - [M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
+- [AndyTV](https://github.com/aherrick/AndyTV) - A lightweight, open-source IPTV player for Windows.
 
 #### macOS
 
