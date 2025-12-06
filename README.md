@@ -46,6 +46,7 @@ Applications with support of IPTV streams.
 - [Wizju IPTV Player](https://github.com/j2jstudio/wizju-iptv-player) - Lightweight, modern, browser‑based IPTV player built with Vue 3, Vite, TypeScript, Pinia, TailwindCSS and Video.js.
 - [M3U Magic](https://tools.cieloweb.com/tools/m3u-magic) – A fast, privacy-first web tool to open and play M3U and M3U8 playlists directly in your browser.
 - [hlstv.app](https://hlstv.app) – Fast, easy to use iptv player with curated local & remote URL upload capabilities.
+- [M3U IPTV](https://m3u-ip.tv/browser/) - Stream your M3U playlist with our free, easy-to-use IPTV player app.
 - [Moviepex](https://moviepex.com)- Super fast IPTV player with family profiles, great UX/UI, IMDB integration, football matches of day integration, and TV remote navigation.
   
 #### Windows
@@ -63,6 +64,7 @@ Applications with support of IPTV streams.
 - [SupercamBR](https://www.supercambr.com.br/) - Open source iptv player and list sharing app for Windows.
 - [Xtream IPTV Player by MY-1](https://github.com/Cyogenus/XTREME-IPTV-PLAYER-by-MY-1) - An IPTV player that supports M3U_plus playlists and the Xtream Codes API, allowing users to manage and play IPTV channels, movies, and TV series.
 - [MAC & Stalker IPTV Player by MY-1](https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1) - Stream Live TV, VOD, and Series from MAC-based and Stalker IPTV portals directly on Windows with powerful extra features.
+- [M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [AndyTV](https://github.com/aherrick/AndyTV) - A lightweight, open-source IPTV player for Windows.
 
 #### macOS
@@ -123,6 +125,7 @@ Applications with support of IPTV streams.
 - [Simple IPTV Player](https://play.google.com/store/apps/details?id=com.purple.simple.player&hl=en_IN) - A simple and faster way to access your favourite your own stream using Simple IPTV Player.
 - [Digilog TV](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
 - [SupercamBR](https://sourceforge.net/projects/supercambr) - Free iptv player for Android with channels from all over the world.
+- [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 
 #### iPhone
 
@@ -179,6 +182,7 @@ Applications with support of IPTV streams.
 #### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
+- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 
 #### Xbox
 
@@ -189,6 +193,7 @@ Applications with support of IPTV streams.
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - Allow the browser to play HLS video urls (m3u8) 'natively'.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 - [Stream Commander](https://chromewebstore.google.com/detail/stream-commander/lkfcnjmgmphlbakoinjidjhcenokblbo) - Watch live stream on JW Player Stream Tester page.
+- [M3U IPTV](https://chromewebstore.google.com/detail/m3u-iptv/phlijnghlojafmnhnblaggdmeojcdgdb) - Browser extension to disable CORS in [M3U IPTV Browser](https://m3u-ip.tv/browser/) version.
 
 ## Providers
 
