@@ -81,6 +81,7 @@ Applications with support of IPTV streams.
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=mac) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=mac) - A high-quality live streaming source player app that can preview in real time.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=mac) - Smart and intuitive media hub designed to centralize your personal video collections.
+- [IPTV Watch](https://apps.apple.com/us/app/iptv-watch/id6748964851)
 
 #### Linux
 
@@ -126,6 +127,7 @@ Applications with support of IPTV streams.
 - [Digilog TV](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
 - [SupercamBR](https://sourceforge.net/projects/supercambr) - Free iptv player for Android with channels from all over the world.
 - [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
+- [IPTV World](https://play.google.com/store/apps/details?id=com.sirius.iptv) - World Channels in One Place TV
 
 #### iPhone
 
@@ -144,6 +146,7 @@ Applications with support of IPTV streams.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=iphone) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- [IPTV Watch](https://apps.apple.com/us/app/iptv-watch/id6748964851?platform=iphone) - World Channels in One Place TV
 
 #### iPad
 
@@ -162,6 +165,7 @@ Applications with support of IPTV streams.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=ipad) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=ipad) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- [IPTV Watch](https://apps.apple.com/us/app/iptv-watch/id6748964851?platform=ipad) - World Channels in One Place TV
 
 #### Apple Watch
 
@@ -183,6 +187,7 @@ Applications with support of IPTV streams.
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
 - [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
+- [IPTV World](https://play.google.com/store/apps/details?id=com.sirius.iptv) - World Channels in One Place TV
 
 #### Xbox
 
