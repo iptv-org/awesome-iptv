@@ -32,6 +32,7 @@ Applications with support of IPTV streams.
 #### Web
 
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
+- [Web IPTV Player] [https://www.webiptvplayer.com/] - Modern, secure browser-based player featuring Google Cloud Sync for playlists, Chromecast/AirPlay support, EPG, and smart VLC integration for complex streams.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [Purple WebPlayer](http://login.purpletv.app) - Free Webplayer to stream content within browser.
