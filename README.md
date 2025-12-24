@@ -194,6 +194,7 @@ Applications with support of IPTV streams.
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - View XMLTV files directly in the browser.
 - [Stream Commander](https://chromewebstore.google.com/detail/stream-commander/lkfcnjmgmphlbakoinjidjhcenokblbo) - Watch live stream on JW Player Stream Tester page.
 - [M3U IPTV](https://chromewebstore.google.com/detail/m3u-iptv/phlijnghlojafmnhnblaggdmeojcdgdb) - Browser extension to disable CORS in [M3U IPTV Browser](https://m3u-ip.tv/browser/) version.
+- [HLS Player](https://chromewebstore.google.com/detail/iptv-player-player-for-hl/lljjhhjbbppcbfbhmflgjhloagchmijo) - Play HLS / M3U streams directly in the Chrome browser
 
 ## Providers
 
