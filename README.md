@@ -48,6 +48,7 @@ Applications with support of IPTV streams.
 - [hlstv.app](https://hlstv.app) – Fast, easy to use iptv player with curated local & remote URL upload capabilities.
 - [M3U IPTV](https://m3u-ip.tv/browser/) - Stream your M3U playlist with our free, easy-to-use IPTV player app.
 - [Moviepex](https://moviepex.com)- Super fast IPTV player with family profiles, great UX/UI, IMDB integration, football matches of day integration, and TV remote navigation.
+- [Web IPTV Player] [https://www.webiptvplayer.com/] - Modern, secure browser-based player featuring Google Cloud Sync for playlists, Chromecast/AirPlay support, EPG, and smart VLC integration for complex streams.
   
 #### Windows
 
