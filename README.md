@@ -184,6 +184,7 @@ Applications with support of IPTV streams.
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
 - [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
+- [IPTV Stream Player](https://channelstore.roku.com/details/0352af0ee92612996318ca159ab6dcf7:942c4da25011b81777c6deaaa6fbd886/iptv-stream-player-watch-tv) - A powerful and user-friendly video player designed exclusively for Roku TV.
 
 #### Xbox
 
