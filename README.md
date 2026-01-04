@@ -69,6 +69,7 @@ Applications with support of IPTV streams.
 - [M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [AndyTV](https://github.com/aherrick/AndyTV) - A lightweight, open-source IPTV player for Windows.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
+- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 
 #### macOS
 
@@ -86,6 +87,7 @@ Applications with support of IPTV streams.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=mac) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
+- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 
 #### Linux
 
@@ -103,6 +105,7 @@ Applications with support of IPTV streams.
 - [yuki-iptv](https://codeberg.org/liya/yuki-iptv) - IPTV player with EPG support.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
+- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 
 #### Android
 
