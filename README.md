@@ -67,6 +67,8 @@ Applications with support of IPTV streams.
 - [MAC & Stalker IPTV Player by MY-1](https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER-BY-MY-1) - Stream Live TV, VOD, and Series from MAC-based and Stalker IPTV portals directly on Windows with powerful extra features.
 - [M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [AndyTV](https://github.com/aherrick/AndyTV) - A lightweight, open-source IPTV player for Windows.
+- - [King Stream Player](https://apps.microsoft.com/store/detail/9pkbz7773f60?gl=US&hl=en-US) - Simple Windows media application to play your IPTV playlists and local streams.
+
 
 #### macOS
 
@@ -82,6 +84,8 @@ Applications with support of IPTV streams.
 - [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=mac) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=mac) - A high-quality live streaming source player app that can preview in real time.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=mac) - Smart and intuitive media hub designed to centralize your personal video collections.
+- - [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=iphone) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
+
 
 #### Linux
 
@@ -146,6 +150,8 @@ Applications with support of IPTV streams.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=iphone) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- - [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=iphone) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
+
 
 #### iPad
 
@@ -164,6 +170,8 @@ Applications with support of IPTV streams.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=ipad) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=ipad) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- - [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=iphone) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
+
 
 #### Apple Watch
 
