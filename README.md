@@ -70,7 +70,7 @@ Applications with support of IPTV streams.
 - [AndyTV](https://github.com/aherrick/AndyTV) - A lightweight, open-source IPTV player for Windows.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
-- - [King Stream Player](https://apps.microsoft.com/store/detail/9pkbz7773f60?gl=US&hl=en-US) - Simple Windows media application to play your IPTV playlists and local streams.
+- [King Stream Player](https://apps.microsoft.com/store/detail/9pkbz7773f60?gl=US&hl=en-US) - Simple Windows media application to play your IPTV playlists and local streams.
 
 #### macOS
 
