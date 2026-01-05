@@ -30,7 +30,6 @@ A curated list of resources related to IPTV.
 Applications with support of IPTV streams.
 
 #### Web
-- [FluxCast](https://github.com/abhiyanpa/FluxCast) - Modern IPTV streaming web app with React and live API integration.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
@@ -200,6 +199,7 @@ Applications with support of IPTV streams.
 
 ## Providers
 
+- [FluxCast](https://github.com/abhiyanpa/FluxCast) - Modern IPTV streaming web app with React and live API integration.
 - [WatchIPTV](https://watchiptv.xyz) - Watch IPTV-org streams directly from your browser.
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 - [IPTV Player](https://iptv-web.app/) - Open-source Flutter app that allows you to watch publicly accessible streams from within your browser.
