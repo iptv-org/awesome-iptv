@@ -178,7 +178,6 @@ Applications with support of IPTV streams.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - - [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=iphone) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
 
-
 #### Apple Watch
 
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleWatch) - A high-quality live streaming source player app that can preview in real time.
