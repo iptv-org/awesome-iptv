@@ -146,6 +146,7 @@ Applications with support of IPTV streams.
 - [IPTV Streams](https://apps.apple.com/de/app/iptv-streams/id6746856713?platform=iphone) - IPTV Player with M3U list manager, favorites manager and iCloud sync of M3U lists and favorites.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF - Love your IPTV](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- [King Stream Player – IPTV Player for Apple devices](https://apps.apple.com/us/app/king-stream-player/id6748822861) - King Stream Player is a clean and lightweight IPTV player designed for Apple devices. Built with a focus on performance, simplicity, and long-term stability. This app is a media player only and does not provide any IPTV content. Users must add their own playlists. 
 
 #### iPad
 
