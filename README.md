@@ -89,7 +89,7 @@ Applications with support of IPTV streams.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
-- - [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=iphone) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
+- [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=mac) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
 
 #### Linux
 
