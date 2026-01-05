@@ -50,6 +50,11 @@ Applications with support of IPTV streams.
 - [M3U IPTV](https://m3u-ip.tv/browser/) - Stream your M3U playlist with our free, easy-to-use IPTV player app.
 - [Moviepex](https://moviepex.com)- Super fast IPTV player with family profiles, great UX/UI, IMDB integration, football matches of day integration, and TV remote navigation.
 - [Web IPTV Player](https://www.webiptvplayer.com/) - Modern, secure browser-based player featuring Google Cloud Sync for playlists, Chromecast/AirPlay support, EPG, and smart VLC integration for complex streams.
+- [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
+- [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
+- [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
+- [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
+- [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
   
 #### Windows
 
@@ -71,6 +76,11 @@ Applications with support of IPTV streams.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 - [King Stream Player](https://apps.microsoft.com/store/detail/9pkbz7773f60?gl=US&hl=en-US) - Simple Windows media application to play your IPTV playlists and local streams.
+- [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
+- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+- [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
+- [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
+
 
 #### macOS
 
@@ -90,6 +100,8 @@ Applications with support of IPTV streams.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 - [King Stream Player](https://apps.apple.com/us/app/king-stream-player/id6748822861?platform=mac) - Clean and simple IPTV player that lets users play their own M3U playlists with full control.
+- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+
 
 #### Linux
 
@@ -108,6 +120,8 @@ Applications with support of IPTV streams.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
+- [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
+- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 
 #### Android
 
@@ -217,6 +231,7 @@ Applications with support of IPTV streams.
 - [ViniPlay](https://github.com/ardoviniandrea/ViniPlay) - A powerful, self-hosted IPTV player with a modern web interface.
 - [nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A modern, web-based IPTV player featuring Live TV, EPG, Movies (VOD), and Series support.
 - [neTV](https://github.com/jvdillon/netv) - A minimal, self-hosted web interface for IPTV streams.
+- [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
 
 ## Providers
 
@@ -291,21 +306,6 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [EPGSHARE01](https://epgshare01.online/) - Program guides for multiple countries.
 - [Open EPG](https://www.open-epg.com/) - Free EPG for 2 days, sorted by country.
 
-## Tools
-
-Useful tools for working with IPTV.
-
-- [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
-- [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
-- [m3u4u](https://m3u4u.com/) - Create, edit, sort m3u playlists online, EPG, and more.
-- [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
-- [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
-- [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
-- [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
-- [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
-- [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
-- [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
-
 ## Programming
 
 Libraries and frameworks for working with IPTV data
@@ -322,6 +322,7 @@ Libraries and frameworks for working with IPTV data
 - [flybird-downloader](https://github.com/youwen21/flybird-downloader) - M3U8 downloader and IPTV checker.
 - [davidclaeysquinones/epg-info-docker](https://github.com/davidclaeysquinones/epg-info-docker) - Docker container image for [iptv-org/epg](https://github.com/iptv-org/epg).
 - [@iptv/xtream-api](https://www.npmjs.com/package/@iptv/xtream-api) - Work with Xtream compatible player API's in a standardized format.
+- [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
 
 ## Contribution
 
