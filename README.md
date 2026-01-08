@@ -55,6 +55,7 @@ Applications with support of IPTV streams.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
+- [Web Portal like TV](https://zenithtv.lovable.app/) - Watch Free, Ad Free 12k+ channels, A modern web platform for watching live tv channels
   
 #### Windows
 
