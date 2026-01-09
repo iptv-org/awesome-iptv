@@ -261,6 +261,7 @@ Applications with support of IPTV streams.
 - [Globe TV](https://globetv.app/) - Free live TV from around the world.
 - [WorldTV - Web Client](https://worldtv.onrender.com/) - Universal web IPTV client — 100+ playlists, custom uploads, remote & mobile friendly.
 - [TV Run](https://tvrun.online/) - Free online global TV streaming platform.
+- [IpTv App](https://sidratulpunno.github.io/LiveTv/) - Cross-platform player built with Flutter that supports playing all the channels from the iptv repository.
 
 ## Channel Datasets
 
