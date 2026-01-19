@@ -149,6 +149,8 @@ Applications with support of IPTV streams.
 - [SupercamBR](https://sourceforge.net/projects/supercambr) - Free iptv player for Android with channels from all over the world.
 - [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [IPTVMine](https://play.google.com/store/apps/details?id=com.samyak2403.iptvmine) - A registration-free IPTV player designed for simple and smooth M3U playback.
+- [Wizju - IPTV Player](https://play.google.com/store/apps/details?id=dev.j2j.wizju) - The ultimate IPTV player that supports both Xtream Codes API
+and M3U playlists.
 
 #### iPhone
 
@@ -219,6 +221,7 @@ Applications with support of IPTV streams.
 - [Stream Commander](https://chromewebstore.google.com/detail/stream-commander/lkfcnjmgmphlbakoinjidjhcenokblbo) - Watch live stream on JW Player Stream Tester page.
 - [M3U IPTV](https://chromewebstore.google.com/detail/m3u-iptv/phlijnghlojafmnhnblaggdmeojcdgdb) - Browser extension to disable CORS in [M3U IPTV Browser](https://m3u-ip.tv/browser/) version.
 - [IPTV Player](https://chromewebstore.google.com/detail/iptv-player-player-for-hl/lljjhhjbbppcbfbhmflgjhloagchmijo) - Play HLS / M3U streams directly in the Chrome browser.
+- [Wizju IPTV Player](https://chromewebstore.google.com/detail/wizju-iptv-player/hdjojoomjdagepdhijbimikcnpnbmfpa) - A modern IPTV player built with Vue.js.
 
 #### Docker
 
