@@ -150,6 +150,7 @@ Applications with support of IPTV streams.
 - [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [IPTVMine](https://play.google.com/store/apps/details?id=com.samyak2403.iptvmine) - A registration-free IPTV player designed for simple and smooth M3U playback.
 - [Wizju - IPTV Player](https://play.google.com/store/apps/details?id=dev.j2j.wizju) - The ultimate IPTV player that supports both Xtream Codes API and M3U playlists.
+- [GlobeTV](https://play.google.com/store/apps/details?id=com.fundevelop.globetv&hl=en) - Your passport to free live TV from every corner of the globe.
 
 #### iPhone
 
