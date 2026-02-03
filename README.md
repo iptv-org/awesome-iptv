@@ -38,6 +38,7 @@ Applications with support of IPTV streams.
 - [Purple WebPlayer](http://login.purpletv.app) - Free Webplayer to stream content within browser.
 - [Pleyr](https://pleyr.net/) - IPTV web browser player both m3u8 and mpeg2-ts playlists.
 - [Free IPTV Player](https://freeiptvplayer.net/) - Tool for testing M3U files and enjoying live HLS TV UHD, FHD, HD, or SD streams on any browser-equipped device.
+- [Global Free TV](https://www.globalfreetv.com/) - Free live TV streaming with 4,000+ channels from 150+ countries. Watch news, sports, movies and entertainment without registration.
 - [Ellipto IPTV](https://elliptoiptv.vercel.app/) - A progressive web app to watch m3u or m3u8 playlists with some awesome features.
 - [MediathekViewWeb](https://mediathekviewweb.de/) - Tool for finding URLs of videos specifically from German(-speaking) public broadcast.
 - [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.
