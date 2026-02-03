@@ -44,6 +44,7 @@ Applications with support of IPTV streams.
 - [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.
 - [IPTVPlayer.stream](https://iptvplayer.stream/) - A free web-based IPTV stream player that lets you import, manage, and stream IPTV playlists directly in your browser.
 - [PublicIPTV](https://publiciptv.com/) - A free online IPTV stream player that lets you explore and watch live TV from around the world.
+- [Global Free TV](https://www.globalfreetv.com/) - Free live TV streaming with 4,000+ channels from 150+ countries. No registration required.
 - [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player with channels from all over the world.
 - [Wizju IPTV Player](https://github.com/j2jstudio/wizju-iptv-player) - Lightweight, modern, browser‑based IPTV player built with Vue 3, Vite, TypeScript, Pinia, TailwindCSS and Video.js.
 - [M3U Magic](https://tools.cieloweb.com/tools/m3u-magic) – A fast, privacy-first web tool to open and play M3U and M3U8 playlists directly in your browser.
