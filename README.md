@@ -205,7 +205,7 @@ Applications with support of IPTV streams.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleTV) - A high-quality live streaming source player app that can preview in real time.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=appleTV) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [IPTVX](https://apps.apple.com/in/app/iptvx/id1451470024?platform=appleTV) - An IPTV player with the pre 2025 Netflix feel.
-- [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=tv) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider
+- [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=tv) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
 
 #### Smart TV
 
