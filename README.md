@@ -202,6 +202,7 @@ Applications with support of IPTV streams.
 - [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=appleTV) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
 - [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleTV) - A high-quality live streaming source player app that can preview in real time.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=appleTV) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- [IPTVX](https://apps.apple.com/in/app/iptvx/id1451470024?platform=appleTV) - An IPTV player with the pre 2025 Netflix feel.
 
 #### Smart TV
 
