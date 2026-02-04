@@ -21,7 +21,6 @@ A curated list of resources related to IPTV.
 - 📡 [Providers](#providers)
 - 🗄️ [Channel Datasets](#channel-datasets)
 - 🗓 [EPG Sources](#epg-sources)
-- 🧰 [Tools](#tools)
 - 👨🏻‍💻 [Programming](#programming)
 - 📝 [Contribution](#contribution)
 - © [License](#license)
