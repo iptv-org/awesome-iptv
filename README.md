@@ -193,15 +193,15 @@ Applications with support of IPTV streams.
 #### Apple TV
 
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U player for Apple TV.
-- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469?platform=appleTV) - Free IPTV player with support for M3U, Xtream Codes, and iCloud sync for a connected experience across Apple TV, iPhone, iPad, and Mac.
-- [Opus IPTV Player](https://apps.apple.com/us/app/iptv-player-opus/id1592313576?platform=appleTV) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
-- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=appleTV) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
-- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=appleTV) - Experience ultimate entertainment with Purple Playlist Player, your all-in-one media solution.
-- [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=appleTV) - Allows you to view live and non-live TV/stream technology-based IPTV.
-- [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=appleTV) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
-- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=appleTV) - A high-quality live streaming source player app that can preview in real time.
-- [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=appleTV) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
-- [IPTVX](https://apps.apple.com/in/app/iptvx/id1451470024?platform=appleTV) - An IPTV player with the pre 2025 Netflix feel.
+- [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469?platform=tv) - Free IPTV player with support for M3U, Xtream Codes, and iCloud sync for a connected experience across Apple TV, iPhone, iPad, and Mac.
+- [Opus IPTV Player](https://apps.apple.com/us/app/iptv-player-opus/id1592313576?platform=tv) - Cross-platform IPTV Player for all your devices including iOS, iPad, MacOS, Apple TV, Android, and Android Tv.
+- [TV Set](https://apps.apple.com/de/app/tv-set/id1660197316?platform=tv) - Free IPTV app for watching tv on iOS, tvOS, and macOS.
+- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704?platform=tv) - Experience ultimate entertainment with Purple Playlist Player, your all-in-one media solution.
+- [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=tv) - Allows you to view live and non-live TV/stream technology-based IPTV.
+- [Smarters Player Lite](https://apps.apple.com/us/app/smarters-player-lite/id1628995509?platform=tv) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500?platform=tv) - A high-quality live streaming source player app that can preview in real time.
+- [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=tv) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
+- [IPTVX](https://apps.apple.com/in/app/iptvx/id1451470024?platform=tv) - An IPTV player with the pre 2025 Netflix feel.
 
 #### Smart TV
 
