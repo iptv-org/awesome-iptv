@@ -10,11 +10,14 @@ A curated list of resources related to IPTV.
   - [macOS](#macos)
   - [Linux](#linux)
   - [Android](#android)
+  - [Android TV](#android-tv)
   - [iPhone](#iphone)
   - [iPad](#ipad)
   - [Apple Watch](#apple-watch)
   - [Apple TV](#apple-tv)
   - [Smart TV](#smart-tv)
+  - [WebOS](#webos)
+  - [Roku](#roku)
   - [Xbox](#xbox)
   - [Google Chrome](#google-chrome)
   - [Docker](#docker)
@@ -54,7 +57,8 @@ Applications with support of IPTV streams.
 - [RockMyM3u](https://rockmym3u.com/) - M3U & Xtream Editor, create playlists and more online.
 - [m3u.in](https://m3u.in/) - Create, edit, sort channels/groups in m3u playlists online, merge two or more playlists into one, automatic updates, access logs, short links and more.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
-  
+- [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+
 #### Windows
 
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - Free and open-source portable cross-platform media player.
@@ -78,6 +82,7 @@ Applications with support of IPTV streams.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
+- [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [ynoTV](https://github.com/tbeezy/ynotv) - A feature-rich, open source IPTV player for Windows built on [Tauri v2](https://tauri.app/) and [mpv](https://mpv.io/).
 
 #### macOS
@@ -98,6 +103,7 @@ Applications with support of IPTV streams.
 - [QiTV](https://github.com/ozankaraali/QiTV) - A cross-platform STB, Xtream and IPTV player.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
+- [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### Linux
 
@@ -119,6 +125,7 @@ Applications with support of IPTV streams.
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [Better-IPTV](https://github.com/mewset/better-iptv) - Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.
+- [Jellyfin Desktop](https://flathub.org/en/apps/org.jellyfin.JellyfinDesktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### Android
 
@@ -152,6 +159,11 @@ Applications with support of IPTV streams.
 - [IPTVMine](https://play.google.com/store/apps/details?id=com.samyak2403.iptvmine) - A registration-free IPTV player designed for simple and smooth M3U playback.
 - [Wizju - IPTV Player](https://play.google.com/store/apps/details?id=dev.j2j.wizju) - The ultimate IPTV player that supports both Xtream Codes API and M3U playlists.
 - [GlobeTV](https://play.google.com/store/apps/details?id=com.fundevelop.globetv&hl=en) - Your passport to free live TV from every corner of the globe.
+- [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+
+#### Android TV
+
+- [Jellyfin for Android TV](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_GB) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### iPhone
 
@@ -171,6 +183,7 @@ Applications with support of IPTV streams.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=iphone) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=iphone) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
+- [Jellyfin Mobile](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?platform=iphone) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### iPad
 
@@ -190,6 +203,7 @@ Applications with support of IPTV streams.
 - [Wizju-Smart IPTV Player](https://apps.apple.com/us/app/wizju-smart-iptv-player/id6749068740?platform=ipad) - Smart and intuitive media hub designed to centralize your personal video collections.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=ipad) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
+- [Jellyfin Mobile](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?platform=ipad) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### Apple Watch
 
@@ -215,9 +229,18 @@ Applications with support of IPTV streams.
 - [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [IPTV Stream Player](https://channelstore.roku.com/details/0352af0ee92612996318ca159ab6dcf7:942c4da25011b81777c6deaaa6fbd886/iptv-stream-player-watch-tv) - A powerful and user-friendly video player designed exclusively for Roku TV.
 
+#### WebOS
+
+- [Jellyfin](https://us.lgappstv.com/main/tvapp/detail?appId=1030579) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+
+#### Roku
+
+- [Jellyfin](https://channelstore.roku.com/details/4d9e526a7d972d4decf98ea6a84000f7:c617f4902629cc0bd1e1411db1775cf3/jellyfin) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+
 #### Xbox
 
 - [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - A modern IPTV client for the Xbox, designed for gamepad and remote control.
+- [Jellyfin](https://apps.microsoft.com/detail/9p2drtg62qf8) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### Google Chrome
 
@@ -235,6 +258,7 @@ Applications with support of IPTV streams.
 - [neTV](https://github.com/jvdillon/netv) - A minimal, self-hosted web interface for IPTV streams.
 - [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
 - [SpanishST/xtreamfilter](https://github.com/SpanishST/xtreamfilter) - A Docker-based Xtream Codes proxy that filters IPTV content (Live TV, Movies, Series) from multiple sources with merged playlists, stream proxying, advanced filtering, Telegram notifications, monitoring and download capabilities.
+- [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 ## Providers
 
@@ -312,6 +336,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [EPG.pw](https://epg.pw/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
 - [EPGSHARE01](https://epgshare01.online/) - Program guides for multiple countries.
 - [Open EPG](https://www.open-epg.com/) - Free EPG for 2 days, sorted by country.
+- [IPTV-EPG.org](https://iptv-epg.org/) - Frequently updated electronic program guides for several countries.
 
 ## Programming
 
