@@ -83,6 +83,7 @@ Applications with support of IPTV streams.
 - [manusoft/IPTV-Link-Validator](https://github.com/manusoft/IPTV-Link-Validator) - IPTV API Link Validator in WinUI3.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
 
 #### macOS
 
@@ -125,6 +126,7 @@ Applications with support of IPTV streams.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [Better-IPTV](https://github.com/mewset/better-iptv) - Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.
 - [Jellyfin Desktop](https://flathub.org/en/apps/org.jellyfin.JellyfinDesktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
 
 #### Android
 
