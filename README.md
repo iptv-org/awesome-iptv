@@ -10,13 +10,16 @@ A curated list of resources related to IPTV.
   - [macOS](#macos)
   - [Linux](#linux)
   - [Android](#android)
-  - [Android TV](#android-tv)
   - [iPhone](#iphone)
   - [iPad](#ipad)
   - [Apple Watch](#apple-watch)
   - [Apple TV](#apple-tv)
-  - [Smart TV](#smart-tv)
+  - [Android TV](#android-tv)
   - [WebOS](#webos)
+  - [Tizen OS](#tizen-os)
+  - [Orsay OS](#orsay-os)
+  - [Titan OS](#titan-os)
+  - [Sony Internet TV]($sony-internet-tv)
   - [Roku](#roku)
   - [Xbox](#xbox)
   - [Google Chrome](#google-chrome)
@@ -161,10 +164,6 @@ Applications with support of IPTV streams.
 - [GlobeTV](https://play.google.com/store/apps/details?id=com.fundevelop.globetv&hl=en) - Your passport to free live TV from every corner of the globe.
 - [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
-#### Android TV
-
-- [Jellyfin for Android TV](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_GB) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
-
 #### iPhone
 
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=iphone) - Allows you to view live and non-live TV/stream technology-based IPTV.
@@ -223,19 +222,38 @@ Applications with support of IPTV streams.
 - [IPTVX](https://apps.apple.com/in/app/iptvx/id1451470024?platform=tv) - An IPTV player with the pre 2025 Netflix feel.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=tv) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
 
-#### Smart TV
+#### Android TV
 
-- [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
-- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
-- [IPTV Stream Player](https://channelstore.roku.com/details/0352af0ee92612996318ca159ab6dcf7:942c4da25011b81777c6deaaa6fbd886/iptv-stream-player-watch-tv) - A powerful and user-friendly video player designed exclusively for Roku TV.
+- [Jellyfin for Android TV](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_GB) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - Modern M3U IPTV Player for Android & Android TV.
 
 #### WebOS
 
 - [Jellyfin](https://us.lgappstv.com/main/tvapp/detail?appId=1030579) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [SS IPTV](https://us.lgappstv.com/main/tvapp/detail?appId=339090) - Smart TV application which provided opportunity of IPTV viewing for its users.
+- [M3U IPTV](https://gb.lgappstv.com/main/tvapp/detail?appId=1167871) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
+
+#### Tizen OS
+
+- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
+- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
+
+#### Orsay OS
+
+- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
+
+#### Titan OS
+
+- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
+
+#### Sony Internet TV
+
+- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
 
 #### Roku
 
 - [Jellyfin](https://channelstore.roku.com/details/4d9e526a7d972d4decf98ea6a84000f7:c617f4902629cc0bd1e1411db1775cf3/jellyfin) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [IPTV Stream Player](https://channelstore.roku.com/details/0352af0ee92612996318ca159ab6dcf7:942c4da25011b81777c6deaaa6fbd886/iptv-stream-player-watch-tv) - A powerful and user-friendly video player designed exclusively for Roku TV.
 
 #### Xbox
 
