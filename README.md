@@ -206,7 +206,7 @@ Applications with support of IPTV streams.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=ipad) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
 - [Jellyfin Mobile](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?platform=ipad) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
-- [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=iphone) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
+- [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=ipad) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 
 #### Apple Watch
 
