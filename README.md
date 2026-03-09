@@ -87,6 +87,7 @@ Applications with support of IPTV streams.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [ynoTV](https://github.com/tbeezy/ynotv) - A feature-rich, open source IPTV player for Windows built on [Tauri v2](https://tauri.app/) and [mpv](https://mpv.io/).
+- [PlayOnTV](https://playontv.itch.io/playontv-windows) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 
 #### macOS
 
@@ -163,6 +164,7 @@ Applications with support of IPTV streams.
 - [Wizju - IPTV Player](https://play.google.com/store/apps/details?id=dev.j2j.wizju) - The ultimate IPTV player that supports both Xtream Codes API and M3U playlists.
 - [GlobeTV](https://play.google.com/store/apps/details?id=com.fundevelop.globetv&hl=en) - Your passport to free live TV from every corner of the globe.
 - [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [PlayOnTV](https://play.google.com/store/apps/details?id=com.brillianceappsfinland.playontv) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 
 #### iPhone
 
@@ -183,6 +185,7 @@ Applications with support of IPTV streams.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=iphone) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=iphone) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
 - [Jellyfin Mobile](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?platform=iphone) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=iphone) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 
 #### iPad
 
@@ -203,6 +206,7 @@ Applications with support of IPTV streams.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=ipad) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=ipad) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
 - [Jellyfin Mobile](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?platform=ipad) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=ipad) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 
 #### Apple Watch
 
@@ -221,11 +225,13 @@ Applications with support of IPTV streams.
 - [UHF](https://apps.apple.com/in/app/uhf-love-your-iptv/id6443751726?platform=tv) - IPTV player crafted by developers with over a decade of proven success in creating globally renowned apps used by millions.
 - [IPTVX](https://apps.apple.com/in/app/iptvx/id1451470024?platform=tv) - An IPTV player with the pre 2025 Netflix feel.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=tv) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
+- [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=tv) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 
 #### Android TV
 
 - [Jellyfin for Android TV](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_GB) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - Modern M3U IPTV Player for Android & Android TV.
+- [PlayOnTV](https://playontv.itch.io/playontv-android-beta) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 
 #### WebOS
 
