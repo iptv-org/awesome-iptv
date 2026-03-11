@@ -87,8 +87,8 @@ Applications with support of IPTV streams.
 - [AuthoIPTV](https://github.com/glitport/AuthoIPTV) - A feature-rich Electron-powered IPTV player designed for desktop users.
 - [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [ynoTV](https://github.com/tbeezy/ynotv) - A feature-rich, open source IPTV player for Windows built on [Tauri v2](https://tauri.app/) and [mpv](https://mpv.io/).
-- [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
 - [PlayOnTV](https://playontv.itch.io/playontv-windows) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
+- [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
 
 #### macOS
 
