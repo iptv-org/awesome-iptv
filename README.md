@@ -167,6 +167,7 @@ Applications with support of IPTV streams.
 - [GlobeTV](https://play.google.com/store/apps/details?id=com.fundevelop.globetv&hl=en) - Your passport to free live TV from every corner of the globe.
 - [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [PlayOnTV](https://play.google.com/store/apps/details?id=com.brillianceappsfinland.playontv) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
+- [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv) - A video player for Android based on libmpv.
 
 #### iPhone
 
