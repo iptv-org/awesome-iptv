@@ -2,6 +2,7 @@
 
 A curated list of resources related to IPTV.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=iptv-org_awesome-iptv) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Contents
 
 - 💻 [Apps](#apps)
