@@ -170,6 +170,7 @@ Applications with support of IPTV streams.
 - [GlobeTV](https://play.google.com/store/apps/details?id=com.fundevelop.globetv&hl=en) - Your passport to free live TV from every corner of the globe.
 - [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [PlayOnTV](https://play.google.com/store/apps/details?id=com.brillianceappsfinland.playontv) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
+- [FireVision IPTV](https://github.com/akshaynikhare/FireVisionIPTV) - Open-source IPTV player for Amazon FireTV devices with channel management and EPG support.
 
 #### iPhone
 
@@ -288,6 +289,7 @@ Applications with support of IPTV streams.
 - [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
 - [SpanishST/xtreamfilter](https://github.com/SpanishST/xtreamfilter) - A Docker-based Xtream Codes proxy that filters IPTV content (Live TV, Movies, Series) from multiple sources with merged playlists, stream proxying, advanced filtering, Telegram notifications, monitoring and download capabilities.
 - [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [akshaynikhare/FireVisionIPTVServer](https://github.com/akshaynikhare/FireVisionIPTVServer) - Self-hosted IPTV channel management server with admin panel, EPG integration, device pairing, and multi-user support.
 
 ## Providers
 
