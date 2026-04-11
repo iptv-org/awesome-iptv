@@ -89,6 +89,7 @@ Applications with support of IPTV streams.
 - [ynoTV](https://github.com/tbeezy/ynotv) - A feature-rich, open source IPTV player for Windows built on [Tauri v2](https://tauri.app/) and [mpv](https://mpv.io/).
 - [PlayOnTV](https://playontv.itch.io/playontv-windows) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
+- [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 
 #### macOS
 
@@ -109,6 +110,7 @@ Applications with support of IPTV streams.
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 
 #### Linux
 
@@ -132,6 +134,7 @@ Applications with support of IPTV streams.
 - [Better-IPTV](https://github.com/mewset/better-iptv) - Crossplatform IPTV player written in Rust and Typescript that handles extremely large playlists (150.000+ channels) without breaking a sweat.
 - [Jellyfin Desktop](https://flathub.org/en/apps/org.jellyfin.JellyfinDesktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
+- [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 
 #### Android
 
@@ -167,6 +170,7 @@ Applications with support of IPTV streams.
 - [GlobeTV](https://play.google.com/store/apps/details?id=com.fundevelop.globetv&hl=en) - Your passport to free live TV from every corner of the globe.
 - [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [PlayOnTV](https://play.google.com/store/apps/details?id=com.brillianceappsfinland.playontv) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
+- [FireVision IPTV](https://github.com/akshaynikhare/FireVisionIPTV) - Open-source IPTV player for Amazon FireTV devices with channel management and EPG support.
 - [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv) - A video player for Android based on libmpv.
 
 #### iPhone
@@ -235,6 +239,7 @@ Applications with support of IPTV streams.
 - [Jellyfin for Android TV](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv&hl=en_GB) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - Modern M3U IPTV Player for Android & Android TV.
 - [PlayOnTV](https://playontv.itch.io/playontv-android-beta) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
+- [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
 
 #### WebOS
 
@@ -286,6 +291,7 @@ Applications with support of IPTV streams.
 - [sparkison/m3u-editor](https://github.com/sparkison/m3u-editor) - A full-featured and powerful IPTV editor, including features similar to xteve or threadfin.
 - [SpanishST/xtreamfilter](https://github.com/SpanishST/xtreamfilter) - A Docker-based Xtream Codes proxy that filters IPTV content (Live TV, Movies, Series) from multiple sources with merged playlists, stream proxying, advanced filtering, Telegram notifications, monitoring and download capabilities.
 - [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
+- [akshaynikhare/FireVisionIPTVServer](https://github.com/akshaynikhare/FireVisionIPTVServer) - Self-hosted IPTV channel management server with admin panel, EPG integration, device pairing, and multi-user support.
 
 ## Providers
 
@@ -382,6 +388,7 @@ Libraries and frameworks for working with IPTV data
 - [davidclaeysquinones/epg-info-docker](https://github.com/davidclaeysquinones/epg-info-docker) - Docker container image for [iptv-org/epg](https://github.com/iptv-org/epg).
 - [@iptv/xtream-api](https://www.npmjs.com/package/@iptv/xtream-api) - Work with Xtream compatible player API's in a standardized format.
 - [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
+- [hls-restream-proxy](https://github.com/pcruz1905/hls-restream-proxy) - HLS reverse proxy that injects custom headers and rewrites m3u8 playlists for Jellyfin/Emby/Plex Live TV.
 
 ## Contribution
 
