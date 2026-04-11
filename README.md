@@ -387,6 +387,7 @@ Libraries and frameworks for working with IPTV data
 - [davidclaeysquinones/epg-info-docker](https://github.com/davidclaeysquinones/epg-info-docker) - Docker container image for [iptv-org/epg](https://github.com/iptv-org/epg).
 - [@iptv/xtream-api](https://www.npmjs.com/package/@iptv/xtream-api) - Work with Xtream compatible player API's in a standardized format.
 - [M3Unator](https://github.com/hasanbeder/M3Unator) - Transform any web directory into beautifully organized M3U/M3U8 playlists with smart media detection and recursive scanning capabilities.
+- [hls-restream-proxy](https://github.com/pcruz1905/hls-restream-proxy) - HLS reverse proxy that injects custom headers and rewrites m3u8 playlists for Jellyfin/Emby/Plex Live TV.
 
 ## Contribution
 
