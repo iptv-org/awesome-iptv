@@ -176,6 +176,7 @@ Applications with support of IPTV streams.
 - [FireVision IPTV](https://github.com/akshaynikhare/FireVisionIPTV) - Open-source IPTV player for Amazon FireTV devices with channel management and EPG support.
 - [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv) - A video player for Android based on libmpv.
 - [GoldenView IPTV](https://play.google.com/store/apps/details?id=com.primutech.iptvplayer) - Gives you instant access to over 8,500 live TV channels from around the world completely free.
+- [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.mobile) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
 
 #### iPhone
 
@@ -245,6 +246,7 @@ Applications with support of IPTV streams.
 - [M3U IPTV](https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv) - Modern M3U IPTV Player for Android & Android TV.
 - [PlayOnTV](https://playontv.itch.io/playontv-android-beta) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
+- [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.tv) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
 
 #### WebOS
 
