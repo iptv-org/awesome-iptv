@@ -199,6 +199,8 @@ Applications with support of IPTV streams.
 - [Jellyfin Mobile](https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?platform=iphone) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=iphone) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [Flayer](https://apps.apple.com/us/app/flayer-iptv-stream-cast/id6746684028?platform=iphone) - Allows you to watch your favorite live TV channels, movies, and series directly from your device.
+- [NEXT+](https://apps.apple.com/us/app/next/id6443335504) - A premium IPTV player for server owners and branded deployments, with support for custom logos, DNS list management, and unified code-based configuration.
+- [CASTORA](https://apps.apple.com/us/app/castora/id6760588570) - A polished IPTV player designed for providers who want to deliver a branded experience with custom logos, DNS options, and simple one-code setup.
 
 #### iPad
 
