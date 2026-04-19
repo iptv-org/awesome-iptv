@@ -377,7 +377,7 @@ Sources of EPG (Electronic Program Guide) for IPTV channels.
 - [EPG.pw](https://epg.pw/) - EPG service provider for personalized Electronic Program Guide for your IPTV all around the world.
 - [EPGSHARE01](https://epgshare01.online/) - Program guides for multiple countries.
 - [Open EPG](https://www.open-epg.com/) - Free EPG for 2 days, sorted by country.
-- [IPTV-EPG.org](https://iptv-epg.org/) - Frequently updated electronic program guides for several countries.
+- [IPTV-EPG.org](https://iptv-epg.org/) - EPGs and Playlist Editor to easily assign EPG data.
 
 ## Programming
 
