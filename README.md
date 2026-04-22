@@ -63,6 +63,7 @@ Applications with support of IPTV streams.
 - [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [StreamVault](https://streamvault.hopto.org/) - Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. ([Source Code](https://github.com/cowpooo-source/StreamVault))
 - [IPTVCloud.app](https://iptvcloudapp.vercel.app/) - An open-source, Next.js-powered IPTV player in beta that features adaptive bitrate streaming, cloud-synced favorites, and an integrated EPG, alongside unique community engagement tools and custom channel creation.
+- [Community IPTV Player](https://community-iptv-player.vercel.app) - Advanced IPTV player that supports M3U playlist as LiveTV, Movies and Series. Differs from the rest which usually support only LiveTV. Using your local browser storage.
 
 #### Windows
 
