@@ -178,6 +178,7 @@ Applications with support of IPTV streams.
 - [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv) - A video player for Android based on libmpv.
 - [GoldenView IPTV](https://play.google.com/store/apps/details?id=com.primutech.iptvplayer) - Gives you instant access to over 8,500 live TV channels from around the world completely free.
 - [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.mobile) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
+- [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
 
 #### iPhone
 
@@ -248,6 +249,7 @@ Applications with support of IPTV streams.
 - [PlayOnTV](https://playontv.itch.io/playontv-android-beta) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
 - [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.tv) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
+- [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android TV with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
 
 #### WebOS
 
