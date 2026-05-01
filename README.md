@@ -250,6 +250,7 @@ Applications with support of IPTV streams.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
 - [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.tv) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
 - [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android TV with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
+- [YouCinez](https://youcinez.com) — Installation guides and AV1 benchmark data for streaming apps on Android TV, Fire TV Stick, Samsung, LG, and Roku
 
 #### WebOS
 
