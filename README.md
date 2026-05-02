@@ -16,10 +16,6 @@ A curated list of resources related to IPTV.
   - [Apple TV](#apple-tv)
   - [Android TV](#android-tv)
   - [WebOS](#webos)
-  - [Tizen OS](#tizen-os)
-  - [Orsay OS](#orsay-os)
-  - [Titan OS](#titan-os)
-  - [Sony Internet TV]($sony-internet-tv)
   - [Roku](#roku)
   - [Xbox](#xbox)
   - [Google Chrome](#google-chrome)
@@ -257,23 +253,6 @@ Applications with support of IPTV streams.
 - [SS IPTV](https://us.lgappstv.com/main/tvapp/detail?appId=339090) - Smart TV application which provided opportunity of IPTV viewing for its users.
 - [M3U IPTV](https://gb.lgappstv.com/main/tvapp/detail?appId=1167871) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 
-#### Tizen OS
-
-- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
-- [M3U IPTV](https://m3u-ip.tv/) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
-
-#### Orsay OS
-
-- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
-
-#### Titan OS
-
-- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
-
-#### Sony Internet TV
-
-- [SS IPTV](https://ss-iptv.com/en/users/documents/installing) - Smart TV application which provided opportunity of IPTV viewing for its users.
-
 #### Roku
 
 - [Jellyfin](https://channelstore.roku.com/details/4d9e526a7d972d4decf98ea6a84000f7:c617f4902629cc0bd1e1411db1775cf3/jellyfin) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
@@ -281,7 +260,6 @@ Applications with support of IPTV streams.
 
 #### Xbox
 
-- [Open IPTV](https://tarrazuapps.wixsite.com/tarrazu-apps/post/support-topics) - A modern IPTV client for the Xbox, designed for gamepad and remote control.
 - [Jellyfin](https://apps.microsoft.com/detail/9p2drtg62qf8) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 
 #### Google Chrome
@@ -410,7 +388,7 @@ Just please follow 4 simple rules:
 - new links are added to the end of the section
 - the description should consist of one sentence
 - do not repeat the name of the app/site in the description
-- links in the Android, iPhone, iPad, Apple Watch, Apple TV and Google Chrome sections should lead to a reputable app store or source code
+- links in the Android, iPhone, iPad, Apple Watch, Apple TV, Android TV, WebOS, Roku, Xbox and Google Chrome sections should lead to a reputable app store or source code
 
 ## License
 
