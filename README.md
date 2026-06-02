@@ -89,6 +89,7 @@ Applications with support of IPTV streams.
 - [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
 - [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 - [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
+- [Nightmare TV](https://apps.microsoft.com/detail/9PLPLGHTVB5G) - libmpv-based IPTV/M3U/Xtream Codes player for Windows with HDR tone-mapping (BT.2390), Dolby Atmos/DTS-X passthrough, and multi-view.
 
 #### macOS
 
@@ -247,6 +248,7 @@ Applications with support of IPTV streams.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
 - [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.tv) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
 - [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android TV with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
+- [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for Android TV with HDR tone-mapping, Dolby Atmos/DTS-X passthrough, and multi-view.
 
 #### WebOS
 
