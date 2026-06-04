@@ -91,6 +91,7 @@ Applications with support of IPTV streams.
 - [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 - [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
 - [Nightmare TV](https://apps.microsoft.com/detail/9PLPLGHTVB5G) - libmpv-based IPTV/M3U/Xtream Codes player for Windows with HDR tone-mapping (BT.2390), Dolby Atmos/DTS-X passthrough, and multi-view.
+- [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 
 #### macOS
 
@@ -112,6 +113,7 @@ Applications with support of IPTV streams.
 - [Streamlink](https://streamlink.github.io/index.html) - A command-line utility that extracts streams from various services and pipes them into a video player of choice.
 - [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
+- [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 
 #### Linux
 
@@ -136,6 +138,7 @@ Applications with support of IPTV streams.
 - [Stream-Recorder](https://github.com/sc44/Stream-Recorder) - Flexible IPTV player and recorder with EPG.
 - [IPTV Checker](https://github.com/kristofferR/IPTVChecker) - Cross-platform IPTV player, playlist validator, and stream health checker with thumbnails and export.
 - [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
+- [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 
 #### Android
 
