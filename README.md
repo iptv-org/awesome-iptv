@@ -93,6 +93,7 @@ Applications with support of IPTV streams.
 - [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
 - [Nightmare TV](https://apps.microsoft.com/detail/9PLPLGHTVB5G) - libmpv-based IPTV/M3U/Xtream Codes player for Windows with HDR tone-mapping (BT.2390), Dolby Atmos/DTS-X passthrough, and multi-view.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
+- [Blazin IPTV Player](https://apps.microsoft.com/detail/9nq5s0ffcn8t?hl=en-US&gl=US) - All-in-one Windows IPTV player for Xtream, STB MAC, Stalker, M3U files, and M3U URLs with multi-threaded playlist loading and built-in VLC playback.
 
 #### macOS
 
