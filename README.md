@@ -250,6 +250,7 @@ Applications with support of IPTV streams.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=tv) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
 - [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=tv) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=tv) - Free IPTV player with M3U playlist support for Apple TV, iPhone, iPad, Mac and Apple Vision Pro.
+- [ScoreBox](https://apps.apple.com/app/scorebox-sports-iptv/id6774886350?platform=tv) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
 
 #### Apple Vision Pro
 
@@ -264,6 +265,8 @@ Applications with support of IPTV streams.
 - [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.tv) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
 - [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android TV with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
 - [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for Android TV with HDR tone-mapping, Dolby Atmos/DTS-X passthrough, and multi-view.
+- [ScoreBox](https://play.google.com/store/apps/details?id=net.darkforeststudios.scorebox&hl=en) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
+
 
 #### WebOS
 
