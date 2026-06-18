@@ -250,6 +250,7 @@ Applications with support of IPTV streams.
 - [KDTIVI](https://apps.apple.com/gb/app/kdtivi-iptv-plex-and-emby/id6754769190?platform=tv) - IPTV, Plex and Emby all-in-one app, designed to look and work like an app from a real media provider.
 - [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=tv) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=tv) - Free IPTV player with M3U playlist support for Apple TV, iPhone, iPad, Mac and Apple Vision Pro.
+- [Velko](https://apps.apple.com/us/app/velko-iptv-player-tv-guide/id6775969853?platform=tv) - Native player for Xtream/M3U services with a classic EPG guide, catch-up, and a free built-in Community TV source powered by the iptv-org playlist.
 
 #### Apple Vision Pro
 
