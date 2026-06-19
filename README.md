@@ -232,6 +232,7 @@ Applications with support of IPTV streams.
 - [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=ipad) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [Another IPTV Player](https://apps.apple.com/us/app/another-iptv-player/id6747290392?platform=ipad) - Lightweight, free and open-source native player with M3U support, offline downloads, Picture-in-Picture, background playback, watch history, and per-series audio/subtitle track memory.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=ipad) - Free IPTV player with M3U playlist support for iPad, iPhone, Mac, Apple TV and Apple Vision Pro.
+- [JamRun IPTV](https://apps.apple.com/gb/app/jamrun-iptv/id6754577839) - A glass-styled player for your own M3U playlists with EPG guide, favorites, and search, completely free with no ads or in-app purchases.
 
 #### Apple Watch
 
