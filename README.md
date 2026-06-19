@@ -118,6 +118,7 @@ Applications with support of IPTV streams.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=mac) - Free IPTV player with M3U playlist support for Mac, iPhone, iPad, Apple TV and Apple Vision Pro.
 - [Streamline](https://apps.apple.com/us/app/streamline-iptv-m3u-editor/id6760606054?platform=mac) - Free M3U and IPTV playlist editor with duplicate detection, ffmpeg-based playback and a built-in HTTP server for managing playlists.
+- [JamRun IPTV](https://apps.apple.com/gb/app/jamrun-iptv/id6754577839) - A glass-styled player for your own M3U playlists with EPG guide, favorites, and search, completely free with no ads or in-app purchases.
 
 #### Linux
 
@@ -207,6 +208,7 @@ Applications with support of IPTV streams.
 - [Flayer](https://apps.apple.com/us/app/flayer-iptv-stream-cast/id6746684028?platform=iphone) - Allows you to watch your favorite live TV channels, movies, and series directly from your device.
 - [Another IPTV Player](https://apps.apple.com/us/app/another-iptv-player/id6747290392?platform=iphone) - Lightweight, free and open-source native player with M3U support, offline downloads, Picture-in-Picture, background playback, watch history, and per-series audio/subtitle track memory.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=iphone) - Free IPTV player with M3U playlist support for iPhone, iPad, Mac, Apple TV and Apple Vision Pro.
+- [JamRun IPTV](https://apps.apple.com/gb/app/jamrun-iptv/id6754577839) - A glass-styled player for your own M3U playlists with EPG guide, favorites, and search, completely free with no ads or in-app purchases.
 
 #### iPad
 
