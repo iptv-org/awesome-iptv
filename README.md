@@ -207,6 +207,7 @@ Applications with support of IPTV streams.
 - [Flayer](https://apps.apple.com/us/app/flayer-iptv-stream-cast/id6746684028?platform=iphone) - Allows you to watch your favorite live TV channels, movies, and series directly from your device.
 - [Another IPTV Player](https://apps.apple.com/us/app/another-iptv-player/id6747290392?platform=iphone) - Lightweight, free and open-source native player with M3U support, offline downloads, Picture-in-Picture, background playback, watch history, and per-series audio/subtitle track memory.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=iphone) - Free IPTV player with M3U playlist support for iPhone, iPad, Mac, Apple TV and Apple Vision Pro.
+- [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=iphone) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 
 #### iPad
 
@@ -230,6 +231,7 @@ Applications with support of IPTV streams.
 - [PlayOnTV](https://apps.apple.com/fi/app/playontv-iptv-player/id6757364859?platform=ipad) - Supports M3U, Xtream, and Stalker Portal with EPG, cloud sync, offline downloads, and watch progress tracking; free version without intrusive full-screen ads.
 - [Another IPTV Player](https://apps.apple.com/us/app/another-iptv-player/id6747290392?platform=ipad) - Lightweight, free and open-source native player with M3U support, offline downloads, Picture-in-Picture, background playback, watch history, and per-series audio/subtitle track memory.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=ipad) - Free IPTV player with M3U playlist support for iPad, iPhone, Mac, Apple TV and Apple Vision Pro.
+- [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=ipad) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 
 #### Apple Watch
 
@@ -252,6 +254,7 @@ Applications with support of IPTV streams.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=tv) - Free IPTV player with M3U playlist support for Apple TV, iPhone, iPad, Mac and Apple Vision Pro.
 - [Velko](https://apps.apple.com/us/app/velko-iptv-player-tv-guide/id6775969853?platform=tv) - Native player for Xtream/M3U services with a classic EPG guide, catch-up, and a free built-in Community TV source powered by the iptv-org playlist.
 - [ScoreBox](https://apps.apple.com/app/scorebox-sports-iptv/id6774886350?platform=tv) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
+- [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=tv) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 
 #### Apple Vision Pro
 
