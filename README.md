@@ -61,6 +61,7 @@ Applications with support of IPTV streams.
 - [StreamVault](https://streamvault.hopto.org/) - Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. ([Source Code](https://github.com/cowpooo-source/StreamVault))
 - [IPTVCloud.app](https://iptvcloudapp.vercel.app/) - An open-source, Next.js-powered IPTV player in beta that features adaptive bitrate streaming, cloud-synced favorites, and an integrated EPG, alongside unique community engagement tools and custom channel creation.
 - [TV Explorer](https://tvexplorer.live) - Browser-based player with a live, self-updating playlist of 10,000 free-to-air channels from 177 countries with category, country, and language filtering, and multiview, casting, screenshots, and sharing with no account required.
+- [xTV.lat](https://xtv.lat) - Web-based IPTV player to stream M3U playlists and live channels with channel preview thumbnails and non-intrusive ads.
 
 #### Windows
 
