@@ -152,6 +152,7 @@ Applications with support of IPTV streams.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
 - [FastoTV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android set-top boxes.
+- [TiviMate Guides](https://tvimate.co/) - Comprehensive guides for installing, configuring, and troubleshooting TiviMate IPTV Player.
 - [Megacubo](https://github.com/EdenwareApps/Megacubo) - Open-source cross-platform IPTV streaming application with multiple features such as favorites, EPG based recommendations, etc.
 - [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 - [KanTV](https://github.com/kantv-ai/kantv/) - Online-TV player and study/practise device-AI tech in real scenario with online-TV on Android phone.
