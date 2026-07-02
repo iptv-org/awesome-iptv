@@ -272,6 +272,7 @@ Applications with support of IPTV streams.
 - [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for Android TV with HDR tone-mapping, Dolby Atmos/DTS-X passthrough, and multi-view.
 - [ScoreBox](https://play.google.com/store/apps/details?id=net.darkforeststudios.scorebox) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.
+- [Easy IP TV](https://play.google.com/store/apps/details?id=com.easyiptv.tv) - Native Android TV and Google TV player for your own M3U playlists, with a full-screen EPG guide, favorites, hidden channels, and D-pad remote navigation.
 
 #### WebOS
 
