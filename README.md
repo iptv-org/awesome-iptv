@@ -59,8 +59,6 @@ Applications with support of IPTV streams.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
 - [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [StreamVault](https://streamvault.hopto.org/) - Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. ([Source Code](https://github.com/cowpooo-source/StreamVault))
-- [IPTVCloud.app](https://iptvcloudapp.vercel.app/) - An open-source, Next.js-powered IPTV player in beta that features adaptive bitrate streaming, cloud-synced favorites, and an integrated EPG, alongside unique community engagement tools and custom channel creation.
-- [TV Explorer](https://tvexplorer.live) - Browser-based player with a live, self-updating playlist of 10,000 free-to-air channels from 177 countries with category, country, and language filtering, and multiview, casting, screenshots, and sharing with no account required.
 
 #### Windows
 
@@ -346,6 +344,7 @@ Applications with support of IPTV streams.
 - [FreeTV](https://freetv.fun/) - Stream global TV channels instantly without registration.
 - [EBK IPTV](https://ebkiptv.live/) - Watch online with pre-defined lists, share custom lists, add custom URLs, channel/country search, and PWA support.
 - [Free-TV IPTV](https://freetv.mokdo.click/) - More than 8,000 worldwide channels sorted by country.
+- [TV Explorer](https://tvexplorer.live) - Browser-based player with a live, self-updating playlist of 10,000 free-to-air channels from 177 countries with category, country, and language filtering, and multiview, casting, screenshots, and sharing with no account required.
 
 ## Channel Datasets
 
