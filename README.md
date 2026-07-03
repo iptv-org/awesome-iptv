@@ -33,7 +33,7 @@ A curated list of resources related to IPTV.
 Applications with support of IPTV streams.
 
 #### Web
-
+* [Global IPTV Web Player](https://AreebZaidi-AU.github.io/iptv-web-player/iptv-player.html) - A smart, interactive global IPTV web player with country and category filtering, built by Syed Areeb Zaidi.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
@@ -42,7 +42,8 @@ Applications with support of IPTV streams.
 - [Free IPTV Player](https://freeiptvplayer.net/) - Tool for testing M3U files and enjoying live HLS TV UHD, FHD, HD, or SD streams on any browser-equipped device.
 - [Ellipto IPTV](https://elliptoiptv.vercel.app/) - A progressive web app to watch m3u or m3u8 playlists with some awesome features.
 - [MediathekViewWeb](https://mediathekviewweb.de/) - Tool for finding URLs of videos specifically from German(-speaking) public broadcast.
-- [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing playlists seamlessly.
+- [IPTV RestreamHub](https://github.com/antebrl/IPTV-Restream) - A comprehensive solution for synchronized IPTV watching (Watch2Gether), restreaming, proxying connection-limited playlists, and combining or sharing
+-  playlists seamlessly.
 - [IPTVPlayer.stream](https://iptvplayer.stream/) - A free web-based IPTV stream player that lets you import, manage, and stream IPTV playlists directly in your browser.
 - [PublicIPTV](https://publiciptv.com/) - A free online IPTV stream player that lets you explore and watch live TV from around the world.
 - [SupercamBR](http://listas.supercambr.com.br/) - Free online iptv web player with channels from all over the world.
