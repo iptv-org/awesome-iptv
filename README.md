@@ -119,6 +119,7 @@ Applications with support of IPTV streams.
 - [Streamline](https://apps.apple.com/us/app/streamline-iptv-m3u-editor/id6760606054?platform=mac) - Free M3U and IPTV playlist editor with duplicate detection, ffmpeg-based playback and a built-in HTTP server for managing playlists.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=mac) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for macOS (beta) with HDR tone-mapping (BT.2390), 4K HEVC/AV1 hardware decode, and multi-view.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=mac) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across Mac, iPhone, iPad, Apple TV, and Apple Vision Pro.
 
 #### Linux
 
@@ -212,6 +213,7 @@ Applications with support of IPTV streams.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=iphone) - Free IPTV player with M3U playlist support for iPhone, iPad, Mac, Apple TV and Apple Vision Pro.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=iphone) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=iphone) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=iphone) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across iPhone, iPad, Mac, Apple TV, and Apple Vision Pro.
 
 #### iPad
 
@@ -237,6 +239,7 @@ Applications with support of IPTV streams.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=ipad) - Free IPTV player with M3U playlist support for iPad, iPhone, Mac, Apple TV and Apple Vision Pro.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=ipad) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=ipad) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=ipad) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across iPad, iPhone, Mac, Apple TV, and Apple Vision Pro.
 
 #### Apple Watch
 
@@ -261,10 +264,12 @@ Applications with support of IPTV streams.
 - [ScoreBox](https://apps.apple.com/app/scorebox-sports-iptv/id6774886350?platform=tv) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
 - [Tilfaz](https://apps.apple.com/us/app/tilfaz-live-on-demand-iptv/id1668359578?platform=tv) - Native player for M3U and Xtream sources with 4K playback, family profiles with per-title parental controls, App Lock, incognito mode, and a library, watch history, and favorites that sync across iPhone, iPad, and Apple TV.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=tv) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=tv) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across Apple TV, iPhone, iPad, Mac, and Apple Vision Pro.
 
 #### Apple Vision Pro
 
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=vision) - Free IPTV player with M3U playlist support for Apple Vision Pro, iPhone, iPad, Mac and Apple TV.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=vision) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across Apple Vision Pro, iPhone, iPad, Mac, and Apple TV.
 
 #### Android TV
 
