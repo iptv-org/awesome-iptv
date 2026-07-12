@@ -59,6 +59,7 @@ Applications with support of IPTV streams.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
 - [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [StreamVault](https://streamvault.hopto.org/) - Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. ([Source Code](https://github.com/cowpooo-source/StreamVault))
+- [LoverCast](https://lovercast.app/web) - Cross-device player and organizer for your own M3U and Xtream Codes sources, with EPG, ratings and synopses.
 
 #### Windows
 
@@ -187,6 +188,7 @@ Applications with support of IPTV streams.
 - [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, favorites, and a companion phone app for remote text input on TV.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free player for local M3U playlists and Xtream Codes logins with EPG, favorites, VOD and series, no ads or account.
+- [LoverCast](https://lovercast.app) - Player and organizer for your own M3U and Xtream Codes sources with EPG, DVR recording, ratings and cross-device sync.
 
 #### iPhone
 
@@ -283,6 +285,7 @@ Applications with support of IPTV streams.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.
 - [Easy IP TV](https://play.google.com/store/apps/details?id=com.easyiptv.tv) - Android TV and Google TV player that processes your M3U playlist server-side for instant loading of huge playlists, with an EPG guide, favorites, hidden channels, and D-pad remote navigation.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free M3U and Xtream Codes player with EPG and a remote-friendly layout, no ads or account.
+- [LoverCast TV](https://lovercast.app) - Android TV player for your own M3U and Xtream Codes sources with a live EPG guide, DVR and cross-device sync.
 
 #### WebOS
 
