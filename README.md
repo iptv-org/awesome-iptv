@@ -148,6 +148,7 @@ Applications with support of IPTV streams.
 - [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
+- [Klipa](https://klipa.tv/desktop/) - Free, lightweight M3U and Xtream player for Debian and Ubuntu with EPG, favorites, VOD and series, no ads, account or telemetry.
 
 #### Android
 
