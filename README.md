@@ -95,6 +95,7 @@ Applications with support of IPTV streams.
 - [Lotus Engine](https://github.com/hieu-TQS/MediaLedInterface) - A free, open-source desktop IPTV player that supports Digital Rights Management for Media Presentation Description.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 - [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
+- [iptv-desktop](https://github.com/JawadYzbk/iptv-desktop) - IPTV Desktop is application for playing IPTV from iptv-org playlist. Support listing channel from iptv-org api by Country, Category, and Language.
 
 #### macOS
 
