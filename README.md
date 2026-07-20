@@ -59,6 +59,7 @@ Applications with support of IPTV streams.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
 - [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [StreamVault](https://streamvault.hopto.org/) - Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. ([Source Code](https://github.com/cowpooo-source/StreamVault))
+- [Flix AI](https://www.flixaitv.com) - AI-powered IPTV player with live EPG, instant channel switching and cross-device sync for your own M3U/Xtream sources.
 
 #### Windows
 
