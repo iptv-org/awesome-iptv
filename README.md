@@ -124,6 +124,7 @@ Applications with support of IPTV streams.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=mac) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 - [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=mac) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across Mac, iPhone, iPad, Apple TV, and Apple Vision Pro.
 
 #### Linux
 
@@ -222,6 +223,7 @@ Applications with support of IPTV streams.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=iphone) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for iPhone with channel grouping, search, EPG, and favorites.
 - [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=iphone) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=iphone) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across iPhone, iPad, Mac, Apple TV, and Apple Vision Pro.
 
 #### iPad
 
@@ -250,6 +252,7 @@ Applications with support of IPTV streams.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=ipad) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for iPad with channel grouping, search, EPG, and favorites.
 - [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=ipad) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=ipad) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across iPad, iPhone, Mac, Apple TV, and Apple Vision Pro.
 
 #### Apple Watch
 
@@ -276,10 +279,12 @@ Applications with support of IPTV streams.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=tv) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=tv) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 - [Pulsar IPTV](https://apps.apple.com/es/app/pulsar-iptv/id6772932662?platform=tv) - Native IPTV player for iPhone, iPad and Apple TV with M3U and Xtream Codes support, clean UI and lifetime purchase option.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=tv) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across Apple TV, iPhone, iPad, Mac, and Apple Vision Pro.
 
 #### Apple Vision Pro
 
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=vision) - Free IPTV player with M3U playlist support for Apple Vision Pro, iPhone, iPad, Mac and Apple TV.
+- [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=vision) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across Apple Vision Pro, iPhone, iPad, Mac, and Apple TV.
 
 #### Android TV
 
