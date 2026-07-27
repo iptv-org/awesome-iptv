@@ -193,7 +193,7 @@ Applications with support of IPTV streams.
 - [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, favorites, and a companion phone app for remote text input on TV.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free player for local M3U playlists and Xtream Codes logins with EPG, favorites, VOD and series, no ads or account.
-- [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android
+- [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android.
 
 #### iPhone
 
