@@ -299,7 +299,7 @@ Applications with support of IPTV streams.
 - [Jellyfin](https://us.lgappstv.com/main/tvapp/detail?appId=1030579) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [SS IPTV](https://us.lgappstv.com/main/tvapp/detail?appId=339090) - Smart TV application which provided opportunity of IPTV viewing for its users.
 - [M3U IPTV](https://gb.lgappstv.com/main/tvapp/detail?appId=1167871) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
-- [HotPlayer](https://gb.lgappstv.com/main/tvapp/detail?appId=1174867) - A rich & modern media player which supports M3U and Xtream for WebOS
+- [HotPlayer](https://gb.lgappstv.com/main/tvapp/detail?appId=1174867) - A rich & modern media player which supports M3U and Xtream for WebOS.
 
 #### Roku
 
