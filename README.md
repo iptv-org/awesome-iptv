@@ -292,7 +292,7 @@ Applications with support of IPTV streams.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.
 - [Easy IP TV](https://play.google.com/store/apps/details?id=com.easyiptv.tv) - Android TV and Google TV player that processes your M3U playlist server-side for instant loading of huge playlists, with an EPG guide, favorites, hidden channels, and D-pad remote navigation.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free M3U and Xtream Codes player with EPG and a remote-friendly layout, no ads or account.
-- [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android TV
+- [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android TV.
 
 #### WebOS
 
