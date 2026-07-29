@@ -198,6 +198,7 @@ Applications with support of IPTV streams.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, favorites, and a companion phone app for remote text input on TV.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free player for local M3U playlists and Xtream Codes logins with EPG, favorites, VOD and series, no ads or account.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+- [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android.
 
 #### iPhone
 
@@ -304,12 +305,14 @@ Applications with support of IPTV streams.
 - [Easy IP TV](https://play.google.com/store/apps/details?id=com.easyiptv.tv) - Android TV and Google TV player that processes your M3U playlist server-side for instant loading of huge playlists, with an EPG guide, favorites, hidden channels, and D-pad remote navigation.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free M3U and Xtream Codes player with EPG and a remote-friendly layout, no ads or account.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+- [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android TV.
 
 #### WebOS
 
 - [Jellyfin](https://us.lgappstv.com/main/tvapp/detail?appId=1030579) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [SS IPTV](https://us.lgappstv.com/main/tvapp/detail?appId=339090) - Smart TV application which provided opportunity of IPTV viewing for its users.
 - [M3U IPTV](https://gb.lgappstv.com/main/tvapp/detail?appId=1167871) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
+- [HotPlayer](https://gb.lgappstv.com/main/tvapp/detail?appId=1174867) - A rich & modern media player which supports M3U and Xtream for WebOS.
 
 #### Roku
 
