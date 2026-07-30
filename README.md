@@ -59,6 +59,7 @@ Applications with support of IPTV streams.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
 - [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [StreamVault](https://streamvault.hopto.org/) - Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. ([Source Code](https://github.com/cowpooo-source/StreamVault))
+- [Community IPTV Player](https://community-iptv-player.vercel.app) - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 
 #### Windows
 
@@ -96,6 +97,7 @@ Applications with support of IPTV streams.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 - [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+- [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 
 #### macOS
 
@@ -127,6 +129,7 @@ Applications with support of IPTV streams.
 - [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
 - [Lume](https://apps.apple.com/us/app/lume-iptv-player/id6779551584?platform=mac) - Open-source native SwiftUI player for Xtream Codes and M3U playlists with Live TV, movies, and series, EPG, TMDB metadata and ratings, Trakt scrobbling, and iCloud-synced watch progress across Mac, iPhone, iPad, Apple TV, and Apple Vision Pro.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+- [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 
 #### Linux
 
@@ -155,6 +158,7 @@ Applications with support of IPTV streams.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
 - [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
+- [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 
 #### Android
 
@@ -199,6 +203,7 @@ Applications with support of IPTV streams.
 - [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free player for local M3U playlists and Xtream Codes logins with EPG, favorites, VOD and series, no ads or account.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 - [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android.
+- [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 
 #### iPhone
 
