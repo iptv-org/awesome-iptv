@@ -388,6 +388,7 @@ Applications with support of IPTV streams.
 - [Free-TV IPTV](https://freetv.mokdo.click/) - More than 8,000 worldwide channels sorted by country.
 - [TV Explorer](https://tvexplorer.live) - Browser-based player with a live, self-updating playlist of 10,000 free-to-air channels from 177 countries with category, country, and language filtering, and multiview, casting, screenshots, and sharing with no account required.
 - [IPTVCat](https://iptvcat.com) - A scraper with more than 20,000 channels which scrapes stream links from different websites and automatically checks their health.
+- [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - A curated list of free, ad-free Chinese streaming resources, including online video sites, video apps, TVBox/movie-warehouse configuration URLs, IPTV subscriptions, subtitle resources, and magnet/BT search tools.
 
 ## Channel Datasets
 
