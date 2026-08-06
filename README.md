@@ -206,7 +206,6 @@ Applications with support of IPTV streams.
 - [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
 - [Mama Tv](https://play.google.com/store/apps/details?id=com.dev.mama_tv) - Live IPTV channel player for Android supporting custom M3U/M3U8 playlists.
 
-
 #### iPhone
 
 - [Flex IPTV](https://apps.apple.com/ae/app/flex-iptv/id1182930255?platform=iphone) - Allows you to view live and non-live TV/stream technology-based IPTV.
@@ -314,7 +313,6 @@ Applications with support of IPTV streams.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 - [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android TV.
 - [Mama Tv](https://play.google.com/store/apps/details?id=com.dev.mama_tv) - Live IPTV channel player for Android TV with a remote-friendly interface supporting custom M3U/M3U8 playlists.
-
 
 #### WebOS
 
