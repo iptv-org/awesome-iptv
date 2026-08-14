@@ -98,6 +98,7 @@ Applications with support of IPTV streams.
 - [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 - [Community IPTV Player](https://github.com/orel56000/CommunityIPTVPlayer) - Free and open-source IPTV player with M3U and Xtream Codes support, HLS and native playback, Picture-in-Picture, favorites, recents, and continue-watching progress, with no ads or account required.
+- [OctosPlayer](https://apps.microsoft.com/detail/9p555zx5mplt) - Free multiplatform IPTV player with Xtream Codes login, EPG, favorites, continue-watching, and up to five profiles with a PIN-protected adult filter, synced across smart TVs and Windows.
 
 #### macOS
 
@@ -313,6 +314,7 @@ Applications with support of IPTV streams.
 - [Extreme InfiniTV](https://github.com/infinitel8p/Extreme-InfiniTV) - Free and open-source cross-platform player for Xtream Codes and M3U/M3U8 playlists with live TV, VOD, series, inline EPG, picture-in-picture, and multiple playlists, with no ads or account.
 - [HotPlayer](https://apkpure.net/hot-player/com.perfectapp.hotplayer) - A rich & modern media player which supports M3U and Xtream for Android TV.
 - [Mama Tv](https://play.google.com/store/apps/details?id=com.dev.mama_tv) - Live IPTV channel player for Android TV with a remote-friendly interface supporting custom M3U/M3U8 playlists.
+- [OctosPlayer](https://play.google.com/store/apps/details?id=com.octosplayer.octosplayer) - Free multiplatform IPTV player with Xtream Codes login, EPG, favorites, continue-watching, and up to five profiles with a PIN-protected adult filter, synced across smart TVs and Windows.
 
 #### WebOS
 
@@ -320,6 +322,7 @@ Applications with support of IPTV streams.
 - [SS IPTV](https://us.lgappstv.com/main/tvapp/detail?appId=339090) - Smart TV application which provided opportunity of IPTV viewing for its users.
 - [M3U IPTV](https://gb.lgappstv.com/main/tvapp/detail?appId=1167871) - A free, ad-free, registration-free IPTV player designed for simple and smooth M3U playback.
 - [HotPlayer](https://gb.lgappstv.com/main/tvapp/detail?appId=1174867) - A rich & modern media player which supports M3U and Xtream for WebOS.
+- [OctosPlayer](https://us.lgappstv.com/main/tvapp/detail?appId=1297808) - Free multiplatform IPTV player with Xtream Codes login, EPG, favorites, continue-watching, and up to five profiles with a PIN-protected adult filter, synced across smart TVs and Windows.
 
 #### Roku
 
