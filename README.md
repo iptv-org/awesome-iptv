@@ -25,6 +25,7 @@ A curated list of resources related to IPTV.
   - [Xbox](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AXBox)
   - [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Google+Chrome%22)
   - [Docker](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ADocker)
+  - [Python](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3APython)
   - [Node.js](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ANode.js)
 - 🧰 [Tools](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools)
   - [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/tools?discussions_q=is%3Aopen+category%3ATools+label%3AWeb)
