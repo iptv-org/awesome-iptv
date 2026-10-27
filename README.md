@@ -16,6 +16,7 @@ A curated list of resources related to IPTV.
   - [Roku OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Roku+OS%22)
   - [Xbox OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Xbox+OS%22)
   - [Prospero OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Prospero+OS%222)
+  - [Nintendo Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Nintendo+Horizon+OS%22)
   - [Meta Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Meta+Horizon+OS%22)
   - [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AvisionOS)
 - 📺 [Players](https://github.com/iptv-org/awesome-iptv/discussions/categories/players)
