@@ -50,7 +50,7 @@ A curated list of resources related to IPTV.
   - [Meta Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Meta+Horizon+OS%22)
   - [PICO OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22PICO+OS%22)
   - [Android XR](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+XR%22)
-  - [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22visionOS)
+  - [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AvisionOS)
   - [Wear OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Wear+OS%22)
   - [Android Automotive OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+Automotive+OS%22)
   - [Google Chrome](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Google+Chrome%22)
