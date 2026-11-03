@@ -20,6 +20,7 @@ A curated list of resources related to IPTV.
   - [Android XR](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Android+XR%22)
   - [visionOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AvisionOS)
   - [Wear OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Wear+OS%22)
+  - [Android Automotive OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Android+Automotive+OS%22)
 - 📺 [Players](https://github.com/iptv-org/awesome-iptv/discussions/categories/players)
   - [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWeb)
   - [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWindows)
