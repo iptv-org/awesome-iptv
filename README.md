@@ -9,6 +9,7 @@ A curated list of resources related to IPTV.
   - [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3ALinux)
   - [Android TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Android+TV%22)
   - [tvOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AtvOS)
+  - [Tizen OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Tizen+OS%22)
   - [Fire OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Fire+OS%22)
   - [Vega OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Vega+OS%22)
   - [Roku OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Roku+OS%22)
