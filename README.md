@@ -6,9 +6,9 @@ A curated list of resources related to IPTV.
 
 - 📡 [Providers](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers)
 - 🔌 [Devices](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices)
-  - [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3ALinux)
   - [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AWindows)
   - [macOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AmacOS)
+  - [Linux](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3ALinux)
   - [ChromeOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AChromeOS)
   - [HarmonyOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3AHarmonyOS)
   - [Android TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices?discussions_q=is%3Aopen+category%3ADevices+label%3A%22Android+TV%22)
