@@ -4,8 +4,8 @@ A curated list of resources related to IPTV.
 
 ## Contents
 
-- 📡 [Providers](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers)
 - 🔌 [Devices](https://github.com/iptv-org/awesome-iptv/discussions/categories/devices)
+- 📡 [Providers](https://github.com/iptv-org/awesome-iptv/discussions/categories/providers)
 - 📺 [Players](https://github.com/iptv-org/awesome-iptv/discussions/categories/players)
   - [Web](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWeb)
   - [Windows](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWindows)
