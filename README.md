@@ -38,6 +38,7 @@ A curated list of resources related to IPTV.
   - [WhaleOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AWhaleOS)
   - [Xbox OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Xbox+OS%22)
   - [Prospero OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Prospero+OS%22)
+  - [Orbis OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Orbis+OS%22)
   - [Nintendo Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Nintendo+Horizon+OS%22)
   - [SteamOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ASteamOS)
   - [Meta Horizon OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Meta+Horizon+OS%22)
